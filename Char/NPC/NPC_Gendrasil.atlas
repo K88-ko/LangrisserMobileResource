@@ -1,0 +1,90 @@
+
+NPC_Gendrasil.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 1814, 1716
+  size: 87, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 1246, 1390
+  size: 566, 605
+  orig: 566, 605
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 626, 1288
+  size: 618, 707
+  orig: 618, 707
+  offset: 0, 0
+  index: -1
+eye_Normal_1
+  rotate: false
+  xy: 1246, 1313
+  size: 141, 75
+  orig: 141, 75
+  offset: 0, 0
+  index: -1
+eye_Normal_2
+  rotate: false
+  xy: 429, 401
+  size: 141, 75
+  orig: 141, 75
+  offset: 0, 0
+  index: -1
+eye_Normal_3
+  rotate: false
+  xy: 834, 1212
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: true
+  xy: 626, 1184
+  size: 102, 206
+  orig: 102, 206
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 2, 2
+  size: 412, 271
+  orig: 412, 271
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 2, 275
+  size: 425, 907
+  orig: 425, 907
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: false
+  xy: 2, 1184
+  size: 622, 811
+  orig: 622, 811
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: false
+  xy: 429, 478
+  size: 415, 704
+  orig: 415, 704
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1814, 1832
+  size: 154, 163
+  orig: 154, 163
+  offset: 0, 0
+  index: -1
