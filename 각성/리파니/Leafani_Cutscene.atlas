@@ -1,0 +1,258 @@
+
+Leafani_Cutscene.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1764, 705
+  size: 317, 221
+  orig: 317, 221
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 680, 11
+  size: 165, 300
+  orig: 165, 300
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1432, 66
+  size: 179, 154
+  orig: 179, 154
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1790, 396
+  size: 173, 307
+  orig: 173, 307
+  offset: 0, 0
+  index: -1
+body_down_1
+  rotate: true
+  xy: 1138, 38
+  size: 213, 139
+  orig: 213, 139
+  offset: 0, 0
+  index: -1
+body_down_2
+  rotate: true
+  xy: 1710, 211
+  size: 183, 214
+  orig: 183, 214
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 632, 132
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 1498, 683
+  size: 264, 339
+  orig: 264, 339
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1926, 221
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+chest_inner
+  rotate: true
+  xy: 497, 132
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+chest_out
+  rotate: false
+  xy: 1849, 72
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 1987, 879
+  size: 143, 59
+  orig: 143, 59
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 1987, 742
+  size: 135, 59
+  orig: 135, 59
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 1987, 605
+  size: 135, 59
+  orig: 135, 59
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1478, 222
+  size: 214, 230
+  orig: 214, 230
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1965, 432
+  size: 73, 171
+  orig: 73, 171
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1279, 40
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1926, 295
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 982, 30
+  size: 154, 221
+  orig: 154, 221
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 497, 2
+  size: 128, 181
+  orig: 128, 181
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 948, 253
+  size: 223, 152
+  orig: 223, 152
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 2, 262
+  size: 628, 709
+  orig: 628, 709
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1704, 90
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1279, 137
+  size: 151, 184
+  orig: 151, 184
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: false
+  xy: 1613, 14
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: false
+  xy: 1613, 113
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 2, 58
+  size: 202, 493
+  orig: 202, 493
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 1224, 488
+  size: 272, 483
+  orig: 272, 483
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 632, 336
+  size: 314, 635
+  orig: 314, 635
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 948, 407
+  size: 274, 564
+  orig: 274, 564
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: false
+  xy: 2, 42
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_2
+  rotate: true
+  xy: 982, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+qun_1
+  rotate: false
+  xy: 1498, 438
+  size: 290, 243
+  orig: 290, 243
+  offset: 0, 0
+  index: -1
+qun_2
+  rotate: true
+  xy: 1224, 323
+  size: 163, 252
+  orig: 163, 252
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 632, 178
+  size: 156, 308
+  orig: 156, 308
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 2, 973
+  size: 49, 1492
+  orig: 49, 1492
+  offset: 0, 0
+  index: -1
