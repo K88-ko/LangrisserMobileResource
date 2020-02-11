@@ -1,0 +1,503 @@
+
+Jellioru_Cutscene.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jellioru_arm_inner_down
+  rotate: false
+  xy: 656, 391
+  size: 349, 222
+  orig: 349, 222
+  offset: 0, 0
+  index: -1
+Jellioru_arm_inner_up
+  rotate: true
+  xy: 301, 2
+  size: 189, 266
+  orig: 189, 266
+  offset: 0, 0
+  index: -1
+Jellioru_arm_out_down
+  rotate: true
+  xy: 1007, 372
+  size: 335, 219
+  orig: 335, 219
+  offset: 0, 0
+  index: -1
+Jellioru_arm_out_up
+  rotate: true
+  xy: 906, 709
+  size: 382, 292
+  orig: 382, 292
+  offset: 0, 0
+  index: -1
+Jellioru_body_down
+  rotate: true
+  xy: 1517, 23
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+Jellioru_body_up
+  rotate: false
+  xy: 1271, 1488
+  size: 474, 558
+  orig: 474, 558
+  offset: 0, 0
+  index: -1
+Jellioru_eye_A
+  rotate: false
+  xy: 2, 2
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Jellioru_eye_B
+  rotate: true
+  xy: 2009, 1979
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Jellioru_eye_C
+  rotate: false
+  xy: 71, 2
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Jellioru_face
+  rotate: false
+  xy: 1517, 816
+  size: 236, 245
+  orig: 236, 245
+  offset: 0, 0
+  index: -1
+Jellioru_hair_1
+  rotate: false
+  xy: 1908, 896
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+Jellioru_hair_2
+  rotate: false
+  xy: 1608, 105
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+Jellioru_hand_out
+  rotate: true
+  xy: 1445, 283
+  size: 201, 135
+  orig: 201, 135
+  offset: 0, 0
+  index: -1
+Jellioru_hujia
+  rotate: true
+  xy: 1675, 1222
+  size: 264, 245
+  orig: 264, 245
+  offset: 0, 0
+  index: -1
+Jellioru_jianjia_out1
+  rotate: true
+  xy: 1582, 1063
+  size: 157, 273
+  orig: 157, 273
+  offset: 0, 0
+  index: -1
+Jellioru_leg_inner_1
+  rotate: false
+  xy: 825, 49
+  size: 145, 181
+  orig: 145, 181
+  offset: 0, 0
+  index: -1
+Jellioru_leg_inner_down
+  rotate: false
+  xy: 569, 29
+  size: 254, 203
+  orig: 254, 203
+  offset: 0, 0
+  index: -1
+Jellioru_leg_inner_up
+  rotate: true
+  xy: 1768, 554
+  size: 266, 171
+  orig: 266, 171
+  offset: 0, 0
+  index: -1
+Jellioru_leg_out_down0
+  rotate: true
+  xy: 710, 1093
+  size: 136, 520
+  orig: 136, 520
+  offset: 0, 0
+  index: -1
+Jellioru_leg_out_up0
+  rotate: false
+  xy: 1450, 486
+  size: 126, 319
+  orig: 126, 319
+  offset: 0, 0
+  index: -1
+Jellioru_lingzi_1
+  rotate: false
+  xy: 1945, 364
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+Jellioru_lingzi_2
+  rotate: true
+  xy: 1945, 449
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+Jellioru_mouth
+  rotate: true
+  xy: 2009, 1923
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+Jellioru_mouth_1
+  rotate: true
+  xy: 1872, 1499
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+Jellioru_neck
+  rotate: false
+  xy: 874, 232
+  size: 125, 157
+  orig: 125, 157
+  offset: 0, 0
+  index: -1
+Jellioru_pifeng_1
+  rotate: false
+  xy: 2, 203
+  size: 323, 854
+  orig: 323, 854
+  offset: 0, 0
+  index: -1
+Jellioru_pifeng_2
+  rotate: false
+  xy: 710, 1452
+  size: 559, 594
+  orig: 559, 594
+  offset: 0, 0
+  index: -1
+Jellioru_pifeng_3
+  rotate: true
+  xy: 1747, 1559
+  size: 487, 260
+  orig: 487, 260
+  offset: 0, 0
+  index: -1
+Jellioru_pifeng_out
+  rotate: false
+  xy: 2, 1059
+  size: 706, 987
+  orig: 706, 987
+  offset: 0, 0
+  index: -1
+Jellioru_yaojia_inner
+  rotate: false
+  xy: 2, 41
+  size: 297, 160
+  orig: 297, 160
+  offset: 0, 0
+  index: -1
+Jellioru_yaojia_out0
+  rotate: false
+  xy: 327, 479
+  size: 216, 578
+  orig: 216, 578
+  offset: 0, 0
+  index: -1
+Lela_arm_inner_down
+  rotate: false
+  xy: 1827, 343
+  size: 116, 209
+  orig: 116, 209
+  offset: 0, 0
+  index: -1
+Lela_arm_inner_up
+  rotate: false
+  xy: 1755, 822
+  size: 151, 239
+  orig: 151, 239
+  offset: 0, 0
+  index: -1
+Lela_arm_out_down
+  rotate: true
+  xy: 1201, 142
+  size: 148, 188
+  orig: 148, 188
+  offset: 0, 0
+  index: -1
+Lela_arm_out_up
+  rotate: false
+  xy: 1922, 1262
+  size: 98, 295
+  orig: 98, 295
+  offset: 0, 0
+  index: -1
+Lela_body_down
+  rotate: true
+  xy: 327, 193
+  size: 284, 214
+  orig: 284, 214
+  offset: 0, 0
+  index: -1
+Lela_body_up
+  rotate: false
+  xy: 1228, 507
+  size: 220, 298
+  orig: 220, 298
+  offset: 0, 0
+  index: -1
+Lela_chest_1
+  rotate: false
+  xy: 1857, 1073
+  size: 116, 147
+  orig: 116, 147
+  offset: 0, 0
+  index: -1
+Lela_chest_2
+  rotate: true
+  xy: 1599, 9
+  size: 94, 142
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+Lela_eye_normal_A
+  rotate: false
+  xy: 1747, 1499
+  size: 123, 58
+  orig: 123, 58
+  offset: 0, 0
+  index: -1
+Lela_eye_normal_B
+  rotate: true
+  xy: 1989, 1142
+  size: 118, 57
+  orig: 118, 57
+  offset: 0, 0
+  index: -1
+Lela_eye_normal_C
+  rotate: false
+  xy: 1908, 834
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Lela_face
+  rotate: false
+  xy: 1001, 135
+  size: 198, 235
+  orig: 198, 235
+  offset: 0, 0
+  index: -1
+Lela_hair_1
+  rotate: false
+  xy: 1761, 319
+  size: 64, 226
+  orig: 64, 226
+  offset: 0, 0
+  index: -1
+Lela_hair_2
+  rotate: true
+  xy: 710, 1061
+  size: 30, 155
+  orig: 30, 155
+  offset: 0, 0
+  index: -1
+Lela_hair_3
+  rotate: true
+  xy: 1391, 135
+  size: 92, 215
+  orig: 92, 215
+  offset: 0, 0
+  index: -1
+Lela_hair_4
+  rotate: true
+  xy: 1391, 229
+  size: 52, 301
+  orig: 52, 301
+  offset: 0, 0
+  index: -1
+Lela_hair_5
+  rotate: true
+  xy: 972, 54
+  size: 79, 218
+  orig: 79, 218
+  offset: 0, 0
+  index: -1
+Lela_hair_6
+  rotate: false
+  xy: 1941, 690
+  size: 78, 142
+  orig: 78, 142
+  offset: 0, 0
+  index: -1
+Lela_hair_7
+  rotate: true
+  xy: 1201, 36
+  size: 104, 167
+  orig: 104, 167
+  offset: 0, 0
+  index: -1
+Lela_hair_8
+  rotate: false
+  xy: 1200, 807
+  size: 315, 268
+  orig: 315, 268
+  offset: 0, 0
+  index: -1
+Lela_hair_inner_1
+  rotate: true
+  xy: 1232, 1077
+  size: 143, 348
+  orig: 143, 348
+  offset: 0, 0
+  index: -1
+Lela_hair_inner_2
+  rotate: false
+  xy: 656, 615
+  size: 248, 442
+  orig: 248, 442
+  offset: 0, 0
+  index: -1
+Lela_hair_inner_3
+  rotate: true
+  xy: 1271, 1222
+  size: 264, 402
+  orig: 264, 402
+  offset: 0, 0
+  index: -1
+Lela_hair_inner_4
+  rotate: true
+  xy: 543, 234
+  size: 155, 329
+  orig: 155, 329
+  offset: 0, 0
+  index: -1
+Lela_hand_inner
+  rotate: true
+  xy: 1941, 567
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+Lela_hand_out
+  rotate: true
+  xy: 1370, 12
+  size: 121, 145
+  orig: 121, 145
+  offset: 0, 0
+  index: -1
+Lela_leg_inner_down
+  rotate: true
+  xy: 710, 1231
+  size: 219, 547
+  orig: 219, 547
+  offset: 0, 0
+  index: -1
+Lela_leg_inner_up
+  rotate: false
+  xy: 1578, 547
+  size: 188, 267
+  orig: 188, 267
+  offset: 0, 0
+  index: -1
+Lela_leg_out_down0
+  rotate: false
+  xy: 545, 407
+  size: 109, 650
+  orig: 109, 650
+  offset: 0, 0
+  index: -1
+Lela_leg_out_up
+  rotate: true
+  xy: 1582, 283
+  size: 262, 177
+  orig: 262, 177
+  offset: 0, 0
+  index: -1
+Lela_mouth_normal
+  rotate: false
+  xy: 1200, 788
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Lela_mouth_normal_A
+  rotate: false
+  xy: 1200, 769
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Lela_mouth_normal_B
+  rotate: false
+  xy: 972, 189
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+Lela_mouth_normal_C
+  rotate: false
+  xy: 972, 210
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Lela_neck
+  rotate: true
+  xy: 906, 630
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Lela_qiu_FX
+  rotate: false
+  xy: 1228, 292
+  size: 215, 213
+  orig: 215, 213
+  offset: 0, 0
+  index: -1
+Lela_yaojia
+  rotate: false
+  xy: 1827, 230
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 1725, 125
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 1975, 1075
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: false
+  xy: 140, 10
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
