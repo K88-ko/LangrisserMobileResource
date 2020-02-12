@@ -1,0 +1,356 @@
+
+Imelda_Skin02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Imelda/Imelda_Skin02/arminnerdown
+  rotate: true
+  xy: 473, 58
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/arminnerdown1
+  rotate: false
+  xy: 363, 58
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/arminnerdown2
+  rotate: false
+  xy: 363, 28
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/arminnerup
+  rotate: true
+  xy: 475, 167
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/arminnerup1
+  rotate: true
+  xy: 475, 145
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/armoutdown
+  rotate: true
+  xy: 319, 2
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/armoutdown1
+  rotate: false
+  xy: 473, 87
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/armoutup
+  rotate: false
+  xy: 412, 80
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/armoutup1
+  rotate: true
+  xy: 448, 97
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/bao
+  rotate: false
+  xy: 2, 2
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/bao1
+  rotate: true
+  xy: 278, 2
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/bao2
+  rotate: false
+  xy: 448, 61
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/body
+  rotate: true
+  xy: 171, 13
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/erhuanotinner
+  rotate: false
+  xy: 387, 93
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/erhuanout
+  rotate: true
+  xy: 427, 133
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyebrow
+  rotate: false
+  xy: 279, 120
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyehard
+  rotate: false
+  xy: 277, 101
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyehard1
+  rotate: false
+  xy: 277, 82
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyehard2
+  rotate: false
+  xy: 277, 65
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyehard3
+  rotate: false
+  xy: 171, 3
+  size: 58, 8
+  orig: 58, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyesffuer
+  rotate: true
+  xy: 247, 56
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/eyeyun
+  rotate: false
+  xy: 384, 189
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/face
+  rotate: false
+  xy: 170, 159
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/hair
+  rotate: true
+  xy: 242, 14
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/hair1
+  rotate: true
+  xy: 62, 6
+  size: 47, 107
+  orig: 47, 107
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/hair2
+  rotate: true
+  xy: 265, 200
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/hair3
+  rotate: true
+  xy: 170, 61
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/hairinner
+  rotate: false
+  xy: 2, 55
+  size: 166, 199
+  orig: 166, 199
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/handinner
+  rotate: true
+  xy: 405, 135
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/handinner1
+  rotate: false
+  xy: 339, 51
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/handout
+  rotate: false
+  xy: 330, 29
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/handout1
+  rotate: false
+  xy: 412, 105
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/leginnerdown
+  rotate: true
+  xy: 278, 45
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/leginnerdown1
+  rotate: true
+  xy: 278, 25
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/leginnerup
+  rotate: true
+  xy: 355, 135
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/leginnerup1
+  rotate: true
+  xy: 425, 165
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/legoutdown
+  rotate: true
+  xy: 451, 189
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/legoutdown1
+  rotate: true
+  xy: 377, 159
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/legoutup
+  rotate: false
+  xy: 339, 73
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/legoutup1
+  rotate: false
+  xy: 363, 88
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/mouth01
+  rotate: false
+  xy: 375, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/mouth02
+  rotate: false
+  xy: 375, 12
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/mouth03
+  rotate: true
+  xy: 503, 72
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/mouth04
+  rotate: true
+  xy: 507, 127
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/shipin
+  rotate: false
+  xy: 354, 7
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/toushi
+  rotate: false
+  xy: 265, 159
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/weapon
+  rotate: false
+  xy: 384, 218
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/weapon1
+  rotate: false
+  xy: 170, 123
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Skin02/weapon2
+  rotate: false
+  xy: 473, 115
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 279, 132
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

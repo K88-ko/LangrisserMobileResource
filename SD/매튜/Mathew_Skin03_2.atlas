@@ -1,0 +1,412 @@
+
+Mathew_Skin03_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Pike
+  rotate: false
+  xy: 251, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/Animal Bone_legguardinner
+  rotate: true
+  xy: 2, 2
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backleginner
+  rotate: true
+  xy: 519, 367
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backleginner1
+  rotate: true
+  xy: 355, 285
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backleginner2
+  rotate: true
+  xy: 877, 389
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backleginner3
+  rotate: true
+  xy: 588, 370
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backlegout
+  rotate: true
+  xy: 927, 389
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backlegout1
+  rotate: false
+  xy: 814, 372
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backlegout2
+  rotate: false
+  xy: 397, 335
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_backlegout3
+  rotate: true
+  xy: 432, 336
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_body
+  rotate: true
+  xy: 2, 43
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontleginner
+  rotate: false
+  xy: 702, 374
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontleginner1
+  rotate: false
+  xy: 251, 394
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontleginner2
+  rotate: false
+  xy: 976, 384
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontlegout
+  rotate: false
+  xy: 522, 396
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontlegout1
+  rotate: false
+  xy: 517, 455
+  size: 130, 55
+  orig: 130, 55
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_frontlegout2
+  rotate: false
+  xy: 435, 295
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_jawbone
+  rotate: true
+  xy: 185, 275
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_legguardout
+  rotate: false
+  xy: 355, 336
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_saddle
+  rotate: true
+  xy: 262, 279
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/AnimalBone_weiba
+  rotate: true
+  xy: 589, 390
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyebrow
+  rotate: true
+  xy: 1007, 445
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyehard
+  rotate: false
+  xy: 940, 419
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyehard1
+  rotate: false
+  xy: 358, 388
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyehard2
+  rotate: true
+  xy: 1007, 379
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyehard3
+  rotate: false
+  xy: 164, 2
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyesffuer
+  rotate: false
+  xy: 185, 239
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/eyeyun
+  rotate: false
+  xy: 117, 41
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/face
+  rotate: false
+  xy: 2, 228
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin01_2/hair
+  rotate: false
+  xy: 877, 422
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/AnimalBone_Neckguard
+  rotate: true
+  xy: 767, 410
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/AnimalBone_head
+  rotate: true
+  xy: 117, 76
+  size: 150, 137
+  orig: 150, 137
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/AnimalBone_weishi
+  rotate: false
+  xy: 940, 440
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/arminnerdown
+  rotate: false
+  xy: 240, 12
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/arminnerup
+  rotate: false
+  xy: 53, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/armoutdown
+  rotate: true
+  xy: 975, 359
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/armoutup
+  rotate: true
+  xy: 475, 363
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/body
+  rotate: true
+  xy: 640, 375
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/erhuan
+  rotate: false
+  xy: 640, 428
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/guashi
+  rotate: true
+  xy: 132, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/handinner
+  rotate: true
+  xy: 954, 366
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/handout
+  rotate: true
+  xy: 565, 369
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/jianjiainner
+  rotate: true
+  xy: 92, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/jianjiaout
+  rotate: false
+  xy: 449, 399
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/jianjiaoutinner
+  rotate: false
+  xy: 432, 357
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/legoutdown
+  rotate: true
+  xy: 914, 361
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/legoutup
+  rotate: true
+  xy: 870, 359
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/mouth01
+  rotate: false
+  xy: 424, 399
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/mouth02
+  rotate: true
+  xy: 626, 373
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/mouth03
+  rotate: false
+  xy: 185, 228
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/mouth04
+  rotate: true
+  xy: 870, 391
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/pifeng
+  rotate: false
+  xy: 649, 423
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/pifenginner
+  rotate: false
+  xy: 358, 409
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/toushi
+  rotate: false
+  xy: 189, 41
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/weapon
+  rotate: false
+  xy: 2, 394
+  size: 247, 116
+  orig: 247, 116
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/xibai
+  rotate: true
+  xy: 757, 366
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Skin/Mathew_Skin03_2/yaojia
+  rotate: false
+  xy: 392, 289
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 164, 14
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

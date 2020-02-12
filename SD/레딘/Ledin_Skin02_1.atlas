@@ -1,0 +1,342 @@
+
+Ledin_Skin02_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ledin/Ledin_Skin/Ledin_Skin02_1/arminnerdown
+  rotate: true
+  xy: 460, 237
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/arminnerup
+  rotate: false
+  xy: 483, 160
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/armoutdown
+  rotate: false
+  xy: 484, 298
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/armoutup
+  rotate: false
+  xy: 448, 40
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/body
+  rotate: false
+  xy: 226, 103
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/eyebrow
+  rotate: true
+  xy: 409, 119
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/face
+  rotate: false
+  xy: 2, 332
+  size: 176, 178
+  orig: 176, 178
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/fx_1
+  rotate: true
+  xy: 296, 266
+  size: 137, 90
+  orig: 137, 90
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/fx_2
+  rotate: true
+  xy: 85, 183
+  size: 147, 98
+  orig: 147, 98
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/fx_3
+  rotate: false
+  xy: 348, 408
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/fx_4
+  rotate: true
+  xy: 388, 278
+  size: 128, 94
+  orig: 128, 94
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/fx_5
+  rotate: false
+  xy: 85, 100
+  size: 139, 81
+  orig: 139, 81
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/hair1
+  rotate: false
+  xy: 275, 195
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/hair2
+  rotate: false
+  xy: 293, 42
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/hair3
+  rotate: false
+  xy: 203, 17
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/hand_out
+  rotate: true
+  xy: 484, 274
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/handinner
+  rotate: true
+  xy: 449, 114
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/handout
+  rotate: false
+  xy: 367, 14
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/hudang
+  rotate: true
+  xy: 293, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/jianjiainner
+  rotate: true
+  xy: 394, 190
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/jianjiainner1
+  rotate: true
+  xy: 243, 3
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/jianjiaout
+  rotate: true
+  xy: 185, 192
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/leginnerdown
+  rotate: false
+  xy: 445, 191
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/leginnerup
+  rotate: false
+  xy: 447, 72
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/legoutdown
+  rotate: false
+  xy: 449, 146
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/legoutup
+  rotate: false
+  xy: 407, 69
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/mouth01
+  rotate: false
+  xy: 185, 183
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/pifeng
+  rotate: false
+  xy: 2, 2
+  size: 199, 95
+  orig: 199, 95
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/shipin1
+  rotate: true
+  xy: 476, 194
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/toushi
+  rotate: false
+  xy: 180, 405
+  size: 166, 105
+  orig: 166, 105
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/weapon1
+  rotate: true
+  xy: 2, 99
+  size: 231, 81
+  orig: 231, 81
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/weapon2
+  rotate: false
+  xy: 185, 269
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/yaodai
+  rotate: false
+  xy: 394, 237
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/yaojiainner
+  rotate: true
+  xy: 407, 37
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/yaojiainner1
+  rotate: false
+  xy: 243, 27
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/yaojiaout
+  rotate: false
+  xy: 377, 37
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_Skin/Ledin_Skin02_1/yaojiaout1
+  rotate: false
+  xy: 282, 116
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_dj/Ledin_Shield03/jianjiaoutinner
+  rotate: true
+  xy: 377, 63
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyehard
+  rotate: true
+  xy: 429, 122
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyehard1
+  rotate: true
+  xy: 340, 48
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyehard2
+  rotate: true
+  xy: 360, 54
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyehard3
+  rotate: true
+  xy: 386, 120
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyesffuer
+  rotate: true
+  xy: 357, 194
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/eyeyun
+  rotate: true
+  xy: 350, 122
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/mouth02
+  rotate: false
+  xy: 390, 20
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/mouth03
+  rotate: false
+  xy: 275, 14
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_zs/mouth04
+  rotate: true
+  xy: 505, 173
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 484, 332
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+Leonhardt_Skin01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leonhardt/Leonhardt_Skin01/arminnerdown
+  rotate: false
+  xy: 263, 13
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/arminnerup
+  rotate: false
+  xy: 409, 69
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/arminnerup1
+  rotate: false
+  xy: 306, 13
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/armoutdown
+  rotate: false
+  xy: 369, 113
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/armoutdown1
+  rotate: false
+  xy: 331, 61
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/armoutup1
+  rotate: false
+  xy: 377, 67
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/body
+  rotate: true
+  xy: 261, 59
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/face
+  rotate: false
+  xy: 2, 29
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/hair1
+  rotate: true
+  xy: 353, 198
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/hair2
+  rotate: true
+  xy: 78, 5
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/hair3
+  rotate: false
+  xy: 321, 113
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/hairback
+  rotate: false
+  xy: 164, 51
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/handinner
+  rotate: true
+  xy: 164, 2
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/handinner1
+  rotate: false
+  xy: 441, 163
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/handinner2
+  rotate: false
+  xy: 261, 109
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/handinner3
+  rotate: true
+  xy: 466, 78
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/handout
+  rotate: true
+  xy: 139, 3
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/hudang
+  rotate: false
+  xy: 405, 114
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/jianjiaout
+  rotate: false
+  xy: 266, 178
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/jianjiaout1
+  rotate: true
+  xy: 445, 201
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/leginnerdown
+  rotate: false
+  xy: 369, 148
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/leginnerup
+  rotate: false
+  xy: 403, 157
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/legoutdown
+  rotate: false
+  xy: 339, 8
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/legoutup
+  rotate: false
+  xy: 228, 4
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/mouth01
+  rotate: true
+  xy: 504, 239
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/mouth02
+  rotate: true
+  xy: 353, 181
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/mouth03
+  rotate: false
+  xy: 463, 188
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/mouth04
+  rotate: false
+  xy: 263, 2
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/weapon
+  rotate: false
+  xy: 2, 187
+  size: 262, 67
+  orig: 262, 67
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/yaojiainner
+  rotate: false
+  xy: 442, 72
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Leonhardt/Leonhardt_Skin01/yaojiaout
+  rotate: false
+  xy: 439, 114
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
