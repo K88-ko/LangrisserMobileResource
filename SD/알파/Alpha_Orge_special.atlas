@@ -1,0 +1,167 @@
+
+Alpha_Orge_special.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alpha/Alpha_Orge_special/arminnerdown
+  rotate: false
+  xy: 29, 51
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/arminnerup
+  rotate: true
+  xy: 180, 218
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/armoutdown
+  rotate: false
+  xy: 97, 143
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/armoutup
+  rotate: false
+  xy: 253, 331
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/body
+  rotate: false
+  xy: 180, 305
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/dang
+  rotate: false
+  xy: 97, 167
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/handinner
+  rotate: false
+  xy: 449, 423
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/handinner1
+  rotate: false
+  xy: 60, 127
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/handout
+  rotate: false
+  xy: 372, 364
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/handout1
+  rotate: true
+  xy: 429, 410
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/hat
+  rotate: false
+  xy: 2, 196
+  size: 176, 165
+  orig: 176, 165
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/jianjiainner
+  rotate: false
+  xy: 372, 383
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/jianjiaout
+  rotate: false
+  xy: 372, 431
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/leginnerdown
+  rotate: false
+  xy: 229, 311
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/leginnerup
+  rotate: false
+  xy: 2, 2
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/legoutdown
+  rotate: false
+  xy: 180, 250
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/legoutup
+  rotate: false
+  xy: 29, 80
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/weapon
+  rotate: false
+  xy: 2, 363
+  size: 368, 135
+  orig: 368, 135
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/weapon1
+  rotate: false
+  xy: 2, 125
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/yaojia
+  rotate: false
+  xy: 449, 444
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/yaojia1
+  rotate: false
+  xy: 60, 143
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Alpha/Alpha_Orge_special/yaojia3
+  rotate: false
+  xy: 133, 169
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 2, 49
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

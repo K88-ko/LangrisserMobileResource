@@ -1,0 +1,307 @@
+
+Elucia_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elucia/Elucia_Skin01/arminnerdown
+  rotate: false
+  xy: 296, 40
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/arminnerup
+  rotate: true
+  xy: 199, 2
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/armoutdown
+  rotate: true
+  xy: 387, 59
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/armoutup
+  rotate: true
+  xy: 468, 174
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/body
+  rotate: false
+  xy: 278, 156
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyebrow
+  rotate: true
+  xy: 497, 447
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyehard
+  rotate: false
+  xy: 423, 266
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyehard1
+  rotate: false
+  xy: 202, 38
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyehard2
+  rotate: false
+  xy: 423, 239
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyehard3
+  rotate: true
+  xy: 407, 237
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyesffuer
+  rotate: true
+  xy: 390, 171
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/eyeyun
+  rotate: true
+  xy: 359, 170
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/face
+  rotate: false
+  xy: 2, 25
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/hair1
+  rotate: false
+  xy: 374, 125
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/hair2
+  rotate: false
+  xy: 278, 230
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/hair3
+  rotate: false
+  xy: 324, 239
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/hair4
+  rotate: false
+  xy: 342, 352
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/hair6
+  rotate: true
+  xy: 423, 215
+  size: 22, 67
+  orig: 22, 67
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/handinner
+  rotate: false
+  xy: 279, 14
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/handout
+  rotate: false
+  xy: 271, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/leginnerdown
+  rotate: true
+  xy: 231, 4
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/leginnerup
+  rotate: false
+  xy: 387, 80
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/legoutdown
+  rotate: true
+  xy: 420, 175
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/legoutup
+  rotate: false
+  xy: 343, 117
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/mouth01
+  rotate: false
+  xy: 497, 439
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/mouth02
+  rotate: false
+  xy: 309, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/mouth04
+  rotate: false
+  xy: 324, 325
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/peishi
+  rotate: false
+  xy: 202, 64
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/qunzi1
+  rotate: false
+  xy: 353, 64
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/qunzi2
+  rotate: false
+  xy: 296, 61
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/qunzi3
+  rotate: false
+  xy: 342, 306
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/qunzi4
+  rotate: true
+  xy: 368, 237
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/toushi3
+  rotate: false
+  xy: 110, 52
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/toushi4
+  rotate: false
+  xy: 2, 5
+  size: 75, 18
+  orig: 75, 18
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/toushi50
+  rotate: false
+  xy: 2, 156
+  size: 274, 173
+  orig: 274, 173
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/toushi51
+  rotate: false
+  xy: 2, 331
+  size: 338, 179
+  orig: 338, 179
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/weapon
+  rotate: false
+  xy: 2, 117
+  size: 339, 37
+  orig: 339, 37
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/weapon1
+  rotate: false
+  xy: 110, 9
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/weapon2
+  rotate: false
+  xy: 428, 293
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/yaodai1
+  rotate: true
+  xy: 492, 254
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/yaodai2
+  rotate: true
+  xy: 279, 2
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_Skin01/yaodai3
+  rotate: false
+  xy: 79, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 332, 163
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

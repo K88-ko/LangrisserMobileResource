@@ -1,0 +1,342 @@
+
+Brenda_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brenda/Brenda_Skin01_1/arminnerdown
+  rotate: false
+  xy: 392, 183
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/arminnerup
+  rotate: true
+  xy: 445, 203
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/armoutdown
+  rotate: true
+  xy: 440, 171
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/armoutup
+  rotate: false
+  xy: 231, 33
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/body
+  rotate: false
+  xy: 153, 65
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyebrow
+  rotate: true
+  xy: 500, 445
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyehard
+  rotate: true
+  xy: 229, 213
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyehard1
+  rotate: false
+  xy: 153, 37
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyehard2
+  rotate: false
+  xy: 407, 244
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyehard3
+  rotate: false
+  xy: 331, 250
+  size: 74, 14
+  orig: 74, 14
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyesffuer
+  rotate: false
+  xy: 324, 220
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/eyeyun
+  rotate: false
+  xy: 331, 266
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/face
+  rotate: false
+  xy: 2, 144
+  size: 124, 145
+  orig: 124, 145
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair1
+  rotate: true
+  xy: 411, 292
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair2
+  rotate: true
+  xy: 247, 302
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair4
+  rotate: false
+  xy: 424, 182
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair5
+  rotate: true
+  xy: 257, 209
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair6
+  rotate: false
+  xy: 274, 145
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair7
+  rotate: false
+  xy: 111, 41
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hair8
+  rotate: false
+  xy: 355, 295
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/hairback
+  rotate: false
+  xy: 2, 33
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/handinner
+  rotate: false
+  xy: 474, 178
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/handout
+  rotate: false
+  xy: 229, 189
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/handout2
+  rotate: true
+  xy: 86, 7
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/leginnerdown
+  rotate: false
+  xy: 485, 245
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/leginnerup
+  rotate: false
+  xy: 370, 177
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/legoutdown
+  rotate: true
+  xy: 324, 190
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/legoutup
+  rotate: false
+  xy: 236, 143
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/lingzi
+  rotate: true
+  xy: 217, 78
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/lingzi2
+  rotate: false
+  xy: 2, 2
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/maozi
+  rotate: false
+  xy: 2, 403
+  size: 274, 107
+  orig: 274, 107
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/maozi2
+  rotate: false
+  xy: 411, 377
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/mouth01
+  rotate: true
+  xy: 503, 312
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/mouth02
+  rotate: true
+  xy: 411, 418
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/mouth04
+  rotate: false
+  xy: 331, 295
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/pifenginner
+  rotate: false
+  xy: 278, 437
+  size: 147, 73
+  orig: 147, 73
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/pifengout
+  rotate: false
+  xy: 128, 189
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/pifengout2
+  rotate: false
+  xy: 252, 189
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/pifengout3
+  rotate: true
+  xy: 411, 328
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/qunzi
+  rotate: false
+  xy: 257, 252
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/sidai
+  rotate: true
+  xy: 398, 218
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/tpiushi1
+  rotate: true
+  xy: 427, 413
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/tpiushi2
+  rotate: false
+  xy: 278, 388
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/tpiushi3
+  rotate: false
+  xy: 128, 131
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/weapon
+  rotate: false
+  xy: 2, 291
+  size: 243, 110
+  orig: 243, 110
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/xianglian
+  rotate: true
+  xy: 485, 200
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_Skin01_1/yaodai
+  rotate: false
+  xy: 276, 186
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+Brenda/Shadow
+  rotate: false
+  xy: 408, 265
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

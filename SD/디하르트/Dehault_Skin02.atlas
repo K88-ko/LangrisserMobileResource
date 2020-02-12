@@ -1,0 +1,489 @@
+
+Dehault_Skin02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dehault/Dehault_Skin02/arminnerdown1
+  rotate: true
+  xy: 953, 386
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/arminnerdown2
+  rotate: false
+  xy: 712, 251
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/arminnerup
+  rotate: false
+  xy: 732, 247
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/armoutdown1
+  rotate: true
+  xy: 761, 367
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/armoutdown2
+  rotate: true
+  xy: 369, 68
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/armoutup
+  rotate: false
+  xy: 758, 288
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/body
+  rotate: true
+  xy: 565, 289
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/daiziout
+  rotate: false
+  xy: 398, 47
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/daiziout1
+  rotate: false
+  xy: 857, 295
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/daiziout2
+  rotate: true
+  xy: 923, 361
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/erhuan
+  rotate: true
+  xy: 222, 68
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyebrow
+  rotate: false
+  xy: 108, 2
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyehard
+  rotate: true
+  xy: 378, 5
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyehard1
+  rotate: false
+  xy: 555, 229
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyehard2
+  rotate: false
+  xy: 477, 225
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyehard3
+  rotate: false
+  xy: 180, 2
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyesffuer
+  rotate: true
+  xy: 732, 274
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/eyeyun
+  rotate: false
+  xy: 819, 331
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/face
+  rotate: true
+  xy: 236, 177
+  size: 153, 125
+  orig: 153, 125
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi1
+  rotate: true
+  xy: 222, 11
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi10
+  rotate: true
+  xy: 395, 88
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi11
+  rotate: true
+  xy: 417, 238
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi12
+  rotate: true
+  xy: 761, 331
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi2
+  rotate: false
+  xy: 398, 27
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi3
+  rotate: true
+  xy: 363, 308
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi4
+  rotate: false
+  xy: 363, 178
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi5
+  rotate: true
+  xy: 880, 302
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi6
+  rotate: false
+  xy: 623, 244
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi7
+  rotate: true
+  xy: 882, 329
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi8
+  rotate: false
+  xy: 512, 189
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashi9
+  rotate: true
+  xy: 395, 73
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/guashiout
+  rotate: false
+  xy: 854, 263
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair
+  rotate: true
+  xy: 820, 361
+  size: 29, 101
+  orig: 29, 101
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair1
+  rotate: true
+  xy: 641, 285
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair2
+  rotate: false
+  xy: 236, 68
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair3
+  rotate: true
+  xy: 384, 293
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair4
+  rotate: false
+  xy: 650, 432
+  size: 168, 78
+  orig: 168, 78
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair5
+  rotate: true
+  xy: 555, 249
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hair6
+  rotate: true
+  xy: 477, 243
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/hairinner
+  rotate: false
+  xy: 542, 356
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/handinner
+  rotate: false
+  xy: 758, 258
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/handout
+  rotate: true
+  xy: 463, 194
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/horse_guajian1
+  rotate: false
+  xy: 953, 428
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/horse_head
+  rotate: true
+  xy: 820, 392
+  size: 118, 131
+  orig: 118, 131
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/horse_maan
+  rotate: true
+  xy: 647, 338
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/legoutdown
+  rotate: true
+  xy: 806, 269
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/legoutup
+  rotate: true
+  xy: 674, 254
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/mouth01
+  rotate: true
+  xy: 398, 5
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/mouth02
+  rotate: false
+  xy: 363, 294
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/mouth03
+  rotate: false
+  xy: 953, 373
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/mouth04
+  rotate: false
+  xy: 180, 11
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/toushi
+  rotate: true
+  xy: 369, 105
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/toushiinner
+  rotate: false
+  xy: 805, 295
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/weapon
+  rotate: false
+  xy: 2, 332
+  size: 380, 178
+  orig: 380, 178
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/xiabainner
+  rotate: false
+  xy: 421, 193
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/xiabaiout
+  rotate: true
+  xy: 323, 9
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/yaodai
+  rotate: false
+  xy: 639, 249
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/yaojiaout
+  rotate: true
+  xy: 941, 370
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Skin02/zhuzi
+  rotate: false
+  xy: 2, 79
+  size: 232, 251
+  orig: 232, 251
+  offset: 0, 0
+  index: -1
+Leon/Leon_1/horse_neck
+  rotate: true
+  xy: 2, 4
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: false
+  xy: 426, 96
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: true
+  xy: 477, 289
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: false
+  xy: 384, 356
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: false
+  xy: 426, 143
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: false
+  xy: 363, 221
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 108, 16
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 384, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 641, 350
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 399, 102
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

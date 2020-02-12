@@ -1,0 +1,342 @@
+
+Eggbert_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eggbert/Eggbert_Skin01/arminnerdown
+  rotate: true
+  xy: 78, 51
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/arminnerup
+  rotate: false
+  xy: 108, 50
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/armoutdown
+  rotate: true
+  xy: 185, 230
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/armoutup
+  rotate: false
+  xy: 373, 329
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/body
+  rotate: true
+  xy: 442, 457
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/body1
+  rotate: true
+  xy: 78, 93
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/eyehard
+  rotate: true
+  xy: 108, 83
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/eyehard2
+  rotate: true
+  xy: 121, 83
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/eyesffuer
+  rotate: false
+  xy: 225, 349
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/eyeyun
+  rotate: false
+  xy: 83, 187
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/face
+  rotate: false
+  xy: 2, 318
+  size: 94, 192
+  orig: 94, 192
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu1
+  rotate: false
+  xy: 238, 240
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu2
+  rotate: true
+  xy: 227, 293
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu3
+  rotate: false
+  xy: 436, 326
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu4
+  rotate: false
+  xy: 362, 436
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu5
+  rotate: true
+  xy: 2, 57
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/gu6
+  rotate: false
+  xy: 281, 434
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/handinner
+  rotate: false
+  xy: 105, 28
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/handout
+  rotate: false
+  xy: 335, 306
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi1
+  rotate: true
+  xy: 276, 291
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi10
+  rotate: false
+  xy: 374, 359
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi11
+  rotate: true
+  xy: 2, 2
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi12
+  rotate: false
+  xy: 83, 228
+  size: 11, 88
+  orig: 11, 88
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi13
+  rotate: false
+  xy: 2, 136
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi14
+  rotate: true
+  xy: 368, 384
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi15
+  rotate: false
+  xy: 185, 266
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi16
+  rotate: false
+  xy: 225, 372
+  size: 54, 138
+  orig: 54, 138
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi17
+  rotate: false
+  xy: 282, 329
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi18
+  rotate: false
+  xy: 161, 332
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi2
+  rotate: true
+  xy: 442, 407
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi3
+  rotate: false
+  xy: 161, 351
+  size: 62, 159
+  orig: 62, 159
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi4
+  rotate: false
+  xy: 98, 341
+  size: 61, 169
+  orig: 61, 169
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi5
+  rotate: false
+  xy: 281, 384
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi6
+  rotate: false
+  xy: 68, 191
+  size: 13, 125
+  orig: 13, 125
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi7
+  rotate: false
+  xy: 96, 212
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi8
+  rotate: false
+  xy: 98, 318
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/jiazi9
+  rotate: false
+  xy: 96, 233
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/leginnerdown
+  rotate: false
+  xy: 350, 334
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/leginnerup
+  rotate: false
+  xy: 76, 8
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/legoutdown
+  rotate: true
+  xy: 227, 273
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/legoutup
+  rotate: false
+  xy: 116, 142
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/mouth01
+  rotate: false
+  xy: 407, 346
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/mouth02
+  rotate: true
+  xy: 142, 187
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/mouth03
+  rotate: false
+  xy: 407, 335
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/shipin
+  rotate: false
+  xy: 68, 143
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/weapon
+  rotate: true
+  xy: 281, 374
+  size: 8, 91
+  orig: 8, 91
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Skin01/weapon2
+  rotate: false
+  xy: 140, 233
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 436, 380
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

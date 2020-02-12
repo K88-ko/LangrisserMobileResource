@@ -1,0 +1,286 @@
+
+Emilia_Skin01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Emilia/Emilia_RoyalGuardian/Emilia_RoyalGuardian_2/Shadow
+  rotate: false
+  xy: 577, 322
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_RoyalGuardian/Emilia_RoyalGuardian_3/jianjiaout1
+  rotate: false
+  xy: 2, 2
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/arminnerdown
+  rotate: false
+  xy: 880, 348
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/arminnerup
+  rotate: true
+  xy: 841, 346
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/armoutdown
+  rotate: false
+  xy: 558, 179
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/armoutup
+  rotate: true
+  xy: 713, 347
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/body
+  rotate: false
+  xy: 508, 149
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyebrow
+  rotate: false
+  xy: 915, 378
+  size: 71, 7
+  orig: 71, 7
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyehard
+  rotate: false
+  xy: 575, 349
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyehard1
+  rotate: false
+  xy: 644, 349
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyehard2
+  rotate: false
+  xy: 577, 296
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyehard3
+  rotate: false
+  xy: 438, 137
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyesffuer
+  rotate: false
+  xy: 577, 230
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/eyeyun
+  rotate: false
+  xy: 577, 262
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/face
+  rotate: false
+  xy: 245, 58
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/fx_trail
+  rotate: false
+  xy: 2, 191
+  size: 319, 319
+  orig: 319, 319
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair
+  rotate: false
+  xy: 370, 125
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair1
+  rotate: true
+  xy: 334, 14
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair2
+  rotate: false
+  xy: 370, 65
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair3
+  rotate: false
+  xy: 636, 267
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair4
+  rotate: false
+  xy: 508, 213
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair5
+  rotate: true
+  xy: 575, 384
+  size: 126, 174
+  orig: 126, 174
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hair6
+  rotate: false
+  xy: 915, 387
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/handinner
+  rotate: false
+  xy: 988, 355
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/handout
+  rotate: false
+  xy: 558, 149
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/hat
+  rotate: false
+  xy: 323, 348
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/jianjiainner
+  rotate: true
+  xy: 377, 15
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/jianjiaout
+  rotate: false
+  xy: 438, 147
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/leginnerdown
+  rotate: true
+  xy: 799, 347
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/leginnerup
+  rotate: false
+  xy: 415, 86
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/legoutdown
+  rotate: true
+  xy: 751, 352
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/legoutup
+  rotate: true
+  xy: 653, 323
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/mouth01
+  rotate: true
+  xy: 1018, 498
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/mouth02
+  rotate: false
+  xy: 698, 339
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/mouth03
+  rotate: false
+  xy: 39, 7
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/mouth04
+  rotate: false
+  xy: 415, 70
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/pifeng
+  rotate: false
+  xy: 751, 377
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/qunzi
+  rotate: false
+  xy: 245, 14
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/weapon
+  rotate: true
+  xy: 2, 14
+  size: 175, 241
+  orig: 175, 241
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Skin/Emilia_Skin01/weapon1
+  rotate: true
+  xy: 323, 195
+  size: 151, 183
+  orig: 151, 183
+  offset: 0, 0
+  index: -1

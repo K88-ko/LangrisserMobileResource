@@ -1,0 +1,461 @@
+
+Barnhart_Skin02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barnhart/Barnhart_Skin02/arminnerdown
+  rotate: false
+  xy: 979, 669
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/arminnerdown1
+  rotate: true
+  xy: 748, 214
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/arminnerup
+  rotate: false
+  xy: 786, 461
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/armoutdown
+  rotate: false
+  xy: 439, 141
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/armoutup
+  rotate: true
+  xy: 661, 189
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/body
+  rotate: false
+  xy: 444, 177
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/body1
+  rotate: true
+  xy: 345, 192
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/daizi
+  rotate: false
+  xy: 235, 195
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/daizi2
+  rotate: true
+  xy: 994, 863
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/daizi3
+  rotate: true
+  xy: 822, 513
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/daizi4
+  rotate: false
+  xy: 748, 756
+  size: 193, 49
+  orig: 193, 49
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/dizi
+  rotate: false
+  xy: 490, 141
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/dizi1
+  rotate: false
+  xy: 951, 591
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 135, 26
+  orig: 135, 26
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyehard
+  rotate: true
+  xy: 962, 690
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyehard2
+  rotate: false
+  xy: 883, 619
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyehard3
+  rotate: false
+  xy: 340, 107
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyesffuer
+  rotate: false
+  xy: 526, 198
+  size: 133, 40
+  orig: 133, 40
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/eyeyun
+  rotate: false
+  xy: 761, 569
+  size: 133, 39
+  orig: 133, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/face
+  rotate: false
+  xy: 761, 610
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/hair1
+  rotate: true
+  xy: 578, 155
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/hair2
+  rotate: false
+  xy: 943, 756
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/hairinner
+  rotate: false
+  xy: 632, 573
+  size: 127, 164
+  orig: 127, 164
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/handinner
+  rotate: false
+  xy: 784, 325
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/handinner1
+  rotate: true
+  xy: 987, 591
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/handinner2
+  rotate: false
+  xy: 526, 157
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/handout
+  rotate: false
+  xy: 962, 627
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/handout1
+  rotate: true
+  xy: 786, 362
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/jianjiainner
+  rotate: false
+  xy: 340, 118
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/jianjiaout
+  rotate: false
+  xy: 235, 11
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/leginnerdown
+  rotate: false
+  xy: 786, 400
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/leginnerup
+  rotate: false
+  xy: 748, 253
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/legoutdown
+  rotate: false
+  xy: 979, 748
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/legoutup
+  rotate: true
+  xy: 896, 576
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/mouth01
+  rotate: true
+  xy: 235, 283
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/mouth02
+  rotate: true
+  xy: 413, 148
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/mouth03
+  rotate: false
+  xy: 526, 145
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/mouth04
+  rotate: true
+  xy: 526, 240
+  size: 32, 7
+  orig: 32, 7
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/pifeng
+  rotate: false
+  xy: 934, 810
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/pifeng1
+  rotate: true
+  xy: 536, 358
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/pifeng2
+  rotate: false
+  xy: 748, 807
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/pijian
+  rotate: false
+  xy: 632, 512
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao
+  rotate: false
+  xy: 235, 82
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao1
+  rotate: false
+  xy: 748, 927
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao2
+  rotate: true
+  xy: 308, 99
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao3
+  rotate: true
+  xy: 536, 240
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao4
+  rotate: true
+  xy: 536, 512
+  size: 225, 94
+  orig: 225, 94
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao5
+  rotate: true
+  xy: 2, 328
+  size: 412, 253
+  orig: 412, 253
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao6
+  rotate: false
+  xy: 2, 742
+  size: 403, 275
+  orig: 403, 275
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao7
+  rotate: false
+  xy: 407, 739
+  size: 339, 278
+  orig: 339, 278
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/texiao8
+  rotate: false
+  xy: 663, 380
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/toushi
+  rotate: true
+  xy: 2, 30
+  size: 296, 231
+  orig: 296, 231
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/weapon_1
+  rotate: true
+  xy: 257, 277
+  size: 463, 91
+  orig: 463, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/weapon_2
+  rotate: true
+  xy: 350, 274
+  size: 463, 91
+  orig: 463, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/weapon_3
+  rotate: true
+  xy: 443, 274
+  size: 463, 91
+  orig: 463, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiinner
+  rotate: false
+  xy: 837, 462
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiinner1
+  rotate: true
+  xy: 664, 228
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiinner2
+  rotate: true
+  xy: 883, 634
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiout
+  rotate: false
+  xy: 739, 513
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiout1
+  rotate: false
+  xy: 664, 300
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/xiabaiout2
+  rotate: true
+  xy: 980, 935
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/yaodai
+  rotate: true
+  xy: 994, 821
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/yaojia
+  rotate: false
+  xy: 979, 705
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Skin02/yaojia2
+  rotate: false
+  xy: 742, 309
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 139, 3
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

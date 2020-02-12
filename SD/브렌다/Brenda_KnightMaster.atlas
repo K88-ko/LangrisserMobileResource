@@ -1,0 +1,356 @@
+
+Brenda_KnightMaster.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/armoutdown
+  rotate: true
+  xy: 457, 119
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/armoutup
+  rotate: true
+  xy: 453, 84
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/body
+  rotate: false
+  xy: 224, 169
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyebrow
+  rotate: false
+  xy: 2, 4
+  size: 60, 9
+  orig: 60, 9
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyehard
+  rotate: true
+  xy: 114, 75
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyehard1
+  rotate: true
+  xy: 114, 6
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyehard2
+  rotate: true
+  xy: 190, 5
+  size: 65, 16
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyehard3
+  rotate: false
+  xy: 224, 108
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyesffuer
+  rotate: true
+  xy: 137, 6
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/eyeyun
+  rotate: true
+  xy: 164, 4
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/face
+  rotate: false
+  xy: 2, 15
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair1
+  rotate: true
+  xy: 382, 363
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair2
+  rotate: false
+  xy: 148, 168
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair3
+  rotate: true
+  xy: 355, 170
+  size: 88, 42
+  orig: 88, 42
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair4
+  rotate: false
+  xy: 491, 87
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair5
+  rotate: true
+  xy: 137, 72
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair6
+  rotate: false
+  xy: 478, 148
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair7
+  rotate: false
+  xy: 462, 336
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair8
+  rotate: true
+  xy: 399, 165
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/hair9
+  rotate: true
+  xy: 160, 262
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/handinnerdown
+  rotate: false
+  xy: 224, 81
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/handinnerup
+  rotate: false
+  xy: 208, 47
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/horse_tuijia
+  rotate: true
+  xy: 405, 417
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/horse_xiongjia
+  rotate: true
+  xy: 288, 421
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/jianjiainner
+  rotate: true
+  xy: 352, 107
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/jianjiainnerdown
+  rotate: false
+  xy: 441, 281
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/jianjiaout
+  rotate: true
+  xy: 395, 280
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/jianjiaoutdown
+  rotate: false
+  xy: 224, 122
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/legout
+  rotate: true
+  xy: 137, 111
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/lingzi
+  rotate: true
+  xy: 393, 127
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/mouth01
+  rotate: false
+  xy: 457, 157
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/mouth02
+  rotate: false
+  xy: 441, 352
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/mouth04
+  rotate: false
+  xy: 268, 421
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/weapon
+  rotate: false
+  xy: 2, 426
+  size: 284, 84
+  orig: 284, 84
+  offset: 0, 0
+  index: -1
+Brenda/Brenda_KnightMaster/Brenda_KnightMaster_3/weapon2
+  rotate: true
+  xy: 125, 147
+  size: 121, 21
+  orig: 121, 21
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: false
+  xy: 478, 184
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: false
+  xy: 288, 179
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: false
+  xy: 2, 270
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: false
+  xy: 478, 231
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: false
+  xy: 298, 107
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: false
+  xy: 206, 92
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: true
+  xy: 356, 260
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_head
+  rotate: false
+  xy: 2, 144
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 264, 267
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck
+  rotate: false
+  xy: 399, 201
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: true
+  xy: 393, 104
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 208, 12
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 268, 358
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 365
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 148, 141
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
