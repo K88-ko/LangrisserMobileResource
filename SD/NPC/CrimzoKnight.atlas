@@ -1,0 +1,90 @@
+
+CrimzoKnight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CrimzoKnight/CrimzoKnight/Shadow
+  rotate: true
+  xy: 464, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/eye
+  rotate: false
+  xy: 491, 499
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/fx
+  rotate: false
+  xy: 198, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/head
+  rotate: false
+  xy: 198, 350
+  size: 116, 160
+  orig: 116, 160
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/lingzi
+  rotate: false
+  xy: 316, 403
+  size: 146, 107
+  orig: 146, 107
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/lingziinner
+  rotate: true
+  xy: 156, 223
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/weijin
+  rotate: false
+  xy: 2, 184
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/xiabai
+  rotate: false
+  xy: 2, 331
+  size: 194, 179
+  orig: 194, 179
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/xiabaiinner
+  rotate: true
+  xy: 2, 16
+  size: 53, 143
+  orig: 53, 143
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/xiongjia
+  rotate: false
+  xy: 2, 71
+  size: 144, 111
+  orig: 144, 111
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/xiuxiout
+  rotate: true
+  xy: 316, 298
+  size: 103, 141
+  orig: 103, 141
+  offset: 0, 0
+  index: -1
+CrimzoKnight/CrimzoKnight/xiuxiout1
+  rotate: true
+  xy: 156, 130
+  size: 91, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1

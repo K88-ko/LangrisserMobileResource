@@ -1,0 +1,279 @@
+
+Omega_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Omega/Omega_Assassin/Omega_Assassin2/eyebrow
+  rotate: false
+  xy: 411, 320
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyehard
+  rotate: false
+  xy: 335, 299
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyehard1
+  rotate: false
+  xy: 113, 243
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyehard2
+  rotate: false
+  xy: 411, 307
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyehard3
+  rotate: true
+  xy: 178, 196
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyesffuer
+  rotate: true
+  xy: 257, 243
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/eyeyun
+  rotate: false
+  xy: 2, 5
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/hair1
+  rotate: false
+  xy: 2, 250
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/hair2
+  rotate: false
+  xy: 2, 124
+  size: 75, 124
+  orig: 75, 124
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth01
+  rotate: false
+  xy: 189, 194
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth02
+  rotate: false
+  xy: 146, 180
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth03
+  rotate: false
+  xy: 118, 118
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth04
+  rotate: false
+  xy: 400, 299
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/arminnerdown
+  rotate: true
+  xy: 71, 34
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/arminnerup
+  rotate: false
+  xy: 79, 124
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/armoutdown
+  rotate: false
+  xy: 118, 134
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/armoutup
+  rotate: false
+  xy: 282, 222
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/body
+  rotate: false
+  xy: 2, 35
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/bodyinner
+  rotate: false
+  xy: 190, 303
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/daizi
+  rotate: false
+  xy: 110, 175
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/daizi1
+  rotate: true
+  xy: 79, 173
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/face
+  rotate: true
+  xy: 339, 343
+  size: 167, 171
+  orig: 167, 171
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/guashi
+  rotate: false
+  xy: 137, 118
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/handinner
+  rotate: true
+  xy: 253, 216
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/handout
+  rotate: true
+  xy: 483, 303
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/jiajiainner
+  rotate: true
+  xy: 332, 265
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/jianjiaout
+  rotate: false
+  xy: 282, 305
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/leginnerdown
+  rotate: true
+  xy: 62, 2
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/leginnerup
+  rotate: false
+  xy: 144, 197
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/legoutdown
+  rotate: false
+  xy: 110, 192
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/legoutup
+  rotate: false
+  xy: 189, 207
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/weapon
+  rotate: false
+  xy: 2, 355
+  size: 335, 155
+  orig: 335, 155
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/xiabaiinner
+  rotate: true
+  xy: 71, 75
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/xiabaiinner1
+  rotate: true
+  xy: 227, 213
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/xiabaiout
+  rotate: false
+  xy: 282, 262
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/yibaiinner
+  rotate: true
+  xy: 190, 252
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/yibaiout
+  rotate: false
+  xy: 113, 260
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+Omega/Omega_Skin/Omega_SKin_01/yibaiout1
+  rotate: false
+  xy: 387, 274
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 335, 316
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+Wiler_Skin01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 389, 166
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/arminner1
+  rotate: false
+  xy: 461, 90
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/arminner2
+  rotate: false
+  xy: 360, 41
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/armout1
+  rotate: false
+  xy: 360, 76
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/armout2
+  rotate: false
+  xy: 461, 64
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/body
+  rotate: true
+  xy: 289, 116
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyehard
+  rotate: false
+  xy: 396, 148
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyehard1
+  rotate: false
+  xy: 106, 2
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyehard2
+  rotate: false
+  xy: 396, 132
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyehard3
+  rotate: false
+  xy: 396, 122
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyesffuer
+  rotate: false
+  xy: 289, 89
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/eyeyun
+  rotate: true
+  xy: 106, 40
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/face
+  rotate: false
+  xy: 289, 165
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/hair2
+  rotate: false
+  xy: 223, 95
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/hair3
+  rotate: false
+  xy: 198, 22
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/hair4
+  rotate: true
+  xy: 389, 193
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/hairback
+  rotate: false
+  xy: 2, 111
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/handinner1
+  rotate: true
+  xy: 430, 84
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/handout
+  rotate: true
+  xy: 384, 9
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/hatout
+  rotate: false
+  xy: 142, 156
+  size: 145, 98
+  orig: 145, 98
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/jianjiainner
+  rotate: true
+  xy: 349, 9
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/jianjiaout
+  rotate: false
+  xy: 239, 38
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/leginnerdown
+  rotate: false
+  xy: 239, 2
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/leginnerup
+  rotate: false
+  xy: 285, 2
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/legoutdown
+  rotate: false
+  xy: 400, 81
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/legoutup
+  rotate: false
+  xy: 314, 9
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/mouth01
+  rotate: false
+  xy: 314, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/mouth02
+  rotate: true
+  xy: 264, 12
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/mouth04
+  rotate: true
+  xy: 134, 88
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/page1
+  rotate: false
+  xy: 495, 233
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/page2
+  rotate: false
+  xy: 400, 59
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/page3
+  rotate: false
+  xy: 172, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/page4
+  rotate: false
+  xy: 462, 113
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/page5
+  rotate: false
+  xy: 347, 67
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/pifeng
+  rotate: false
+  xy: 2, 14
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/qunzi
+  rotate: true
+  xy: 363, 114
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/shipin
+  rotate: false
+  xy: 285, 50
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/weapon
+  rotate: false
+  xy: 142, 81
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/yaojiainner
+  rotate: false
+  xy: 465, 135
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Wiler/Wiler_Skin01/yaojiaout
+  rotate: true
+  xy: 134, 23
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1

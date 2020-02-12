@@ -1,0 +1,251 @@
+
+Ivar_Magic.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ivar/Magic/Ivar_Magic3/arminner1
+  rotate: false
+  xy: 212, 2
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/arminner2
+  rotate: false
+  xy: 439, 166
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/armout1
+  rotate: true
+  xy: 410, 155
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/armout2
+  rotate: false
+  xy: 374, 155
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/body
+  rotate: true
+  xy: 287, 189
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/daizi
+  rotate: false
+  xy: 470, 159
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyebrow
+  rotate: false
+  xy: 434, 217
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyehard
+  rotate: false
+  xy: 366, 195
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyehard1
+  rotate: false
+  xy: 150, 34
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyehard2
+  rotate: false
+  xy: 212, 36
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyehard3
+  rotate: false
+  xy: 434, 205
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyesffuer
+  rotate: false
+  xy: 74, 7
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/eyeyun
+  rotate: false
+  xy: 434, 234
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/face
+  rotate: false
+  xy: 163, 53
+  size: 121, 136
+  orig: 121, 136
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/hair
+  rotate: true
+  xy: 336, 122
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/handinner1
+  rotate: false
+  xy: 470, 178
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/handinner2
+  rotate: false
+  xy: 146, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/handout
+  rotate: false
+  xy: 172, 11
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/jianjiainner
+  rotate: false
+  xy: 286, 141
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/jianjiaout
+  rotate: false
+  xy: 2, 5
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/leginnerdown
+  rotate: true
+  xy: 374, 110
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/leginnerup
+  rotate: false
+  xy: 336, 147
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/legoutdown
+  rotate: false
+  xy: 334, 55
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/legoutup
+  rotate: true
+  xy: 286, 55
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/mouth01
+  rotate: false
+  xy: 368, 97
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/mouth02
+  rotate: true
+  xy: 418, 129
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/mouth03
+  rotate: false
+  xy: 439, 158
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/pifeng
+  rotate: false
+  xy: 2, 55
+  size: 159, 134
+  orig: 159, 134
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/pijianinner
+  rotate: true
+  xy: 252, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/pijianout
+  rotate: false
+  xy: 366, 214
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/weapon
+  rotate: false
+  xy: 2, 191
+  size: 283, 63
+  orig: 283, 63
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/xiongshi
+  rotate: false
+  xy: 374, 133
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/yibaiinner
+  rotate: true
+  xy: 332, 94
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Ivar/Magic/Ivar_Magic3/yibaiout
+  rotate: false
+  xy: 286, 94
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 74, 28
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

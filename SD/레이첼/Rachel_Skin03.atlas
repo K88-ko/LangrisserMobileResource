@@ -1,0 +1,342 @@
+
+Rachel_Skin03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rachel/Rachel_Skin/Rachel_Skin03/Shadow
+  rotate: true
+  xy: 414, 281
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/arminnerdown
+  rotate: false
+  xy: 448, 195
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/arminnerup
+  rotate: true
+  xy: 414, 241
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/armoutdown
+  rotate: false
+  xy: 447, 174
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/armoutup
+  rotate: false
+  xy: 164, 3
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/body
+  rotate: false
+  xy: 235, 180
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyeborw
+  rotate: false
+  xy: 441, 302
+  size: 69, 10
+  orig: 69, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyehard
+  rotate: false
+  xy: 439, 441
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyehard1
+  rotate: false
+  xy: 441, 314
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyehard2
+  rotate: false
+  xy: 109, 89
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyehard3
+  rotate: false
+  xy: 441, 283
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyesffuer
+  rotate: false
+  xy: 439, 375
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/eyeyun
+  rotate: false
+  xy: 441, 344
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/face
+  rotate: false
+  xy: 2, 366
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/fx_1
+  rotate: true
+  xy: 119, 177
+  size: 77, 114
+  orig: 77, 114
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/fx_2
+  rotate: false
+  xy: 257, 343
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/fx_3
+  rotate: true
+  xy: 245, 255
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hair1
+  rotate: true
+  xy: 2, 225
+  size: 139, 115
+  orig: 139, 115
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hair2
+  rotate: true
+  xy: 109, 109
+  size: 66, 111
+  orig: 66, 111
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hair3
+  rotate: false
+  xy: 303, 161
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hair4
+  rotate: true
+  xy: 127, 443
+  size: 67, 173
+  orig: 67, 173
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hair5
+  rotate: false
+  xy: 119, 256
+  size: 124, 99
+  orig: 124, 99
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/handinner2
+  rotate: false
+  xy: 184, 66
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/handinner3
+  rotate: false
+  xy: 410, 174
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/handinner5
+  rotate: false
+  xy: 448, 218
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/handout
+  rotate: true
+  xy: 485, 214
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/hudiejie
+  rotate: false
+  xy: 104, 48
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/jiandaiinner
+  rotate: false
+  xy: 104, 2
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/jiandaiout
+  rotate: false
+  xy: 347, 141
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/leginnerdown
+  rotate: false
+  xy: 487, 244
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/leginnerup
+  rotate: false
+  xy: 152, 48
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/legoutdown
+  rotate: true
+  xy: 142, 2
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/legoutup
+  rotate: true
+  xy: 410, 202
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/mouth01
+  rotate: true
+  xy: 184, 48
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/mouth02
+  rotate: true
+  xy: 302, 443
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/mouth03
+  rotate: true
+  xy: 109, 209
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/mouth04
+  rotate: true
+  xy: 222, 159
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/piaodai1
+  rotate: false
+  xy: 181, 91
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/piaodai2
+  rotate: false
+  xy: 347, 357
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/piaodai3
+  rotate: true
+  xy: 347, 246
+  size: 109, 65
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/piaodai4
+  rotate: false
+  xy: 439, 407
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/piaodai5
+  rotate: false
+  xy: 434, 471
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/qunzi1
+  rotate: true
+  xy: 2, 3
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/qunzi2
+  rotate: true
+  xy: 2, 100
+  size: 123, 105
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/qunzi3
+  rotate: false
+  xy: 127, 357
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/toushi1
+  rotate: false
+  xy: 302, 458
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/toushi2
+  rotate: false
+  xy: 347, 176
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Skin/Rachel_Skin03/weapon
+  rotate: false
+  xy: 443, 246
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1

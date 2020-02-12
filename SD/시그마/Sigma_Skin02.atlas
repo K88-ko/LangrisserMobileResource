@@ -1,0 +1,307 @@
+
+Sigma_Skin02.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 476, 11
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/arminnerdown
+  rotate: true
+  xy: 505, 233
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/arminnerup
+  rotate: false
+  xy: 768, 69
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/armoutdown
+  rotate: true
+  xy: 990, 186
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/armoutup
+  rotate: false
+  xy: 990, 214
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/body
+  rotate: true
+  xy: 560, 76
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/daizi
+  rotate: false
+  xy: 315, 51
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/daiziinner
+  rotate: false
+  xy: 640, 73
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/daiziout
+  rotate: false
+  xy: 695, 86
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 75, 15
+  orig: 75, 15
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyehard
+  rotate: true
+  xy: 970, 112
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyehard1
+  rotate: false
+  xy: 544, 52
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyehard2
+  rotate: false
+  xy: 79, 4
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyehard3
+  rotate: false
+  xy: 695, 67
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyesffuer
+  rotate: false
+  xy: 809, 89
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/eyeyun
+  rotate: true
+  xy: 886, 104
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/face
+  rotate: true
+  xy: 165, 23
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hair2
+  rotate: false
+  xy: 448, 90
+  size: 110, 141
+  orig: 110, 141
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hair4
+  rotate: true
+  xy: 683, 145
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hairinner
+  rotate: false
+  xy: 406, 2
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/handinner
+  rotate: false
+  xy: 533, 234
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/handout
+  rotate: true
+  xy: 963, 88
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hatinner
+  rotate: false
+  xy: 315, 93
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hatout
+  rotate: true
+  xy: 2, 24
+  size: 122, 161
+  orig: 122, 161
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hudang
+  rotate: false
+  xy: 431, 2
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hudang1
+  rotate: false
+  xy: 809, 121
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/hudanginner
+  rotate: false
+  xy: 917, 118
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/leginnerdown
+  rotate: false
+  xy: 596, 8
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/leginnerup
+  rotate: true
+  xy: 552, 13
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/legoutdown
+  rotate: true
+  xy: 917, 86
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/legoutup
+  rotate: false
+  xy: 366, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/mouth01
+  rotate: true
+  xy: 308, 198
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/mouth02
+  rotate: false
+  xy: 994, 112
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/mouth04
+  rotate: true
+  xy: 308, 215
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/toushi
+  rotate: false
+  xy: 560, 139
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/weapon
+  rotate: false
+  xy: 2, 148
+  size: 304, 106
+  orig: 304, 106
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/weapon1
+  rotate: false
+  xy: 308, 233
+  size: 195, 21
+  orig: 195, 21
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/weijin
+  rotate: false
+  xy: 315, 2
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/xiabaiinner
+  rotate: false
+  xy: 809, 181
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/xiabaiinner1
+  rotate: false
+  xy: 476, 38
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/xiabaiout
+  rotate: true
+  xy: 913, 185
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/xiabaiout1
+  rotate: false
+  xy: 761, 97
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02/yaodai
+  rotate: true
+  xy: 994, 129
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1

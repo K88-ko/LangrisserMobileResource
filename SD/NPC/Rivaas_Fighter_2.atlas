@@ -1,0 +1,265 @@
+
+Rivaas_Fighter_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/arminnerdown
+  rotate: false
+  xy: 132, 60
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/arminnerup
+  rotate: true
+  xy: 306, 407
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/armoutdown
+  rotate: false
+  xy: 195, 19
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/armoutup
+  rotate: true
+  xy: 268, 365
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/body
+  rotate: true
+  xy: 139, 106
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/daizi
+  rotate: false
+  xy: 148, 2
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyebrow
+  rotate: true
+  xy: 222, 379
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyehard
+  rotate: false
+  xy: 162, 90
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyehard1
+  rotate: false
+  xy: 162, 59
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyehard2
+  rotate: false
+  xy: 162, 74
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyehard3
+  rotate: true
+  xy: 261, 386
+  size: 63, 5
+  orig: 63, 5
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/eyeyun
+  rotate: false
+  xy: 75, 2
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/face
+  rotate: false
+  xy: 2, 212
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/hair1
+  rotate: false
+  xy: 139, 255
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/hair2
+  rotate: true
+  xy: 2, 25
+  size: 33, 85
+  orig: 33, 85
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/handinner
+  rotate: true
+  xy: 409, 378
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/handout
+  rotate: false
+  xy: 485, 450
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/handout2
+  rotate: false
+  xy: 485, 423
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/huzi
+  rotate: false
+  xy: 409, 402
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/jianjiainner
+  rotate: true
+  xy: 485, 477
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/jianjiaout
+  rotate: false
+  xy: 309, 374
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/leginnerdown
+  rotate: false
+  xy: 349, 377
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/leginnerup
+  rotate: false
+  xy: 268, 400
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/legoutdown
+  rotate: false
+  xy: 379, 381
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/legoutup
+  rotate: false
+  xy: 95, 62
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/lingziinner
+  rotate: true
+  xy: 153, 25
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/lingziinner1
+  rotate: true
+  xy: 95, 109
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/lingziout
+  rotate: true
+  xy: 236, 392
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/pifenginner
+  rotate: false
+  xy: 139, 165
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/pifenginner1
+  rotate: false
+  xy: 367, 422
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/pifenginner3
+  rotate: true
+  xy: 2, 60
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/pifengout
+  rotate: true
+  xy: 268, 442
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/weapon
+  rotate: false
+  xy: 2, 351
+  size: 218, 98
+  orig: 218, 98
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/xiongshi
+  rotate: false
+  xy: 89, 25
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 458, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

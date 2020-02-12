@@ -1,0 +1,426 @@
+
+PeakJessica_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PeakJessica/Bishops/PeakJessica_Bishops_3/handout
+  rotate: false
+  xy: 333, 174
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/arminnerdown
+  rotate: true
+  xy: 343, 145
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/arminnerup
+  rotate: false
+  xy: 296, 232
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/armoutdown
+  rotate: false
+  xy: 286, 144
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/armoutup
+  rotate: false
+  xy: 223, 8
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/body
+  rotate: true
+  xy: 445, 451
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/dang
+  rotate: true
+  xy: 258, 12
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/erhuan
+  rotate: false
+  xy: 293, 83
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/erhuan1
+  rotate: false
+  xy: 294, 5
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyehard
+  rotate: false
+  xy: 75, 2
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyehard1
+  rotate: true
+  xy: 222, 110
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyehard2
+  rotate: false
+  xy: 222, 83
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyehard3
+  rotate: true
+  xy: 342, 329
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyesffuer
+  rotate: true
+  xy: 310, 278
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/eyeyun
+  rotate: false
+  xy: 104, 44
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/face
+  rotate: false
+  xy: 108, 374
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair1
+  rotate: false
+  xy: 98, 157
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair10
+  rotate: false
+  xy: 63, 37
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair11
+  rotate: true
+  xy: 108, 231
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair12
+  rotate: false
+  xy: 2, 12
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair13
+  rotate: false
+  xy: 358, 401
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair2
+  rotate: false
+  xy: 170, 63
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair3
+  rotate: true
+  xy: 239, 337
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair4
+  rotate: false
+  xy: 257, 110
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair5
+  rotate: true
+  xy: 163, 45
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair6
+  rotate: false
+  xy: 2, 261
+  size: 104, 249
+  orig: 104, 249
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair7
+  rotate: false
+  xy: 2, 148
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair8
+  rotate: false
+  xy: 170, 144
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/hair9
+  rotate: false
+  xy: 239, 396
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/handinner
+  rotate: true
+  xy: 298, 54
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/handout
+  rotate: false
+  xy: 350, 112
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/handout1
+  rotate: true
+  xy: 319, 86
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/handout2
+  rotate: true
+  xy: 286, 110
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/handout3
+  rotate: false
+  xy: 319, 144
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/leginnerdown
+  rotate: false
+  xy: 163, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/leginnerup
+  rotate: true
+  xy: 296, 199
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/legoutdown
+  rotate: false
+  xy: 193, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/legoutup
+  rotate: false
+  xy: 342, 282
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/mouth01
+  rotate: false
+  xy: 296, 281
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/mouth02
+  rotate: true
+  xy: 98, 246
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/mouth03
+  rotate: true
+  xy: 163, 63
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/mouth04
+  rotate: false
+  xy: 223, 2
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/mouth05
+  rotate: true
+  xy: 220, 351
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/page1
+  rotate: false
+  xy: 340, 87
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/page2
+  rotate: true
+  xy: 294, 28
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/page3
+  rotate: true
+  xy: 308, 109
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/page4
+  rotate: true
+  xy: 328, 110
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/page5
+  rotate: false
+  xy: 146, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/toushi
+  rotate: false
+  xy: 220, 286
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/toushi1
+  rotate: false
+  xy: 222, 181
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/weapon
+  rotate: false
+  xy: 222, 221
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/xiabai
+  rotate: true
+  xy: 104, 78
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/xiabai1
+  rotate: false
+  xy: 445, 401
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/yaodai
+  rotate: true
+  xy: 196, 233
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/yaodai1
+  rotate: false
+  xy: 352, 374
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/yaodai2
+  rotate: true
+  xy: 63, 17
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+PeakJessica/PeakJessica_Skin01_1/yaodai3
+  rotate: false
+  xy: 290, 174
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+PeakJessica/Saint/PeakJessica_Saint_3/texiao
+  rotate: false
+  xy: 108, 281
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 222, 56
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
