@@ -1,0 +1,181 @@
+
+Clergy_Skin_Robot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clergy/Clergy_Skin/Clergy_Skin_robot/arminnerdown
+  rotate: false
+  xy: 189, 23
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/arminnerup
+  rotate: true
+  xy: 264, 72
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/armoutdown
+  rotate: false
+  xy: 344, 184
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/armoutup
+  rotate: true
+  xy: 249, 23
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/body
+  rotate: false
+  xy: 2, 25
+  size: 185, 229
+  orig: 185, 229
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/eye
+  rotate: false
+  xy: 470, 159
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/eye1
+  rotate: false
+  xy: 409, 75
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/guanzi
+  rotate: false
+  xy: 416, 194
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/guanzi1
+  rotate: true
+  xy: 265, 161
+  size: 22, 76
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handinner1
+  rotate: true
+  xy: 409, 101
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handinner2
+  rotate: true
+  xy: 2, 2
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handinner3
+  rotate: false
+  xy: 436, 155
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handinner4
+  rotate: true
+  xy: 476, 186
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handout1
+  rotate: false
+  xy: 321, 69
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handout2
+  rotate: false
+  xy: 361, 2
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handout3
+  rotate: false
+  xy: 361, 40
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/handout4
+  rotate: false
+  xy: 476, 212
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/leginnerdown
+  rotate: false
+  xy: 189, 169
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/leginnerup
+  rotate: true
+  xy: 343, 135
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/legoutdown
+  rotate: false
+  xy: 189, 82
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/legoutup
+  rotate: true
+  xy: 306, 22
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/yaojiainner
+  rotate: false
+  xy: 398, 138
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Clergy/Clergy_Skin/Clergy_Skin_robot/yaojiaout
+  rotate: false
+  xy: 265, 185
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 264, 121
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/Pikeman_Skin_robot/smoke
+  rotate: false
+  xy: 361, 87
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

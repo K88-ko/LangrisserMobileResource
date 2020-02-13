@@ -1,0 +1,97 @@
+
+Statue_Prince.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 428, 224
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/body
+  rotate: false
+  xy: 266, 68
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/hair
+  rotate: false
+  xy: 618, 423
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/hand1
+  rotate: false
+  xy: 266, 2
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/head
+  rotate: false
+  xy: 266, 300
+  size: 216, 210
+  orig: 216, 210
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/leg
+  rotate: false
+  xy: 266, 183
+  size: 160, 115
+  orig: 160, 115
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/statue1
+  rotate: false
+  xy: 2, 58
+  size: 262, 452
+  orig: 262, 452
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/stone1
+  rotate: true
+  xy: 350, 97
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/stone2
+  rotate: false
+  xy: 484, 318
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/stone3
+  rotate: false
+  xy: 484, 394
+  size: 132, 116
+  orig: 132, 116
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/stone4
+  rotate: false
+  xy: 703, 470
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/stone5
+  rotate: true
+  xy: 484, 301
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Statue_Prince/Statue_Prince/weapon1
+  rotate: false
+  xy: 2, 31
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1

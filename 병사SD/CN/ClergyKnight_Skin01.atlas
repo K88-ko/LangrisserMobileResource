@@ -1,0 +1,202 @@
+
+ClergyKnight_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClergyKnight/ClergyKnight_Skin01/body
+  rotate: true
+  xy: 232, 56
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/earinner
+  rotate: true
+  xy: 2, 18
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/earout
+  rotate: false
+  xy: 413, 156
+  size: 51, 125
+  orig: 51, 125
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/eyebrow
+  rotate: false
+  xy: 2, 8
+  size: 89, 8
+  orig: 89, 8
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/eyehard
+  rotate: false
+  xy: 113, 22
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/eyesffuer
+  rotate: true
+  xy: 466, 425
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/eyeyun
+  rotate: false
+  xy: 413, 108
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/face
+  rotate: false
+  xy: 160, 338
+  size: 169, 164
+  orig: 169, 164
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/hair1
+  rotate: true
+  xy: 160, 253
+  size: 83, 177
+  orig: 83, 177
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/hair2
+  rotate: false
+  xy: 355, 127
+  size: 56, 154
+  orig: 56, 154
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/handinner
+  rotate: false
+  xy: 388, 4
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/handout
+  rotate: true
+  xy: 321, 64
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/handout1
+  rotate: true
+  xy: 395, 55
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_backleg
+  rotate: true
+  xy: 339, 283
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_body
+  rotate: true
+  xy: 2, 81
+  size: 194, 107
+  orig: 194, 107
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_frontleg
+  rotate: true
+  xy: 113, 52
+  size: 56, 113
+  orig: 56, 113
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_head
+  rotate: false
+  xy: 331, 351
+  size: 133, 151
+  orig: 133, 151
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_neck
+  rotate: false
+  xy: 111, 110
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/horse_weiba
+  rotate: false
+  xy: 232, 129
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/hudiejie
+  rotate: true
+  xy: 467, 58
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/legoutdown
+  rotate: false
+  xy: 453, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/legoutup
+  rotate: true
+  xy: 466, 369
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/mouth01
+  rotate: false
+  xy: 137, 265
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/mouth02
+  rotate: false
+  xy: 111, 259
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/toushi1
+  rotate: false
+  xy: 196, 17
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/weapon
+  rotate: false
+  xy: 2, 277
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+ClergyKnight/ClergyKnight_Skin01/xiabai
+  rotate: false
+  xy: 321, 8
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 471, 293
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

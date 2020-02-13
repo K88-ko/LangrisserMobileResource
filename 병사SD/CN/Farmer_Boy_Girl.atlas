@@ -1,0 +1,272 @@
+
+Farmer_Boy_Girl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Farmer_Boy/Tear
+  rotate: false
+  xy: 348, 382
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Farmer_Girl/Tear
+  rotate: false
+  xy: 348, 382
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Farmer_Boy/body
+  rotate: false
+  xy: 374, 421
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+Farmer_Boy/eyehard
+  rotate: true
+  xy: 107, 119
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+Farmer_Boy/eyehard_2
+  rotate: false
+  xy: 150, 341
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+Farmer_Boy/face
+  rotate: false
+  xy: 2, 354
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+Farmer_Boy/hair1
+  rotate: false
+  xy: 2, 82
+  size: 103, 111
+  orig: 103, 111
+  offset: 0, 0
+  index: -1
+Farmer_Boy/hair2
+  rotate: false
+  xy: 316, 403
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+Farmer_Boy/handinner
+  rotate: false
+  xy: 107, 66
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Farmer_Boy/handinner_2
+  rotate: false
+  xy: 140, 201
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Farmer_Boy/handout
+  rotate: true
+  xy: 232, 331
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Farmer_Boy/handout_2
+  rotate: false
+  xy: 140, 268
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+Farmer_Boy/leginnerdown
+  rotate: false
+  xy: 320, 366
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Farmer_Boy/leginnerup
+  rotate: false
+  xy: 199, 84
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Farmer_Boy/legoutdown
+  rotate: false
+  xy: 290, 362
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Farmer_Boy/legoutup
+  rotate: false
+  xy: 151, 72
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Farmer_Boy/mouth01
+  rotate: false
+  xy: 252, 390
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Farmer_Boy/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Farmer_Girl/body
+  rotate: true
+  xy: 2, 19
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+Farmer_Girl/eyehard
+  rotate: true
+  xy: 189, 196
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+Farmer_Girl/eyehard_2
+  rotate: false
+  xy: 429, 416
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+Farmer_Girl/face
+  rotate: false
+  xy: 2, 195
+  size: 136, 157
+  orig: 136, 157
+  offset: 0, 0
+  index: -1
+Farmer_Girl/hair1
+  rotate: false
+  xy: 252, 401
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+Farmer_Girl/hair2
+  rotate: false
+  xy: 150, 390
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+Farmer_Girl/hair3
+  rotate: false
+  xy: 232, 272
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+Farmer_Girl/hair4
+  rotate: true
+  xy: 429, 461
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+Farmer_Girl/handinner
+  rotate: false
+  xy: 153, 20
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Farmer_Girl/handinner_2
+  rotate: false
+  xy: 183, 133
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Farmer_Girl/handout
+  rotate: true
+  xy: 96, 15
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Farmer_Girl/handout_2
+  rotate: false
+  xy: 188, 271
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+Farmer_Girl/leginnerdown
+  rotate: false
+  xy: 290, 331
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Farmer_Girl/leginnerup
+  rotate: false
+  xy: 286, 295
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Farmer_Girl/legoutdown
+  rotate: true
+  xy: 462, 386
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Farmer_Girl/legoutup
+  rotate: true
+  xy: 420, 385
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Farmer_Girl/mouth01
+  rotate: true
+  xy: 225, 251
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Farmer_Girl/mouth02
+  rotate: false
+  xy: 23, 3
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Farmer_Girl/toushi
+  rotate: true
+  xy: 374, 378
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 143, 125
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

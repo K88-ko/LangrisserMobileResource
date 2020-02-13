@@ -1,0 +1,146 @@
+
+Gargoyle_Skin02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_chibang_1
+  rotate: false
+  xy: 2, 35
+  size: 138, 224
+  orig: 138, 224
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_chibang_2
+  rotate: false
+  xy: 142, 108
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_shou1
+  rotate: true
+  xy: 34, 3
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_shou2
+  rotate: true
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_shou3
+  rotate: true
+  xy: 73, 5
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_tui1
+  rotate: false
+  xy: 260, 89
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/L_tui2
+  rotate: false
+  xy: 471, 332
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_chibang_1
+  rotate: false
+  xy: 2, 261
+  size: 229, 249
+  orig: 229, 249
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_chibang_2
+  rotate: false
+  xy: 233, 344
+  size: 138, 166
+  orig: 138, 166
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_shou1
+  rotate: true
+  xy: 295, 96
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_shou2
+  rotate: true
+  xy: 425, 332
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_shou3
+  rotate: true
+  xy: 221, 72
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_tui1
+  rotate: false
+  xy: 394, 291
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/R_tui2
+  rotate: true
+  xy: 373, 344
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/eye
+  rotate: false
+  xy: 233, 264
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/hatout
+  rotate: true
+  xy: 260, 127
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/shent
+  rotate: false
+  xy: 336, 264
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/tou
+  rotate: false
+  xy: 373, 375
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle_Skin/Gargoyle_Skin02/weiba
+  rotate: true
+  xy: 142, 71
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 142, 31
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

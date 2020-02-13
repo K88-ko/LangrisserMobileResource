@@ -1,0 +1,83 @@
+
+Robot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 270, 151
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Robot/ball
+  rotate: false
+  xy: 40, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Robot/ball1
+  rotate: true
+  xy: 2, 2
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Robot/ball2
+  rotate: false
+  xy: 112, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Robot/ball3
+  rotate: false
+  xy: 76, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Robot/body
+  rotate: false
+  xy: 2, 123
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+Robot/body1
+  rotate: false
+  xy: 136, 123
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+Robot/weapon1
+  rotate: false
+  xy: 2, 77
+  size: 218, 44
+  orig: 218, 44
+  offset: 0, 0
+  index: -1
+Robot/weapon2
+  rotate: false
+  xy: 270, 225
+  size: 214, 29
+  orig: 214, 29
+  offset: 0, 0
+  index: -1
+Robot/weapon3
+  rotate: true
+  xy: 2, 39
+  size: 36, 189
+  orig: 36, 189
+  offset: 0, 0
+  index: -1
+Robot/weapon4
+  rotate: false
+  xy: 270, 191
+  size: 188, 32
+  orig: 188, 32
+  offset: 0, 0
+  index: -1

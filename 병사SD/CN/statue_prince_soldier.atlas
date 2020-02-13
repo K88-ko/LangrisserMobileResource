@@ -1,0 +1,90 @@
+
+statue_prince_soldier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 294, 108
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/body
+  rotate: false
+  xy: 423, 367
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/hair
+  rotate: false
+  xy: 231, 326
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/hand
+  rotate: true
+  xy: 2, 2
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/leg
+  rotate: false
+  xy: 231, 230
+  size: 161, 94
+  orig: 161, 94
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/statue1
+  rotate: false
+  xy: 2, 99
+  size: 227, 411
+  orig: 227, 411
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/stone1
+  rotate: false
+  xy: 423, 445
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/stone2
+  rotate: false
+  xy: 112, 23
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/stone3
+  rotate: true
+  xy: 394, 191
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/stone4
+  rotate: false
+  xy: 339, 188
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/weapon
+  rotate: false
+  xy: 231, 184
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+statue_prince_soldier/statue_prince_soldier/weapon1
+  rotate: false
+  xy: 231, 120
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1

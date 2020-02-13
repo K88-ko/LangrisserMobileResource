@@ -1,0 +1,97 @@
+
+SnowMan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 283, 157
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SnowMan/arminnerdown
+  rotate: true
+  xy: 439, 406
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+SnowMan/arminnerup
+  rotate: false
+  xy: 2, 22
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+SnowMan/armoutdown
+  rotate: false
+  xy: 279, 277
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+SnowMan/armoutup
+  rotate: false
+  xy: 2, 122
+  size: 190, 149
+  orig: 190, 149
+  offset: 0, 0
+  index: -1
+SnowMan/body
+  rotate: false
+  xy: 279, 368
+  size: 158, 134
+  orig: 158, 134
+  offset: 0, 0
+  index: -1
+SnowMan/handinner
+  rotate: true
+  xy: 117, 31
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+SnowMan/handout
+  rotate: true
+  xy: 194, 151
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1
+SnowMan/head
+  rotate: false
+  xy: 2, 273
+  size: 275, 229
+  orig: 275, 229
+  offset: 0, 0
+  index: -1
+SnowMan/leginnerdown
+  rotate: true
+  xy: 400, 298
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+SnowMan/leginnerup
+  rotate: false
+  xy: 283, 197
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+SnowMan/legoutdown
+  rotate: true
+  xy: 367, 208
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+SnowMan/legoutup
+  rotate: true
+  xy: 194, 86
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1

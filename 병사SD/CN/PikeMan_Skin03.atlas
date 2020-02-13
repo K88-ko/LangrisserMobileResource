@@ -1,0 +1,202 @@
+
+PikeMan_Skin03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 299, 304
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/body
+  rotate: true
+  xy: 301, 381
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/handinner
+  rotate: false
+  xy: 281, 187
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/handout
+  rotate: false
+  xy: 150, 3
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/handout1
+  rotate: true
+  xy: 191, 5
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/hatout
+  rotate: false
+  xy: 74, 163
+  size: 151, 173
+  orig: 151, 173
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/jianjiainner
+  rotate: false
+  xy: 351, 254
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/jianjiaout
+  rotate: false
+  xy: 83, 9
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/leginnerdown
+  rotate: false
+  xy: 289, 152
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/leginnerup
+  rotate: false
+  xy: 362, 204
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/legoutdown
+  rotate: false
+  xy: 378, 338
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/legoutup
+  rotate: false
+  xy: 321, 198
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/pifeng
+  rotate: false
+  xy: 193, 68
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/pifenginner
+  rotate: false
+  xy: 74, 71
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/weapon
+  rotate: false
+  xy: 198, 453
+  size: 294, 57
+  orig: 294, 57
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin03/yaojia
+  rotate: true
+  xy: 375, 304
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/body
+  rotate: false
+  xy: 227, 248
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/hatout
+  rotate: false
+  xy: 2, 338
+  size: 194, 172
+  orig: 194, 172
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/jianjiainner
+  rotate: false
+  xy: 227, 169
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/jianjiaout
+  rotate: false
+  xy: 411, 388
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/weapon
+  rotate: true
+  xy: 2, 42
+  size: 294, 70
+  orig: 294, 70
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/PikeMan_skin04/yaojia
+  rotate: false
+  xy: 299, 254
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+PikeMan/eyehard
+  rotate: true
+  xy: 240, 92
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+PikeMan/eyesffuer
+  rotate: false
+  xy: 301, 344
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+PikeMan/eyeyun
+  rotate: false
+  xy: 2, 2
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+PikeMan/face
+  rotate: false
+  xy: 198, 358
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 83, 2
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 395, 264
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

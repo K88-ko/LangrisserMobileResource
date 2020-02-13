@@ -1,0 +1,55 @@
+
+MagicBall.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_1
+  rotate: false
+  xy: 2, 334
+  size: 169, 153
+  orig: 169, 153
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_2
+  rotate: false
+  xy: 2, 179
+  size: 168, 153
+  orig: 168, 153
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_3
+  rotate: false
+  xy: 344, 352
+  size: 148, 135
+  orig: 148, 135
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_4
+  rotate: false
+  xy: 344, 222
+  size: 153, 128
+  orig: 153, 128
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_5
+  rotate: false
+  xy: 2, 42
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_6
+  rotate: false
+  xy: 173, 335
+  size: 169, 152
+  orig: 169, 152
+  offset: 0, 0
+  index: -1

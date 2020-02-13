@@ -1,0 +1,97 @@
+
+Statue_Princess.png
+size: 533,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 458, 363
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/body
+  rotate: true
+  xy: 458, 439
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/hair
+  rotate: false
+  xy: 358, 114
+  size: 105, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/hand1
+  rotate: true
+  xy: 2, 2
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/hand2
+  rotate: true
+  xy: 379, 19
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/head
+  rotate: false
+  xy: 248, 361
+  size: 208, 170
+  orig: 208, 170
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/leg
+  rotate: false
+  xy: 248, 230
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/statue1
+  rotate: false
+  xy: 2, 73
+  size: 244, 458
+  orig: 244, 458
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/stone1
+  rotate: true
+  xy: 386, 225
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/stone2
+  rotate: false
+  xy: 51, 29
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/stone3
+  rotate: true
+  xy: 100, 31
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/stone4
+  rotate: true
+  xy: 248, 76
+  size: 152, 108
+  orig: 152, 108
+  offset: 0, 0
+  index: -1
+Statue_Princess/Statue_Princess/weapon
+  rotate: true
+  xy: 248, 2
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1

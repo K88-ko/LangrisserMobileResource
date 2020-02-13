@@ -1,0 +1,265 @@
+
+Zealot_Skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 232, 223
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/arminnerdown
+  rotate: false
+  xy: 308, 207
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/arminnerdown2
+  rotate: false
+  xy: 366, 353
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/arminnerup
+  rotate: false
+  xy: 209, 111
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/armoutdown
+  rotate: false
+  xy: 218, 143
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/armoutup
+  rotate: false
+  xy: 331, 130
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/body
+  rotate: false
+  xy: 229, 263
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/eyebrow
+  rotate: false
+  xy: 343, 410
+  size: 85, 10
+  orig: 85, 10
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/eyehard
+  rotate: true
+  xy: 135, 139
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/eyesffuer
+  rotate: true
+  xy: 103, 30
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/eyeyun
+  rotate: false
+  xy: 218, 187
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/face
+  rotate: false
+  xy: 2, 345
+  size: 179, 164
+  orig: 179, 164
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/hair2
+  rotate: false
+  xy: 333, 344
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/hairback
+  rotate: false
+  xy: 2, 30
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/hairout
+  rotate: false
+  xy: 343, 422
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/hudang
+  rotate: true
+  xy: 292, 264
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/hudang1
+  rotate: true
+  xy: 441, 396
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/leginnerdown
+  rotate: false
+  xy: 338, 289
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/leginnerup
+  rotate: true
+  xy: 369, 263
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/legoutdown
+  rotate: true
+  xy: 421, 354
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/legoutup
+  rotate: false
+  xy: 471, 346
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/mouth01
+  rotate: false
+  xy: 165, 340
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin01/toushi
+  rotate: false
+  xy: 2, 225
+  size: 161, 118
+  orig: 161, 118
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/body
+  rotate: false
+  xy: 165, 260
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/hairback
+  rotate: false
+  xy: 2, 111
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/hudang
+  rotate: true
+  xy: 167, 153
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/hudang1
+  rotate: false
+  xy: 183, 340
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/jianjiainner
+  rotate: false
+  xy: 351, 176
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/jianjiaout
+  rotate: false
+  xy: 281, 340
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/leginnerdown
+  rotate: true
+  xy: 296, 176
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/leginnerup
+  rotate: true
+  xy: 167, 113
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/legoutdown
+  rotate: true
+  xy: 282, 134
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/legoutup
+  rotate: false
+  xy: 369, 301
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/toushi
+  rotate: false
+  xy: 183, 403
+  size: 158, 106
+  orig: 158, 106
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/toushi1
+  rotate: false
+  xy: 369, 133
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Zealot/Zealot_Skin/Zealot_Skin02/yaodai
+  rotate: false
+  xy: 165, 229
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Zealot/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

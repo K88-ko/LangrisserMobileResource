@@ -1,0 +1,118 @@
+
+Slime.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Slime/Shadow
+  rotate: false
+  xy: 30, 71
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Slime/Slime01/body
+  rotate: false
+  xy: 806, 99
+  size: 199, 155
+  orig: 199, 155
+  offset: 0, 0
+  index: -1
+Slime/Slime01/light1
+  rotate: false
+  xy: 2, 22
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Slime/Slime02/light1
+  rotate: false
+  xy: 2, 22
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Slime/Slime03/light1
+  rotate: false
+  xy: 2, 22
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Slime/Slime04/light1
+  rotate: false
+  xy: 2, 22
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Slime/Slime05/light1
+  rotate: false
+  xy: 2, 22
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Slime/Slime01/light2
+  rotate: true
+  xy: 2, 2
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+Slime/Slime02/body
+  rotate: false
+  xy: 2, 98
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+Slime/Slime02/light2
+  rotate: true
+  xy: 106, 78
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+Slime/Slime03/body
+  rotate: false
+  xy: 203, 98
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+Slime/Slime03/light2
+  rotate: true
+  xy: 30, 51
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+Slime/Slime04/body
+  rotate: false
+  xy: 404, 98
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+Slime/Slime04/light2
+  rotate: true
+  xy: 156, 78
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+Slime/Slime05/body
+  rotate: false
+  xy: 605, 98
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+Slime/Slime05/light2
+  rotate: true
+  xy: 30, 31
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1

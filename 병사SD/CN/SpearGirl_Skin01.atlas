@@ -1,0 +1,244 @@
+
+SpearGirl_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 197, 75
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/body
+  rotate: false
+  xy: 197, 115
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/eyehard
+  rotate: false
+  xy: 2, 11
+  size: 83, 36
+  orig: 83, 36
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/eyesffuer
+  rotate: true
+  xy: 322, 122
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/eyeyun
+  rotate: true
+  xy: 361, 122
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/face
+  rotate: false
+  xy: 2, 49
+  size: 118, 123
+  orig: 118, 123
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/hairinner
+  rotate: false
+  xy: 2, 174
+  size: 150, 181
+  orig: 150, 181
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/handinner
+  rotate: true
+  xy: 190, 29
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/handout
+  rotate: true
+  xy: 323, 201
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/hatout
+  rotate: false
+  xy: 154, 204
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/jianjiainner
+  rotate: false
+  xy: 468, 382
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/jianjiaout
+  rotate: false
+  xy: 154, 174
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/leginnerdown
+  rotate: true
+  xy: 332, 64
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/leginnerup
+  rotate: true
+  xy: 391, 201
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/legoutdown
+  rotate: true
+  xy: 418, 380
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/legoutup
+  rotate: false
+  xy: 87, 4
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/mouth01
+  rotate: false
+  xy: 2, 2
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/weapon
+  rotate: false
+  xy: 2, 357
+  size: 363, 26
+  orig: 363, 26
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin01/yaojia
+  rotate: false
+  xy: 396, 128
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/body
+  rotate: false
+  xy: 323, 246
+  size: 65, 109
+  orig: 65, 109
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/handinner
+  rotate: true
+  xy: 273, 73
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/handout
+  rotate: true
+  xy: 122, 32
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/jianjiainner
+  rotate: true
+  xy: 391, 226
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/jianjiaout
+  rotate: false
+  xy: 332, 91
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/leginnerdown
+  rotate: true
+  xy: 367, 357
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/leginnerup
+  rotate: false
+  xy: 396, 162
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/legoutdown
+  rotate: true
+  xy: 120, 2
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/legoutup
+  rotate: false
+  xy: 390, 266
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/toushi
+  rotate: false
+  xy: 418, 410
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/weapon
+  rotate: false
+  xy: 2, 385
+  size: 414, 123
+  orig: 414, 123
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/weijin2
+  rotate: true
+  xy: 265, 119
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/weijin3
+  rotate: false
+  xy: 122, 77
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl_skin/SpearGirl_skin02/yaojia
+  rotate: false
+  xy: 390, 311
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+SpearGirl/mouth02
+  rotate: false
+  xy: 249, 59
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

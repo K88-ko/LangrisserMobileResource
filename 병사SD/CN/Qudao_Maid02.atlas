@@ -1,0 +1,209 @@
+
+Qudao_Maid02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qudao/Qudao_Maid/qudao_Maid02/body
+  rotate: false
+  xy: 154, 63
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/daizi
+  rotate: true
+  xy: 2, 2
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/daizi1
+  rotate: false
+  xy: 493, 458
+  size: 16, 52
+  orig: 16, 52
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/eyebrow
+  rotate: true
+  xy: 394, 254
+  size: 72, 10
+  orig: 72, 10
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/eyehard
+  rotate: false
+  xy: 416, 332
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/eyesffuer
+  rotate: true
+  xy: 356, 247
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/eyeyun
+  rotate: false
+  xy: 416, 363
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/face
+  rotate: true
+  xy: 228, 292
+  size: 113, 126
+  orig: 113, 126
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/hair1
+  rotate: false
+  xy: 2, 32
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/hair2
+  rotate: true
+  xy: 376, 399
+  size: 51, 118
+  orig: 51, 118
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/hair3
+  rotate: false
+  xy: 150, 124
+  size: 39, 158
+  orig: 39, 158
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/hair4
+  rotate: false
+  xy: 191, 169
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/hair5
+  rotate: false
+  xy: 2, 284
+  size: 224, 226
+  orig: 224, 226
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/handinner
+  rotate: false
+  xy: 356, 328
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/handout
+  rotate: false
+  xy: 108, 36
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/leginnerdown
+  rotate: true
+  xy: 154, 43
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/leginnerup
+  rotate: true
+  xy: 237, 142
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/legoutdown
+  rotate: true
+  xy: 59, 12
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/legoutup
+  rotate: true
+  xy: 108, 2
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/mouth01
+  rotate: false
+  xy: 310, 200
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/mouth02
+  rotate: true
+  xy: 496, 439
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/qunzi
+  rotate: true
+  xy: 310, 212
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/toushi1
+  rotate: false
+  xy: 233, 197
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/toushi2
+  rotate: true
+  xy: 376, 452
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/toushi3
+  rotate: true
+  xy: 191, 130
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/toushi4
+  rotate: false
+  xy: 356, 212
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/toushi5
+  rotate: false
+  xy: 228, 407
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+Qudao/Qudao_Maid/qudao_Maid02/weapon
+  rotate: false
+  xy: 2, 115
+  size: 146, 167
+  orig: 146, 167
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 233, 170
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

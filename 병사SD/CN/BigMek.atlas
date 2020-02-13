@@ -1,0 +1,167 @@
+
+BigMek.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+./BigMek/fx
+  rotate: false
+  xy: 255, 131
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+./BigMek/texiao
+  rotate: false
+  xy: 313, 204
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+./BigMek/texiao1
+  rotate: false
+  xy: 282, 176
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+./BigMek/texiao2
+  rotate: false
+  xy: 221, 87
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+./BigMek/texiao3
+  rotate: false
+  xy: 221, 114
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+BigMek/eyehard
+  rotate: true
+  xy: 168, 88
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+BigMek/eyehard1
+  rotate: true
+  xy: 146, 77
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+BigMek/eyehard2
+  rotate: true
+  xy: 195, 88
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+BigMek/eyehard3
+  rotate: false
+  xy: 218, 149
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+BigMek/eyesffuer
+  rotate: false
+  xy: 218, 174
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+BigMek/eyeyun
+  rotate: false
+  xy: 154, 197
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+BigMek/face
+  rotate: false
+  xy: 2, 57
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+BigMek/hair1
+  rotate: true
+  xy: 470, 215
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+BigMek/hair2
+  rotate: true
+  xy: 420, 216
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+BigMek/hair3
+  rotate: false
+  xy: 368, 212
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+BigMek/hair4
+  rotate: true
+  xy: 154, 149
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+BigMek/hair5
+  rotate: true
+  xy: 236, 196
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+BigMek/hat
+  rotate: false
+  xy: 2, 143
+  size: 150, 110
+  orig: 150, 110
+  offset: 0, 0
+  index: -1
+BigMek/hatout
+  rotate: true
+  xy: 110, 64
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+BigMek/mouth01
+  rotate: false
+  xy: 91, 37
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+BigMek/mouth02
+  rotate: true
+  xy: 2, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+BigMek/mouth03
+  rotate: false
+  xy: 91, 19
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+BigMek/yinying
+  rotate: false
+  xy: 2, 18
+  size: 87, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1

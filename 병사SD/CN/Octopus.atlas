@@ -1,0 +1,146 @@
+
+Octopus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 117, 72
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Octopus/body
+  rotate: false
+  xy: 2, 252
+  size: 141, 234
+  orig: 141, 234
+  offset: 0, 0
+  index: -1
+Octopus/chus_1
+  rotate: false
+  xy: 117, 2
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Octopus/chus_10
+  rotate: true
+  xy: 280, 387
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+Octopus/chus_11
+  rotate: false
+  xy: 145, 277
+  size: 59, 209
+  orig: 59, 209
+  offset: 0, 0
+  index: -1
+Octopus/chus_12
+  rotate: false
+  xy: 2, 11
+  size: 113, 239
+  orig: 113, 239
+  offset: 0, 0
+  index: -1
+Octopus/chus_13
+  rotate: false
+  xy: 415, 396
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Octopus/chus_14
+  rotate: false
+  xy: 206, 360
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+Octopus/chus_15
+  rotate: false
+  xy: 315, 391
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Octopus/chus_16
+  rotate: true
+  xy: 206, 285
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Octopus/chus_2
+  rotate: true
+  xy: 155, 213
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Octopus/chus_3
+  rotate: false
+  xy: 362, 401
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Octopus/chus_4
+  rotate: false
+  xy: 117, 148
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+Octopus/chus_5
+  rotate: true
+  xy: 425, 438
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+Octopus/chus_6
+  rotate: true
+  xy: 155, 151
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+Octopus/chus_7
+  rotate: false
+  xy: 211, 225
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Octopus/chus_8
+  rotate: true
+  xy: 255, 311
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Octopus/chus_9
+  rotate: false
+  xy: 157, 91
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Octopus/deadeye
+  rotate: false
+  xy: 206, 442
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+Octopus/eye
+  rotate: false
+  xy: 319, 441
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+SwordMan_Skin_Robot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 133, 206
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/Pikeman_Skin_robot/PikeWeapon1
+  rotate: true
+  xy: 2, 16
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan_skin/Pikeman_Skin_robot/smoke
+  rotate: false
+  xy: 439, 464
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/arminnerdown
+  rotate: false
+  xy: 57, 72
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/arminnerup
+  rotate: false
+  xy: 318, 444
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/armoutdown
+  rotate: false
+  xy: 57, 129
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/armoutup
+  rotate: false
+  xy: 318, 386
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/body
+  rotate: false
+  xy: 2, 282
+  size: 185, 228
+  orig: 185, 228
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/eye
+  rotate: true
+  xy: 77, 4
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/eye1
+  rotate: false
+  xy: 274, 174
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/guanzi
+  rotate: false
+  xy: 242, 278
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/guanzi1
+  rotate: false
+  xy: 242, 200
+  size: 22, 76
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handinner
+  rotate: true
+  xy: 266, 200
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handinner1
+  rotate: true
+  xy: 114, 129
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handinner2
+  rotate: false
+  xy: 487, 485
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handinner3
+  rotate: false
+  xy: 108, 101
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handout
+  rotate: false
+  xy: 57, 32
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handout1
+  rotate: true
+  xy: 242, 177
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handout2
+  rotate: false
+  xy: 114, 161
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/handout3
+  rotate: false
+  xy: 57, 2
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/leginnerdown
+  rotate: false
+  xy: 57, 196
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/leginnerup
+  rotate: true
+  xy: 266, 233
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/legoutdown
+  rotate: false
+  xy: 242, 425
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/legoutup
+  rotate: true
+  xy: 318, 342
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/weapon
+  rotate: true
+  xy: 189, 169
+  size: 341, 51
+  orig: 341, 51
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/yaojiainner
+  rotate: false
+  xy: 382, 459
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan_skin/SwordMan_Skin_robot/yaojiaout
+  rotate: true
+  xy: 242, 340
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1

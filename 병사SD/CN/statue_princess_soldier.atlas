@@ -1,0 +1,83 @@
+
+statue_princess_soldier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 394, 350
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/body
+  rotate: false
+  xy: 136, 27
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/hand1
+  rotate: false
+  xy: 291, 157
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/hand2
+  rotate: false
+  xy: 223, 88
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/head
+  rotate: false
+  xy: 223, 353
+  size: 169, 157
+  orig: 169, 157
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/leg
+  rotate: true
+  xy: 394, 390
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/statue1
+  rotate: false
+  xy: 2, 93
+  size: 219, 417
+  orig: 219, 417
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/stone1
+  rotate: false
+  xy: 2, 9
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/stone3
+  rotate: false
+  xy: 470, 344
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/stone4
+  rotate: false
+  xy: 223, 245
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+statue_princess_soldier/statue_princess_soldier/weapon
+  rotate: false
+  xy: 223, 159
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
