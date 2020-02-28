@@ -1,0 +1,125 @@
+
+CrystalGiantGeneral.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_up 2
+  rotate: false
+  xy: 2, 36
+  size: 154, 429
+  orig: 154, 429
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 456, 345
+  size: 292, 316
+  orig: 292, 316
+  offset: 0, 0
+  index: -1
+arm_out_up1
+  rotate: false
+  xy: 2, 467
+  size: 218, 555
+  orig: 218, 555
+  offset: 0, 0
+  index: -1
+arm_out_up2
+  rotate: false
+  xy: 435, 146
+  size: 229, 197
+  orig: 229, 197
+  offset: 0, 0
+  index: -1
+arm_out_up3
+  rotate: false
+  xy: 222, 551
+  size: 232, 471
+  orig: 232, 471
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 285, 98
+  size: 148, 270
+  orig: 148, 270
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 890, 212
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 222, 370
+  size: 232, 179
+  orig: 232, 179
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 743, 118
+  size: 212, 145
+  orig: 212, 145
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 666, 138
+  size: 75, 205
+  orig: 75, 205
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 158, 53
+  size: 125, 315
+  orig: 125, 315
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 158, 395
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 771, 669
+  size: 152, 353
+  orig: 152, 353
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 435, 33
+  size: 111, 223
+  orig: 111, 223
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 774, 332
+  size: 141, 335
+  orig: 141, 335
+  offset: 0, 0
+  index: -1
+xiongjia_1
+  rotate: false
+  xy: 456, 639
+  size: 313, 383
+  orig: 313, 383
+  offset: 0, 0
+  index: -1
+xiongjia_2
+  rotate: false
+  xy: 925, 764
+  size: 88, 258
+  orig: 88, 258
+  offset: 0, 0
+  index: -1

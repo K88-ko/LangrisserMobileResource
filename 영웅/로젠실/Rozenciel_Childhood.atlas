@@ -1,0 +1,237 @@
+
+Rozenciel_Childhood.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: false
+  xy: 289, 391
+  size: 114, 230
+  orig: 114, 230
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: true
+  xy: 651, 720
+  size: 93, 218
+  orig: 93, 218
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 289, 376
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 149, 38
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 623
+  size: 411, 395
+  orig: 411, 395
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 490, 175
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 149, 54
+  size: 127, 55
+  orig: 127, 55
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 559, 443
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 174, 111
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 519, 284
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 370
+  size: 285, 251
+  orig: 285, 251
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 871, 728
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 415, 659
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 685, 872
+  size: 146, 239
+  orig: 146, 239
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: false
+  xy: 415, 823
+  size: 268, 195
+  orig: 268, 195
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 413, 282
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 608, 582
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 413, 175
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 405, 414
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 685, 815
+  size: 55, 244
+  orig: 55, 244
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 651, 655
+  size: 63, 221
+  orig: 63, 221
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 335, 156
+  size: 76, 233
+  orig: 76, 233
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 415, 573
+  size: 84, 191
+  orig: 84, 191
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 278, 94
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 413, 156
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 651, 640
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 304, 145
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 559, 423
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 926, 877
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 926, 899
+  size: 89, 119
+  orig: 89, 119
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 2, 123
+  size: 170, 245
+  orig: 170, 245
+  offset: 0, 0
+  index: -1
+yifu_1
+  rotate: true
+  xy: 2, 2
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+yifu_2
+  rotate: true
+  xy: 174, 164
+  size: 204, 159
+  orig: 204, 159
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+BigMek.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 245, 128
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+eye_Battle_Mighty
+  rotate: true
+  xy: 329, 271
+  size: 131, 33
+  orig: 131, 33
+  offset: 0, 0
+  index: -1
+eye_Hurt
+  rotate: false
+  xy: 2, 51
+  size: 125, 48
+  orig: 125, 48
+  offset: 0, 0
+  index: -1
+eye_Normal_1
+  rotate: false
+  xy: 329, 455
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+eye_Normal_2
+  rotate: false
+  xy: 329, 404
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+eye_Normal_3
+  rotate: false
+  xy: 2, 2
+  size: 125, 47
+  orig: 125, 47
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 101
+  size: 241, 84
+  orig: 241, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 187
+  size: 325, 320
+  orig: 325, 320
+  offset: 0, 0
+  index: -1
+mouth_Battle_Mighty
+  rotate: false
+  xy: 129, 65
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+mouth_Normal_1
+  rotate: false
+  xy: 456, 471
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+mouth_Normal_2
+  rotate: false
+  xy: 364, 368
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

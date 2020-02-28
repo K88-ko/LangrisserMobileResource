@@ -1,0 +1,160 @@
+
+Russell.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 666, 552
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 994, 932
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 227, 283
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 514
+  size: 662, 508
+  orig: 662, 508
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 777, 776
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 368, 470
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 110, 226
+  size: 107, 53
+  orig: 107, 53
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 2, 38
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 227, 306
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 281
+  size: 223, 231
+  orig: 223, 231
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 884, 898
+  size: 108, 124
+  orig: 108, 124
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 666, 598
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 666, 669
+  size: 109, 155
+  orig: 109, 155
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 93
+  size: 106, 186
+  orig: 106, 186
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 227, 361
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 666, 826
+  size: 216, 196
+  orig: 216, 196
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 884, 854
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: true
+  xy: 994, 963
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 2, 2
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 368, 431
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 468, 475
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 110, 180
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Fredrick.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 908, 781
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 714, 422
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 493
+  size: 403, 529
+  orig: 403, 529
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 127, 19
+  size: 122, 36
+  orig: 122, 36
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 2, 18
+  size: 123, 37
+  orig: 123, 37
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 714, 483
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 714, 447
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 267, 59
+  size: 158, 191
+  orig: 158, 191
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: true
+  xy: 484, 262
+  size: 89, 142
+  orig: 89, 142
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 616, 397
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 484, 353
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: false
+  xy: 427, 68
+  size: 73, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 908, 837
+  size: 88, 185
+  orig: 88, 185
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 673, 519
+  size: 254, 212
+  orig: 254, 212
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 57
+  size: 263, 434
+  orig: 263, 434
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 839, 496
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 606, 226
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 887, 738
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 998, 988
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 502, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 502, 128
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: false
+  xy: 673, 775
+  size: 233, 247
+  orig: 233, 247
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: false
+  xy: 267, 252
+  size: 215, 239
+  orig: 215, 239
+  offset: 0, 0
+  index: -1
+weijin_3
+  rotate: false
+  xy: 407, 507
+  size: 264, 515
+  orig: 264, 515
+  offset: 0, 0
+  index: -1
+weijin_4
+  rotate: true
+  xy: 267, 2
+  size: 55, 276
+  orig: 55, 276
+  offset: 0, 0
+  index: -1
+weijin_5
+  rotate: false
+  xy: 616, 353
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1

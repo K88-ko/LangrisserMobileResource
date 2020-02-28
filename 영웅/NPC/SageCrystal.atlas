@@ -1,0 +1,62 @@
+
+SageCrystal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SageCrystal21
+  rotate: false
+  xy: 303, 236
+  size: 328, 785
+  orig: 328, 785
+  offset: 0, 0
+  index: -1
+SageCrystal31
+  rotate: true
+  xy: 2, 31
+  size: 155, 705
+  orig: 155, 705
+  offset: 0, 0
+  index: -1
+SageCrystal41
+  rotate: false
+  xy: 2, 188
+  size: 299, 833
+  orig: 299, 833
+  offset: 0, 0
+  index: -1
+SageCrystala
+  rotate: false
+  xy: 633, 227
+  size: 286, 794
+  orig: 286, 794
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 921, 685
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 921, 756
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 921, 833
+  size: 100, 188
+  orig: 100, 188
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 24
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

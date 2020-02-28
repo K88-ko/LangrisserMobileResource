@@ -1,0 +1,237 @@
+
+Black-Knight.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 151, 31
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 2, 31
+  size: 147, 76
+  orig: 147, 76
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 957, 590
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 1022, 623
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+eye_1_Angry_1
+  rotate: false
+  xy: 2, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+eye_1_Hurt_1
+  rotate: false
+  xy: 2, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+eye_1_Angry_2
+  rotate: false
+  xy: 53, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+eye_1_Angry_3
+  rotate: false
+  xy: 104, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: true
+  xy: 1202, 383
+  size: 187, 240
+  orig: 187, 240
+  offset: 0, 0
+  index: -1
+eye_1_Hurt1
+  rotate: true
+  xy: 957, 377
+  size: 193, 243
+  orig: 193, 243
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1626, 683
+  size: 361, 339
+  orig: 361, 339
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 1626, 457
+  size: 224, 263
+  orig: 224, 263
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: true
+  xy: 1891, 405
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 792, 52
+  size: 138, 153
+  orig: 138, 153
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 1579, 480
+  size: 26, 90
+  orig: 26, 90
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: true
+  xy: 2, 357
+  size: 287, 953
+  orig: 287, 953
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 1444, 346
+  size: 224, 133
+  orig: 224, 133
+  offset: 0, 0
+  index: -1
+jianjia_inner_3
+  rotate: false
+  xy: 155, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 2, 646
+  size: 376, 1064
+  orig: 376, 1064
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 545, 38
+  size: 245, 167
+  orig: 245, 167
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_A
+  rotate: false
+  xy: 415, 73
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_B
+  rotate: false
+  xy: 854, 13
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_C
+  rotate: false
+  xy: 354, 68
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_D
+  rotate: false
+  xy: 792, 2
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: true
+  xy: 1579, 414
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: true
+  xy: 293, 2
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: true
+  xy: 1989, 862
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 293, 67
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1891, 529
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 1068, 572
+  size: 556, 450
+  orig: 556, 450
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: false
+  xy: 545, 207
+  size: 395, 148
+  orig: 395, 148
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: true
+  xy: 1989, 926
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 2, 109
+  size: 541, 246
+  orig: 541, 246
+  offset: 0, 0
+  index: -1

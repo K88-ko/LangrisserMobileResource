@@ -1,0 +1,97 @@
+
+ScorpionGeneral.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 509, 400
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 633, 508
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 401, 617
+  size: 100, 159
+  orig: 100, 159
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 509, 508
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 509, 298
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 190
+  size: 412, 253
+  orig: 412, 253
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 401, 719
+  size: 258, 374
+  orig: 258, 374
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 2, 604
+  size: 397, 373
+  orig: 397, 373
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 326, 2
+  size: 283, 272
+  orig: 283, 272
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 562, 590
+  size: 142, 127
+  orig: 142, 127
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 2, 9
+  size: 179, 322
+  orig: 179, 322
+  offset: 0, 0
+  index: -1
+weiba_1
+  rotate: false
+  xy: 257, 276
+  size: 250, 326
+  orig: 250, 326
+  offset: 0, 0
+  index: -1
+weiba_2
+  rotate: false
+  xy: 777, 659
+  size: 208, 318
+  orig: 208, 318
+  offset: 0, 0
+  index: -1

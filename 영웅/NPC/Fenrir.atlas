@@ -1,0 +1,391 @@
+
+Fenrir.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fenrir/arminnerup
+  rotate: false
+  xy: 1802, 1389
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+Fenrir/armninnerdown
+  rotate: true
+  xy: 631, 589
+  size: 221, 143
+  orig: 221, 143
+  offset: 0, 0
+  index: -1
+Fenrir/armoutdown
+  rotate: false
+  xy: 404, 596
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+Fenrir/armoutup
+  rotate: false
+  xy: 984, 1218
+  size: 323, 306
+  orig: 323, 306
+  offset: 0, 0
+  index: -1
+Fenrir/body
+  rotate: true
+  xy: 2, 881
+  size: 556, 430
+  orig: 556, 430
+  offset: 0, 0
+  index: -1
+Fenrir/ear1
+  rotate: true
+  xy: 984, 1110
+  size: 106, 219
+  orig: 106, 219
+  offset: 0, 0
+  index: -1
+Fenrir/ear2
+  rotate: false
+  xy: 530, 435
+  size: 81, 159
+  orig: 81, 159
+  offset: 0, 0
+  index: -1
+Fenrir/face
+  rotate: false
+  xy: 461, 1525
+  size: 484, 521
+  orig: 484, 521
+  offset: 0, 0
+  index: -1
+Fenrir/face1
+  rotate: false
+  xy: 1472, 1280
+  size: 328, 209
+  orig: 328, 209
+  offset: 0, 0
+  index: -1
+Fenrir/face2
+  rotate: false
+  xy: 793, 995
+  size: 187, 185
+  orig: 187, 185
+  offset: 0, 0
+  index: -1
+Fenrir/foot1
+  rotate: false
+  xy: 1802, 1231
+  size: 202, 156
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+Fenrir/foot2
+  rotate: false
+  xy: 982, 943
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+Fenrir/foot3
+  rotate: true
+  xy: 638, 328
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+Fenrir/foot4
+  rotate: false
+  xy: 2, 4
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+Fenrir/guang1
+  rotate: false
+  xy: 1782, 1569
+  size: 256, 206
+  orig: 256, 206
+  offset: 0, 0
+  index: -1
+Fenrir/guang10
+  rotate: true
+  xy: 1309, 1290
+  size: 234, 161
+  orig: 234, 161
+  offset: 0, 0
+  index: -1
+Fenrir/guang2
+  rotate: true
+  xy: 434, 812
+  size: 168, 324
+  orig: 168, 324
+  offset: 0, 0
+  index: -1
+Fenrir/guang3
+  rotate: true
+  xy: 1472, 1140
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+Fenrir/guang4
+  rotate: false
+  xy: 139, 2
+  size: 192, 101
+  orig: 192, 101
+  offset: 0, 0
+  index: -1
+Fenrir/guang5
+  rotate: false
+  xy: 2006, 1348
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Fenrir/guang6
+  rotate: true
+  xy: 721, 328
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Fenrir/guang7
+  rotate: true
+  xy: 117, 50
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Fenrir/guang8
+  rotate: true
+  xy: 434, 1406
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Fenrir/guang9
+  rotate: false
+  xy: 1472, 1491
+  size: 308, 418
+  orig: 308, 418
+  offset: 0, 0
+  index: -1
+Fenrir/leginnerdown
+  rotate: true
+  xy: 1205, 1096
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+Fenrir/leginnerdown1
+  rotate: false
+  xy: 613, 460
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+Fenrir/leginnerup
+  rotate: true
+  xy: 1802, 1777
+  size: 269, 244
+  orig: 269, 244
+  offset: 0, 0
+  index: -1
+Fenrir/legoudown1
+  rotate: false
+  xy: 404, 104
+  size: 139, 220
+  orig: 139, 220
+  offset: 0, 0
+  index: -1
+Fenrir/legoutdown
+  rotate: true
+  xy: 1309, 1149
+  size: 139, 161
+  orig: 139, 161
+  offset: 0, 0
+  index: -1
+Fenrir/legoutup
+  rotate: true
+  xy: 434, 982
+  size: 198, 357
+  orig: 198, 357
+  offset: 0, 0
+  index: -1
+Fenrir/neck
+  rotate: true
+  xy: 461, 1182
+  size: 341, 521
+  orig: 341, 521
+  offset: 0, 0
+  index: -1
+Fenrir/suolian1
+  rotate: false
+  xy: 947, 1911
+  size: 801, 135
+  orig: 801, 135
+  offset: 0, 0
+  index: -1
+Fenrir/suolian2
+  rotate: true
+  xy: 2, 79
+  size: 800, 135
+  orig: 800, 135
+  offset: 0, 0
+  index: -1
+Fenrir/suolian3
+  rotate: true
+  xy: 139, 105
+  size: 774, 131
+  orig: 774, 131
+  offset: 0, 0
+  index: -1
+Fenrir/suolian4
+  rotate: true
+  xy: 272, 107
+  size: 772, 130
+  orig: 772, 130
+  offset: 0, 0
+  index: -1
+Fenrir/toushi
+  rotate: false
+  xy: 404, 326
+  size: 124, 268
+  orig: 124, 268
+  offset: 0, 0
+  index: -1
+Fenrir/weiba
+  rotate: false
+  xy: 2, 1439
+  size: 457, 607
+  orig: 457, 607
+  offset: 0, 0
+  index: -1
+Fenrir/weiba1
+  rotate: false
+  xy: 947, 1526
+  size: 523, 383
+  orig: 523, 383
+  offset: 0, 0
+  index: -1
+Fenrir/zhua1
+  rotate: false
+  xy: 1618, 1145
+  size: 102, 133
+  orig: 102, 133
+  offset: 0, 0
+  index: -1
+Fenrir/zhua10
+  rotate: true
+  xy: 721, 360
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+Fenrir/zhua11
+  rotate: true
+  xy: 1984, 1465
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+Fenrir/zhua12
+  rotate: false
+  xy: 1309, 1095
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+Fenrir/zhua13
+  rotate: true
+  xy: 1722, 1175
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+Fenrir/zhua14
+  rotate: true
+  xy: 654, 107
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+Fenrir/zhua15
+  rotate: true
+  xy: 1750, 1960
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+Fenrir/zhua16
+  rotate: true
+  xy: 1156, 1047
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+Fenrir/zhua2
+  rotate: false
+  xy: 530, 326
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Fenrir/zhua3
+  rotate: false
+  xy: 545, 97
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+Fenrir/zhua4
+  rotate: true
+  xy: 545, 198
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+Fenrir/zhua5
+  rotate: false
+  xy: 719, 470
+  size: 97, 117
+  orig: 97, 117
+  offset: 0, 0
+  index: -1
+Fenrir/zhua6
+  rotate: false
+  xy: 437, 10
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+Fenrir/zhua7
+  rotate: false
+  xy: 333, 2
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+Fenrir/zhua8
+  rotate: true
+  xy: 638, 200
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+Fenrir/zhua9
+  rotate: false
+  xy: 541, 15
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 1984, 1389
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

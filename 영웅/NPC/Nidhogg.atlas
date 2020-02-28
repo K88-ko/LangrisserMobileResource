@@ -1,0 +1,272 @@
+
+Nidhogg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fafnir/Nidhogg/Dragon_armoutdown
+  rotate: true
+  xy: 483, 3
+  size: 266, 345
+  orig: 266, 345
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_armoutup
+  rotate: false
+  xy: 1148, 641
+  size: 360, 296
+  orig: 360, 296
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_handinner
+  rotate: true
+  xy: 1622, 958
+  size: 247, 209
+  orig: 247, 209
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_handout
+  rotate: true
+  xy: 1843, 1784
+  size: 261, 197
+  orig: 261, 197
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_head
+  rotate: false
+  xy: 483, 271
+  size: 289, 510
+  orig: 289, 510
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_innerdown
+  rotate: false
+  xy: 1789, 603
+  size: 228, 310
+  orig: 228, 310
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_innerup
+  rotate: true
+  xy: 1436, 111
+  size: 233, 338
+  orig: 233, 338
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_jawbone
+  rotate: false
+  xy: 1833, 915
+  size: 208, 326
+  orig: 208, 326
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_leginner
+  rotate: false
+  xy: 1521, 346
+  size: 239, 305
+  orig: 239, 305
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_legout1
+  rotate: false
+  xy: 541, 796
+  size: 284, 149
+  orig: 284, 149
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_legoutdown
+  rotate: false
+  xy: 1762, 375
+  size: 183, 226
+  orig: 183, 226
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_legoutup
+  rotate: true
+  xy: 1510, 653
+  size: 284, 277
+  orig: 284, 277
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_neck1
+  rotate: false
+  xy: 774, 399
+  size: 372, 395
+  orig: 372, 395
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_neck2
+  rotate: false
+  xy: 1096, 100
+  size: 338, 281
+  orig: 338, 281
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_neck3
+  rotate: true
+  xy: 1148, 383
+  size: 256, 371
+  orig: 256, 371
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_toushi
+  rotate: false
+  xy: 830, 2
+  size: 264, 395
+  orig: 264, 395
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_weiba1
+  rotate: false
+  xy: 1216, 939
+  size: 404, 266
+  orig: 404, 266
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_weiba2
+  rotate: true
+  xy: 1751, 1243
+  size: 409, 294
+  orig: 409, 294
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_weiba3
+  rotate: false
+  xy: 541, 947
+  size: 370, 431
+  orig: 370, 431
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_winginner
+  rotate: false
+  xy: 1246, 1654
+  size: 595, 391
+  orig: 595, 391
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_winginner1
+  rotate: false
+  xy: 556, 1389
+  size: 618, 221
+  orig: 618, 221
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_winginner2
+  rotate: true
+  xy: 2, 33
+  size: 748, 326
+  orig: 748, 326
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_wingout
+  rotate: false
+  xy: 1246, 1207
+  size: 503, 445
+  orig: 503, 445
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_wingout1
+  rotate: true
+  xy: 330, 100
+  size: 681, 151
+  orig: 681, 151
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Dragon_wingout2
+  rotate: false
+  xy: 556, 1612
+  size: 688, 433
+  orig: 688, 433
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Eyelid01
+  rotate: true
+  xy: 827, 855
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Eyelid02
+  rotate: true
+  xy: 1947, 521
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Eyelid03
+  rotate: false
+  xy: 1762, 603
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Eyelid04
+  rotate: false
+  xy: 1762, 625
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/Eyelid05
+  rotate: false
+  xy: 1843, 1689
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/LandShadow
+  rotate: true
+  xy: 774, 323
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/body
+  rotate: false
+  xy: 2, 1380
+  size: 552, 665
+  orig: 552, 665
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/body1
+  rotate: false
+  xy: 2, 783
+  size: 537, 595
+  orig: 537, 595
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/daizi
+  rotate: false
+  xy: 913, 977
+  size: 301, 410
+  orig: 301, 410
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/yeti1
+  rotate: true
+  xy: 1096, 47
+  size: 51, 240
+  orig: 51, 240
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/yeti2
+  rotate: false
+  xy: 1176, 1495
+  size: 35, 115
+  orig: 35, 115
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/yeti3
+  rotate: true
+  xy: 330, 58
+  size: 40, 144
+  orig: 40, 144
+  offset: 0, 0
+  index: -1
+Fafnir/Nidhogg/yeti4
+  rotate: true
+  xy: 2, 8
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1

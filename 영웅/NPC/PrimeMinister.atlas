@@ -1,0 +1,167 @@
+
+PrimeMinister.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 874, 630
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 364, 270
+  size: 10, 51
+  orig: 10, 51
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 547, 282
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 500
+  size: 754, 503
+  orig: 754, 503
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: true
+  xy: 308, 151
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 758, 570
+  size: 111, 41
+  orig: 111, 41
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 707, 387
+  size: 111, 41
+  orig: 111, 41
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 874, 662
+  size: 111, 41
+  orig: 111, 41
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 364, 282
+  size: 181, 216
+  orig: 181, 216
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 547, 302
+  size: 158, 196
+  orig: 158, 196
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 2
+  size: 66, 128
+  orig: 66, 128
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 874, 775
+  size: 101, 228
+  orig: 101, 228
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 218, 73
+  size: 88, 188
+  orig: 88, 188
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 758, 613
+  size: 114, 390
+  orig: 114, 390
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 2, 70
+  size: 214, 191
+  orig: 214, 191
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 263
+  size: 360, 235
+  orig: 360, 235
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 707, 306
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: true
+  xy: 977, 939
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 308, 89
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 917, 713
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 758, 528
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 977, 874
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 132, 21
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1

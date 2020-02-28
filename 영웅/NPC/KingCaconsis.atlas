@@ -1,0 +1,216 @@
+
+KingCaconsis.png
+size: 1079,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_innner
+  rotate: false
+  xy: 742, 441
+  size: 170, 308
+  orig: 170, 308
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 2, 33
+  size: 396, 160
+  orig: 396, 160
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 979, 933
+  size: 144, 84
+  orig: 144, 84
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 539, 735
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 979, 782
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 490, 262
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 731
+  size: 535, 346
+  orig: 535, 346
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: true
+  xy: 2, 195
+  size: 84, 486
+  orig: 84, 486
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: true
+  xy: 2, 281
+  size: 78, 496
+  orig: 78, 496
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: true
+  xy: 1025, 55
+  size: 118, 51
+  orig: 118, 51
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 980, 237
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 920, 175
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 920, 235
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: true
+  xy: 400, 13
+  size: 180, 197
+  orig: 180, 197
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 507, 409
+  size: 320, 233
+  orig: 320, 233
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 2, 6
+  size: 99, 25
+  orig: 99, 25
+  offset: 0, 0
+  index: -1
+lingjin
+  rotate: false
+  xy: 507, 230
+  size: 242, 177
+  orig: 242, 177
+  offset: 0, 0
+  index: -1
+lingzi_innner
+  rotate: true
+  xy: 750, 14
+  size: 121, 183
+  orig: 121, 183
+  offset: 0, 0
+  index: -1
+lingzi_out
+  rotate: false
+  xy: 599, 14
+  size: 149, 214
+  orig: 149, 214
+  offset: 0, 0
+  index: -1
+mouth_1_Hrut
+  rotate: true
+  xy: 1036, 675
+  size: 126, 41
+  orig: 126, 41
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 935, 2
+  size: 127, 42
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 935, 46
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 980, 46
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 1018, 546
+  size: 127, 47
+  orig: 127, 47
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 979, 803
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+pijian_inner_1
+  rotate: false
+  xy: 2, 361
+  size: 503, 368
+  orig: 503, 368
+  offset: 0, 0
+  index: -1
+pijian_inner_2
+  rotate: false
+  xy: 920, 355
+  size: 114, 176
+  orig: 114, 176
+  offset: 0, 0
+  index: -1
+pijian_out_1
+  rotate: false
+  xy: 539, 751
+  size: 438, 326
+  orig: 438, 326
+  offset: 0, 0
+  index: -1
+pijian_out_2
+  rotate: true
+  xy: 751, 137
+  size: 302, 167
+  orig: 302, 167
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 914, 533
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1

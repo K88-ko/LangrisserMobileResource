@@ -139,7 +139,7 @@ hair_1_inner3
   index: -1
 hair_1_inner4
   rotate: false
-  xy: 1553, 90
+  xy: 148, 30
   size: 50, 29
   orig: 50, 29
   offset: 0, 0
@@ -212,6 +212,13 @@ hand_inner
   xy: 1777, 14
   size: 59, 100
   orig: 59, 100
+  offset: 0, 0
+  index: -1
+hongyun
+  rotate: true
+  xy: 815, 987
+  size: 64, 44
+  orig: 64, 44
   offset: 0, 0
   index: -1
 jianjia_inner1
@@ -299,15 +306,15 @@ mouth_1_Angry
   offset: 0, 0
   index: -1
 mouth_1_Battle_Injury
-  rotate: true
-  xy: 1911, 78
+  rotate: false
+  xy: 1995, 1634
   size: 36, 23
   orig: 36, 23
   offset: 0, 0
   index: -1
 mouth_1_Battle_Mighty
-  rotate: true
-  xy: 815, 995
+  rotate: false
+  xy: 1553, 86
   size: 56, 33
   orig: 56, 33
   offset: 0, 0
@@ -327,8 +334,8 @@ mouth_1_Normal
   offset: 0, 0
   index: -1
 mouth_1_Smile
-  rotate: false
-  xy: 148, 35
+  rotate: true
+  xy: 1611, 72
   size: 47, 24
   orig: 47, 24
   offset: 0, 0
@@ -354,6 +361,13 @@ mouth_2_Firm
   orig: 34, 21
   offset: 0, 0
   index: -1
+mouth_2_Shy
+  rotate: false
+  xy: 1935, 1473
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
 mouth_2_Smile
   rotate: true
   xy: 658, 136
@@ -363,14 +377,14 @@ mouth_2_Smile
   index: -1
 mouth_2_Surprise
   rotate: false
-  xy: 1995, 1631
+  xy: 190, 2
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 mouth_2_Worry
-  rotate: false
-  xy: 1605, 92
+  rotate: true
+  xy: 1879, 2
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
@@ -405,7 +419,7 @@ mouth_2_happy_D
   index: -1
 mouth_2_unhappy_A
   rotate: true
-  xy: 850, 1019
+  xy: 815, 953
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
@@ -425,8 +439,8 @@ mouth_2_unhappy_C
   offset: 0, 0
   index: -1
 mouth_2_unhappy_D
-  rotate: false
-  xy: 1935, 1476
+  rotate: true
+  xy: 1911, 77
   size: 37, 24
   orig: 37, 24
   offset: 0, 0

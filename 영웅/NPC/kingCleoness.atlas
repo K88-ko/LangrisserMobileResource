@@ -1,0 +1,265 @@
+
+kingCleoness.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 1128, 506
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 807, 40
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+bojia
+  rotate: true
+  xy: 1511, 14
+  size: 164, 185
+  orig: 164, 185
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: true
+  xy: 1960, 403
+  size: 129, 31
+  orig: 129, 31
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 2010, 786
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: true
+  xy: 1960, 534
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 807, 58
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1113, 41
+  size: 220, 257
+  orig: 220, 257
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: false
+  xy: 1446, 309
+  size: 204, 195
+  orig: 204, 195
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1128, 373
+  size: 131, 316
+  orig: 131, 316
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1603, 917
+  size: 105, 443
+  orig: 105, 443
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1128, 263
+  size: 108, 300
+  orig: 108, 300
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 657, 33
+  size: 58, 148
+  orig: 58, 148
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1372, 26
+  size: 137, 235
+  orig: 137, 235
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 425, 333
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 1511, 180
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 1652, 276
+  size: 107, 301
+  orig: 107, 301
+  offset: 0, 0
+  index: -1
+jianjia_inner_3
+  rotate: false
+  xy: 1658, 665
+  size: 350, 250
+  orig: 350, 250
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 2, 7
+  size: 503, 311
+  orig: 503, 311
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 1250, 506
+  size: 279, 406
+  orig: 279, 406
+  offset: 0, 0
+  index: -1
+jianjia_out_3
+  rotate: false
+  xy: 507, 19
+  size: 148, 72
+  orig: 148, 72
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 1790, 168
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 938, 64
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 938, 64
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: true
+  xy: 1908, 213
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 2010, 723
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 657, 2
+  size: 61, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1128, 545
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1641, 182
+  size: 92, 147
+  orig: 92, 147
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 1603, 874
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+peidai_1
+  rotate: true
+  xy: 425, 579
+  size: 201, 823
+  orig: 201, 823
+  offset: 0, 0
+  index: -1
+peidai_2
+  rotate: true
+  xy: 425, 782
+  size: 240, 810
+  orig: 240, 810
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 2, 320
+  size: 421, 702
+  orig: 421, 702
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 425, 362
+  size: 215, 701
+  orig: 215, 701
+  offset: 0, 0
+  index: -1
+yifu_1
+  rotate: true
+  xy: 1658, 385
+  size: 278, 300
+  orig: 278, 300
+  offset: 0, 0
+  index: -1
+yifu_2
+  rotate: true
+  xy: 507, 93
+  size: 267, 604
+  orig: 267, 604
+  offset: 0, 0
+  index: -1
+yifu_3
+  rotate: false
+  xy: 1237, 787
+  size: 364, 235
+  orig: 364, 235
+  offset: 0, 0
+  index: -1

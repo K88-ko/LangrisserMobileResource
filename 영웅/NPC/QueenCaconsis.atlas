@@ -1,0 +1,258 @@
+
+QueenCaconsis.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: false
+  xy: 770, 563
+  size: 128, 178
+  orig: 128, 178
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: true
+  xy: 728, 261
+  size: 57, 118
+  orig: 57, 118
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 511, 698
+  size: 154, 324
+  orig: 154, 324
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 511, 563
+  size: 133, 257
+  orig: 133, 257
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 2, 19
+  size: 242, 339
+  orig: 242, 339
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 2, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 574, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 712, 90
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 2, 263
+  size: 298, 602
+  orig: 298, 602
+  offset: 0, 0
+  index: -1
+chest_inner
+  rotate: false
+  xy: 724, 122
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+chest_out
+  rotate: true
+  xy: 580, 112
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 580, 20
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 606, 269
+  size: 115, 36
+  orig: 115, 36
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 343, 3
+  size: 114, 36
+  orig: 114, 36
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 459, 4
+  size: 113, 35
+  orig: 113, 35
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 343, 41
+  size: 235, 220
+  orig: 235, 220
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 900, 592
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: true
+  xy: 848, 284
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 924, 369
+  size: 66, 221
+  orig: 66, 221
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: true
+  xy: 667, 906
+  size: 116, 329
+  orig: 116, 329
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 846, 330
+  size: 76, 231
+  orig: 76, 231
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: false
+  xy: 913, 788
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: false
+  xy: 728, 320
+  size: 116, 241
+  orig: 116, 241
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 724, 25
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 580, 56
+  size: 54, 130
+  orig: 54, 130
+  offset: 0, 0
+  index: -1
+maozi_1
+  rotate: false
+  xy: 667, 743
+  size: 244, 161
+  orig: 244, 161
+  offset: 0, 0
+  index: -1
+maozi_2
+  rotate: false
+  xy: 606, 307
+  size: 120, 254
+  orig: 120, 254
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 924, 348
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 607, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 992, 547
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 738, 721
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 992, 568
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 831, 27
+  size: 76, 93
+  orig: 76, 93
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: true
+  xy: 667, 698
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 563
+  size: 507, 459
+  orig: 507, 459
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 900, 585
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

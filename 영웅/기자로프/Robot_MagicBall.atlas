@@ -1,0 +1,111 @@
+
+Robot_MagicBall.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MagicBall/MagicBall_2
+  rotate: false
+  xy: 337, 376
+  size: 168, 153
+  orig: 168, 153
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_4
+  rotate: true
+  xy: 2, 15
+  size: 153, 128
+  orig: 153, 128
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_5
+  rotate: false
+  xy: 337, 85
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+MagicBall/MagicBall_6
+  rotate: false
+  xy: 337, 222
+  size: 169, 152
+  orig: 169, 152
+  offset: 0, 0
+  index: -1
+MagicBall/blood
+  rotate: false
+  xy: 2, 608
+  size: 451, 411
+  orig: 451, 411
+  offset: 0, 0
+  index: -1
+MagicBall/qiu
+  rotate: false
+  xy: 455, 608
+  size: 451, 411
+  orig: 451, 411
+  offset: 0, 0
+  index: -1
+MagicBall/shandian_1
+  rotate: true
+  xy: 513, 316
+  size: 290, 349
+  orig: 290, 349
+  offset: 0, 0
+  index: -1
+MagicBall/shandian_2
+  rotate: true
+  xy: 2, 170
+  size: 337, 333
+  orig: 337, 333
+  offset: 0, 0
+  index: -1
+Robot/blood
+  rotate: false
+  xy: 132, 4
+  size: 100, 164
+  orig: 100, 164
+  offset: 0, 0
+  index: -1
+Robot/qiu_1
+  rotate: false
+  xy: 234, 94
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Robot/qiu_2
+  rotate: true
+  xy: 508, 2
+  size: 312, 308
+  orig: 312, 308
+  offset: 0, 0
+  index: -1
+Robot/quan_inner_1
+  rotate: true
+  xy: 908, 509
+  size: 510, 85
+  orig: 510, 85
+  offset: 0, 0
+  index: -1
+Robot/quan_inner_2
+  rotate: false
+  xy: 2, 531
+  size: 509, 75
+  orig: 509, 75
+  offset: 0, 0
+  index: -1
+Robot/quan_out_1
+  rotate: true
+  xy: 864, 68
+  size: 439, 78
+  orig: 439, 78
+  offset: 0, 0
+  index: -1
+Robot/quan_out_2
+  rotate: true
+  xy: 944, 70
+  size: 437, 74
+  orig: 437, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Rivaas.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 987, 849
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 987, 728
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 533, 658
+  size: 358, 452
+  orig: 358, 452
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 533, 325
+  size: 227, 70
+  orig: 227, 70
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury1
+  rotate: false
+  xy: 779, 33
+  size: 105, 57
+  orig: 105, 57
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 815, 177
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 886, 22
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 942, 22
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 775, 413
+  size: 246, 243
+  orig: 246, 243
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 886, 129
+  size: 131, 153
+  orig: 131, 153
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: true
+  xy: 572, 250
+  size: 73, 170
+  orig: 73, 170
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 572, 10
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+lingzi_inner_1
+  rotate: false
+  xy: 697, 92
+  size: 116, 156
+  orig: 116, 156
+  offset: 0, 0
+  index: -1
+lingzi_out_1
+  rotate: true
+  xy: 533, 397
+  size: 259, 240
+  orig: 259, 240
+  offset: 0, 0
+  index: -1
+lingzi_out_2
+  rotate: true
+  xy: 987, 993
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: true
+  xy: 987, 678
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 987, 746
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 987, 797
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 987, 887
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 987, 940
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 572, 85
+  size: 123, 163
+  orig: 123, 163
+  offset: 0, 0
+  index: -1
+pijian_inner_1
+  rotate: true
+  xy: 2, 2
+  size: 319, 568
+  orig: 319, 568
+  offset: 0, 0
+  index: -1
+pijian_inner_2
+  rotate: true
+  xy: 775, 284
+  size: 127, 197
+  orig: 127, 197
+  offset: 0, 0
+  index: -1
+pijian_out_1
+  rotate: false
+  xy: 2, 323
+  size: 529, 693
+  orig: 529, 693
+  offset: 0, 0
+  index: -1
+pijian_out_2
+  rotate: true
+  xy: 677, 10
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1

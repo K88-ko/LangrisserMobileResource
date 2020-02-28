@@ -1,0 +1,510 @@
+
+Hugin_Munin01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hugin_Munin/Hugin_Munin01/arminnerdown
+  rotate: false
+  xy: 1074, 842
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/arminnerup
+  rotate: false
+  xy: 518, 437
+  size: 54, 121
+  orig: 54, 121
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/armoutdown
+  rotate: false
+  xy: 732, 568
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/armoutup
+  rotate: false
+  xy: 1174, 1051
+  size: 124, 67
+  orig: 124, 67
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/body
+  rotate: false
+  xy: 1757, 1517
+  size: 132, 179
+  orig: 132, 179
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/daizi
+  rotate: false
+  xy: 319, 988
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/footinnerdown
+  rotate: false
+  xy: 579, 363
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/footout
+  rotate: true
+  xy: 1074, 894
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/guang
+  rotate: true
+  xy: 1474, 1703
+  size: 197, 301
+  orig: 197, 301
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/hair
+  rotate: false
+  xy: 1083, 1663
+  size: 389, 379
+  orig: 389, 379
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/handinner
+  rotate: true
+  xy: 579, 300
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/handout
+  rotate: true
+  xy: 1176, 883
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/handout1
+  rotate: false
+  xy: 1176, 840
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/head
+  rotate: false
+  xy: 526, 753
+  size: 237, 97
+  orig: 237, 97
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/hudang
+  rotate: false
+  xy: 786, 832
+  size: 211, 175
+  orig: 211, 175
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/hudanginner
+  rotate: false
+  xy: 1842, 1907
+  size: 198, 135
+  orig: 198, 135
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/leginnerdown
+  rotate: true
+  xy: 660, 447
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/leginnerup
+  rotate: false
+  xy: 574, 454
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/legoutdown
+  rotate: true
+  xy: 338, 2
+  size: 74, 136
+  orig: 74, 136
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/legoutup
+  rotate: false
+  xy: 1065, 1010
+  size: 107, 123
+  orig: 107, 123
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/mouth01
+  rotate: false
+  xy: 1474, 1693
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/mouth02
+  rotate: true
+  xy: 1041, 1786
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/mouth03
+  rotate: false
+  xy: 1891, 1688
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/mouth04
+  rotate: false
+  xy: 481, 297
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/neck
+  rotate: false
+  xy: 1176, 945
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian1
+  rotate: false
+  xy: 1062, 1135
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian2
+  rotate: true
+  xy: 1500, 1320
+  size: 169, 257
+  orig: 169, 257
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian3
+  rotate: true
+  xy: 1759, 1332
+  size: 183, 178
+  orig: 183, 178
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian4
+  rotate: false
+  xy: 338, 78
+  size: 143, 217
+  orig: 143, 217
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian5
+  rotate: true
+  xy: 999, 845
+  size: 162, 73
+  orig: 162, 73
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/shandian6
+  rotate: false
+  xy: 1777, 1698
+  size: 129, 202
+  orig: 129, 202
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao1
+  rotate: true
+  xy: 470, 436
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao2
+  rotate: false
+  xy: 566, 1112
+  size: 246, 595
+  orig: 246, 595
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao3
+  rotate: true
+  xy: 566, 1009
+  size: 101, 246
+  orig: 101, 246
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao4
+  rotate: false
+  xy: 2, 988
+  size: 315, 719
+  orig: 315, 719
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao5
+  rotate: false
+  xy: 2, 296
+  size: 260, 690
+  orig: 260, 690
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao6
+  rotate: false
+  xy: 2, 1905
+  size: 1079, 137
+  orig: 1079, 137
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao7
+  rotate: false
+  xy: 2, 1800
+  size: 1050, 103
+  orig: 1050, 103
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao8
+  rotate: false
+  xy: 814, 1133
+  size: 246, 574
+  orig: 246, 574
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/texiao9
+  rotate: false
+  xy: 514, 560
+  size: 80, 191
+  orig: 80, 191
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/tuijiainner
+  rotate: false
+  xy: 481, 312
+  size: 47, 122
+  orig: 47, 122
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/tuijiainner_fx
+  rotate: false
+  xy: 530, 313
+  size: 47, 122
+  orig: 47, 122
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/tuijiaout
+  rotate: false
+  xy: 1891, 1554
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/tuijiaout_fx
+  rotate: false
+  xy: 1955, 1554
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/weapon
+  rotate: false
+  xy: 319, 1030
+  size: 245, 677
+  orig: 245, 677
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/weapon1
+  rotate: false
+  xy: 2, 1709
+  size: 1037, 89
+  orig: 1037, 89
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner
+  rotate: false
+  xy: 264, 297
+  size: 215, 127
+  orig: 215, 127
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner1
+  rotate: false
+  xy: 1500, 1491
+  size: 255, 210
+  orig: 255, 210
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner2
+  rotate: true
+  xy: 652, 349
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner3
+  rotate: false
+  xy: 264, 700
+  size: 106, 286
+  orig: 106, 286
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner4
+  rotate: false
+  xy: 596, 665
+  size: 167, 86
+  orig: 167, 86
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner5
+  rotate: false
+  xy: 814, 1009
+  size: 249, 122
+  orig: 249, 122
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner6
+  rotate: false
+  xy: 1299, 1157
+  size: 42, 137
+  orig: 42, 137
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner7
+  rotate: true
+  xy: 264, 426
+  size: 272, 141
+  orig: 272, 141
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner8
+  rotate: true
+  xy: 765, 690
+  size: 140, 221
+  orig: 140, 221
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/winginner9
+  rotate: true
+  xy: 1908, 1688
+  size: 217, 125
+  orig: 217, 125
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout
+  rotate: true
+  xy: 372, 761
+  size: 267, 152
+  orig: 267, 152
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout1
+  rotate: false
+  xy: 2, 4
+  size: 334, 290
+  orig: 334, 290
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout2
+  rotate: true
+  xy: 407, 426
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout3
+  rotate: false
+  xy: 1062, 1308
+  size: 126, 353
+  orig: 126, 353
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout4
+  rotate: true
+  xy: 407, 548
+  size: 211, 105
+  orig: 211, 105
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout5
+  rotate: true
+  xy: 1190, 1354
+  size: 307, 160
+  orig: 307, 160
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout6
+  rotate: true
+  xy: 1190, 1296
+  size: 56, 154
+  orig: 56, 154
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout7
+  rotate: false
+  xy: 1474, 1902
+  size: 366, 140
+  orig: 366, 140
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout8
+  rotate: true
+  xy: 1352, 1376
+  size: 285, 146
+  orig: 285, 146
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/wingout9
+  rotate: false
+  xy: 526, 852
+  size: 258, 155
+  orig: 258, 155
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/xiongjia
+  rotate: false
+  xy: 596, 555
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/xiongshi
+  rotate: false
+  xy: 1054, 1820
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/xiongshi_fx
+  rotate: true
+  xy: 1352, 1356
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/yaodai
+  rotate: false
+  xy: 1179, 1208
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+Hugin_Munin/Hugin_Munin01/yaodai_fx
+  rotate: false
+  xy: 1179, 1120
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 1174, 1011
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+Paruah.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Paruah/arm_inner_down
+  rotate: true
+  xy: 400, 453
+  size: 339, 660
+  orig: 339, 660
+  offset: 0, 0
+  index: -1
+Paruah/arm_inner_up_1
+  rotate: false
+  xy: 837, 227
+  size: 191, 224
+  orig: 191, 224
+  offset: 0, 0
+  index: -1
+Paruah/arm_inner_up_2
+  rotate: false
+  xy: 2, 2
+  size: 162, 365
+  orig: 162, 365
+  offset: 0, 0
+  index: -1
+Paruah/arm_out_up
+  rotate: true
+  xy: 400, 794
+  size: 222, 795
+  orig: 222, 795
+  offset: 0, 0
+  index: -1
+Paruah/blood_1
+  rotate: true
+  xy: 290, 8
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Paruah/blood_2
+  rotate: true
+  xy: 837, 49
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+Paruah/body_down
+  rotate: false
+  xy: 2, 369
+  size: 396, 647
+  orig: 396, 647
+  offset: 0, 0
+  index: -1
+Paruah/body_up
+  rotate: false
+  xy: 400, 48
+  size: 435, 403
+  orig: 435, 403
+  offset: 0, 0
+  index: -1
+Paruah/eye_1_Hurt
+  rotate: true
+  xy: 323, 245
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+Paruah/eye_1_Normal_1
+  rotate: true
+  xy: 1132, 670
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+Paruah/eye_1_Normal_2
+  rotate: true
+  xy: 357, 245
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+Paruah/eye_1_Normal_3
+  rotate: false
+  xy: 166, 2
+  size: 122, 33
+  orig: 122, 33
+  offset: 0, 0
+  index: -1
+Paruah/face
+  rotate: false
+  xy: 166, 139
+  size: 155, 228
+  orig: 155, 228
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_1
+  rotate: true
+  xy: 166, 37
+  size: 100, 171
+  orig: 100, 171
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_2
+  rotate: false
+  xy: 1871, 467
+  size: 98, 146
+  orig: 98, 146
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_3
+  rotate: false
+  xy: 1866, 615
+  size: 96, 181
+  orig: 96, 181
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_4
+  rotate: false
+  xy: 1115, 325
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_inner_1
+  rotate: true
+  xy: 1701, 505
+  size: 94, 168
+  orig: 94, 168
+  offset: 0, 0
+  index: -1
+Paruah/hair_1_inner_2
+  rotate: false
+  xy: 1030, 278
+  size: 83, 173
+  orig: 83, 173
+  offset: 0, 0
+  index: -1
+Paruah/hand_inner_1
+  rotate: false
+  xy: 1030, 162
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Paruah/hand_inner_2
+  rotate: false
+  xy: 1029, 52
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+Paruah/hat
+  rotate: false
+  xy: 1701, 798
+  size: 284, 218
+  orig: 284, 218
+  offset: 0, 0
+  index: -1
+Paruah/jianjia_inner
+  rotate: true
+  xy: 837, 68
+  size: 157, 190
+  orig: 157, 190
+  offset: 0, 0
+  index: -1
+Paruah/jianjia_out
+  rotate: false
+  xy: 1701, 601
+  size: 163, 195
+  orig: 163, 195
+  offset: 0, 0
+  index: -1
+Paruah/lingzi_inner
+  rotate: true
+  xy: 1987, 811
+  size: 205, 57
+  orig: 205, 57
+  offset: 0, 0
+  index: -1
+Paruah/mouth_1_Hurt
+  rotate: false
+  xy: 1115, 299
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Paruah/mouth_1_Normal_A
+  rotate: true
+  xy: 1166, 746
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+Paruah/mouth_1_Normal_B
+  rotate: true
+  xy: 1132, 622
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Paruah/mouth_1_Normal_C
+  rotate: false
+  xy: 323, 218
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Paruah/mouth_1_Normal_D
+  rotate: true
+  xy: 1964, 750
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Paruah/neck
+  rotate: false
+  xy: 1062, 454
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+Paruah/toushi
+  rotate: false
+  xy: 1062, 557
+  size: 68, 235
+  orig: 68, 235
+  offset: 0, 0
+  index: -1
+Paruah/weijin
+  rotate: true
+  xy: 1197, 593
+  size: 423, 502
+  orig: 423, 502
+  offset: 0, 0
+  index: -1

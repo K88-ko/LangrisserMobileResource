@@ -1,0 +1,146 @@
+
+Bruno.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 990, 536
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 592, 39
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 822, 134
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 579
+  size: 715, 443
+  orig: 715, 443
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 199
+  size: 365, 378
+  orig: 365, 378
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 675, 268
+  size: 256, 309
+  orig: 256, 309
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 667, 23
+  size: 131, 153
+  orig: 131, 153
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 369, 169
+  size: 408, 304
+  orig: 408, 304
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 675, 156
+  size: 110, 186
+  orig: 110, 186
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 919, 585
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 719, 581
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 933, 306
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 933, 399
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 933, 492
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 863, 175
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 719, 635
+  size: 303, 387
+  orig: 303, 387
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 352, 80
+  size: 87, 313
+  orig: 87, 313
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 352, 2
+  size: 76, 238
+  orig: 76, 238
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 2, 4
+  size: 348, 193
+  orig: 348, 193
+  offset: 0, 0
+  index: -1
+xiongjia_2
+  rotate: true
+  xy: 816, 590
+  size: 43, 101
+  orig: 43, 101
+  offset: 0, 0
+  index: -1

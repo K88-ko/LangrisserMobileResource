@@ -1,0 +1,76 @@
+
+Naaru.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 899, 932
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 414, 240
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 2, 474
+  size: 618, 535
+  orig: 618, 535
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 2, 213
+  size: 410, 259
+  orig: 410, 259
+  offset: 0, 0
+  index: -1
+body_up_4
+  rotate: false
+  xy: 622, 717
+  size: 275, 292
+  orig: 275, 292
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 622, 477
+  size: 253, 238
+  orig: 253, 238
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 2, 2
+  size: 224, 209
+  orig: 224, 209
+  offset: 0, 0
+  index: -1
+lingzi_1
+  rotate: false
+  xy: 228, 23
+  size: 134, 188
+  orig: 134, 188
+  offset: 0, 0
+  index: -1
+lingzi_2
+  rotate: true
+  xy: 414, 264
+  size: 208, 147
+  orig: 208, 147
+  offset: 0, 0
+  index: -1
+lingzi_3
+  rotate: false
+  xy: 563, 322
+  size: 128, 150
+  orig: 128, 150
+  offset: 0, 0
+  index: -1

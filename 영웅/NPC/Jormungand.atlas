@@ -1,0 +1,153 @@
+
+Jormungand.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jormungand/Dragon_head
+  rotate: true
+  xy: 776, 1209
+  size: 340, 863
+  orig: 340, 863
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_jawbone
+  rotate: true
+  xy: 738, 39
+  size: 222, 363
+  orig: 222, 363
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_neck1
+  rotate: false
+  xy: 2, 1190
+  size: 772, 829
+  orig: 772, 829
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_neck2
+  rotate: false
+  xy: 2, 2
+  size: 431, 633
+  orig: 431, 633
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_neck3
+  rotate: false
+  xy: 2, 637
+  size: 724, 551
+  orig: 724, 551
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushi
+  rotate: false
+  xy: 776, 1551
+  size: 765, 468
+  orig: 765, 468
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushi1
+  rotate: true
+  xy: 435, 34
+  size: 601, 301
+  orig: 601, 301
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushi2
+  rotate: false
+  xy: 1543, 1577
+  size: 476, 442
+  orig: 476, 442
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushi3
+  rotate: true
+  xy: 738, 263
+  size: 413, 305
+  orig: 413, 305
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushi4
+  rotate: false
+  xy: 728, 678
+  size: 351, 251
+  orig: 351, 251
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushiinner
+  rotate: false
+  xy: 1045, 347
+  size: 209, 262
+  orig: 209, 262
+  offset: 0, 0
+  index: -1
+Jormungand/Dragon_toushiinner1
+  rotate: false
+  xy: 1081, 611
+  size: 398, 318
+  orig: 398, 318
+  offset: 0, 0
+  index: -1
+Jormungand/Eyelid01
+  rotate: false
+  xy: 728, 1147
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Jormungand/Eyelid02
+  rotate: false
+  xy: 1481, 829
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+Jormungand/shitou1
+  rotate: false
+  xy: 776, 931
+  size: 563, 276
+  orig: 563, 276
+  offset: 0, 0
+  index: -1
+Jormungand/shitou2
+  rotate: false
+  xy: 1635, 751
+  size: 407, 370
+  orig: 407, 370
+  offset: 0, 0
+  index: -1
+Jormungand/shitou3
+  rotate: false
+  xy: 1045, 286
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Jormungand/shitou4
+  rotate: true
+  xy: 435, 4
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Jormungand/shitou5
+  rotate: true
+  xy: 1641, 1123
+  size: 452, 394
+  orig: 452, 394
+  offset: 0, 0
+  index: -1
+Jormungand/shitou6
+  rotate: false
+  xy: 1341, 935
+  size: 292, 272
+  orig: 292, 272
+  offset: 0, 0
+  index: -1
+Jormungand/shitou7
+  rotate: false
+  xy: 1256, 391
+  size: 191, 218
+  orig: 191, 218
+  offset: 0, 0
+  index: -1

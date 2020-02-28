@@ -1,0 +1,146 @@
+
+UnicornGeneral.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 692, 300
+  size: 208, 71
+  orig: 208, 71
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 635
+  size: 543, 383
+  orig: 543, 383
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 983, 706
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: false
+  xy: 934, 684
+  size: 47, 132
+  orig: 47, 132
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 897, 373
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 2, 2
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 83, 2
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 669, 165
+  size: 193, 133
+  orig: 193, 133
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 469, 323
+  size: 310, 221
+  orig: 310, 221
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 897, 454
+  size: 209, 65
+  orig: 209, 65
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 391, 161
+  size: 276, 160
+  orig: 276, 160
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 669, 44
+  size: 119, 204
+  orig: 119, 204
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 328
+  size: 465, 305
+  orig: 465, 305
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 547, 818
+  size: 463, 200
+  orig: 463, 200
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 547, 665
+  size: 385, 151
+  orig: 385, 151
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 391, 18
+  size: 71, 174
+  orig: 71, 174
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 391, 91
+  size: 243, 68
+  orig: 243, 68
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 902, 176
+  size: 195, 98
+  orig: 195, 98
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 57
+  size: 269, 387
+  orig: 269, 387
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 692, 373
+  size: 203, 290
+  orig: 203, 290
+  offset: 0, 0
+  index: -1
