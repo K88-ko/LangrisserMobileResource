@@ -1,0 +1,363 @@
+
+Angelina_Skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelina/Angelina_Skin/Dragon_body
+  rotate: false
+  xy: 786, 358
+  size: 161, 152
+  orig: 161, 152
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_legout
+  rotate: false
+  xy: 450, 125
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_legout1
+  rotate: false
+  xy: 490, 202
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_mouth
+  rotate: false
+  xy: 562, 204
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_shipin1
+  rotate: false
+  xy: 271, 304
+  size: 157, 110
+  orig: 157, 110
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_toushi
+  rotate: false
+  xy: 921, 267
+  size: 28, 89
+  orig: 28, 89
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/Dragon_weiba
+  rotate: true
+  xy: 608, 358
+  size: 152, 176
+  orig: 152, 176
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/arminnerdown
+  rotate: true
+  xy: 603, 198
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/arminnerup
+  rotate: true
+  xy: 579, 391
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/armoutdown
+  rotate: true
+  xy: 634, 198
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/body
+  rotate: false
+  xy: 326, 18
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/dragon_head
+  rotate: true
+  xy: 260, 83
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyebrow
+  rotate: false
+  xy: 635, 247
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyehard
+  rotate: true
+  xy: 377, 20
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyehard1
+  rotate: false
+  xy: 714, 239
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyehard2
+  rotate: true
+  xy: 557, 245
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyehard3
+  rotate: false
+  xy: 572, 242
+  size: 61, 12
+  orig: 61, 12
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyesffuer
+  rotate: false
+  xy: 490, 176
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/eyeyun
+  rotate: true
+  xy: 400, 21
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/face
+  rotate: true
+  xy: 430, 308
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/hair1
+  rotate: false
+  xy: 949, 361
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/hair2
+  rotate: false
+  xy: 438, 217
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/hair5
+  rotate: true
+  xy: 579, 256
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/hairbcak
+  rotate: false
+  xy: 137, 83
+  size: 121, 252
+  orig: 121, 252
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/horse_leginner
+  rotate: true
+  xy: 388, 83
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/jianjiainner
+  rotate: true
+  xy: 777, 236
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/jianjiainner1
+  rotate: false
+  xy: 579, 360
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/jianjiainner2
+  rotate: false
+  xy: 490, 245
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/jianjiaout
+  rotate: true
+  xy: 496, 137
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/jianjiaout1
+  rotate: true
+  xy: 403, 195
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/legoutdown
+  rotate: true
+  xy: 635, 222
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/legoutup
+  rotate: true
+  xy: 496, 107
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/mouth01
+  rotate: false
+  xy: 697, 247
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/mouth02
+  rotate: false
+  xy: 415, 117
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/mouth03
+  rotate: true
+  xy: 603, 373
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/pifeng
+  rotate: false
+  xy: 2, 337
+  size: 267, 173
+  orig: 267, 173
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/pifenginner
+  rotate: false
+  xy: 714, 262
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/pifengout
+  rotate: false
+  xy: 260, 193
+  size: 141, 109
+  orig: 141, 109
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/qipao
+  rotate: false
+  xy: 450, 175
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/qunzi2
+  rotate: false
+  xy: 951, 308
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/shipinback
+  rotate: false
+  xy: 949, 447
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/toushi
+  rotate: false
+  xy: 2, 2
+  size: 111, 35
+  orig: 111, 35
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/toushi1
+  rotate: true
+  xy: 951, 266
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/toushi2
+  rotate: false
+  xy: 243, 19
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/toushi3
+  rotate: false
+  xy: 415, 130
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/water
+  rotate: false
+  xy: 271, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/weapon
+  rotate: false
+  xy: 137, 20
+  size: 104, 61
+  orig: 104, 61
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/weapon1
+  rotate: true
+  xy: 2, 39
+  size: 296, 133
+  orig: 296, 133
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/yaojiainner
+  rotate: false
+  xy: 679, 216
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Skin/yaojiaout
+  rotate: false
+  xy: 829, 265
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 388, 117
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+KingCaconsis_Magic3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KingCaconsis/Shadow
+  rotate: true
+  xy: 353, 235
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+KingCaconsis/arminnerdown
+  rotate: false
+  xy: 112, 90
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+KingCaconsis/arminnerup
+  rotate: false
+  xy: 358, 197
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+KingCaconsis/armoutdown
+  rotate: false
+  xy: 230, 207
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+KingCaconsis/armoutup
+  rotate: true
+  xy: 157, 125
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+KingCaconsis/body
+  rotate: false
+  xy: 290, 387
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+KingCaconsis/daizi
+  rotate: true
+  xy: 290, 339
+  size: 46, 106
+  orig: 46, 106
+  offset: 0, 0
+  index: -1
+KingCaconsis/daizi1
+  rotate: true
+  xy: 2, 4
+  size: 35, 102
+  orig: 35, 102
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyebrow
+  rotate: true
+  xy: 491, 425
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyehard
+  rotate: true
+  xy: 142, 138
+  size: 77, 13
+  orig: 77, 13
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyehard1
+  rotate: false
+  xy: 279, 219
+  size: 77, 13
+  orig: 77, 13
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyehard2
+  rotate: false
+  xy: 279, 208
+  size: 77, 9
+  orig: 77, 9
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyehard3
+  rotate: false
+  xy: 279, 234
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyesffuer
+  rotate: false
+  xy: 147, 218
+  size: 81, 26
+  orig: 81, 26
+  offset: 0, 0
+  index: -1
+KingCaconsis/eyeyun
+  rotate: false
+  xy: 290, 311
+  size: 81, 26
+  orig: 81, 26
+  offset: 0, 0
+  index: -1
+KingCaconsis/face
+  rotate: false
+  xy: 2, 104
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+KingCaconsis/handinner
+  rotate: false
+  xy: 150, 91
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+KingCaconsis/handout
+  rotate: true
+  xy: 140, 54
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+KingCaconsis/hat
+  rotate: false
+  xy: 2, 217
+  size: 143, 113
+  orig: 143, 113
+  offset: 0, 0
+  index: -1
+KingCaconsis/huzi
+  rotate: true
+  xy: 469, 322
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+KingCaconsis/leginnerdown
+  rotate: false
+  xy: 206, 114
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+KingCaconsis/leginnerup
+  rotate: false
+  xy: 110, 44
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+KingCaconsis/legoutdown
+  rotate: false
+  xy: 202, 161
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+KingCaconsis/legoutup
+  rotate: false
+  xy: 237, 109
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+KingCaconsis/lingzi
+  rotate: false
+  xy: 147, 246
+  size: 135, 84
+  orig: 135, 84
+  offset: 0, 0
+  index: -1
+KingCaconsis/pijianinner
+  rotate: false
+  xy: 157, 161
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+KingCaconsis/pijianout
+  rotate: false
+  xy: 398, 323
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+KingCaconsis/pijianout1
+  rotate: true
+  xy: 238, 158
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+KingCaconsis/shangyiinner
+  rotate: false
+  xy: 112, 127
+  size: 28, 88
+  orig: 28, 88
+  offset: 0, 0
+  index: -1
+KingCaconsis/shangyiinner1
+  rotate: true
+  xy: 398, 384
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+KingCaconsis/shangyiout
+  rotate: true
+  xy: 2, 41
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+KingCaconsis/texiao
+  rotate: false
+  xy: 284, 244
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+KingCaconsis/weapon
+  rotate: false
+  xy: 2, 332
+  size: 286, 174
+  orig: 286, 174
+  offset: 0, 0
+  index: -1

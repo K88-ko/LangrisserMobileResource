@@ -1,0 +1,391 @@
+
+Fana_Skin02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fana/Fana_Skin02/Shadow
+  rotate: false
+  xy: 297, 345
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/arminnerdown
+  rotate: false
+  xy: 425, 343
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/arminnerup
+  rotate: true
+  xy: 130, 149
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/armoutdown
+  rotate: false
+  xy: 383, 310
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/armoutdown1
+  rotate: false
+  xy: 225, 247
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/armoutup
+  rotate: true
+  xy: 391, 376
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/body
+  rotate: true
+  xy: 171, 281
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyebrow
+  rotate: true
+  xy: 213, 180
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyehard
+  rotate: true
+  xy: 130, 171
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyehard1
+  rotate: false
+  xy: 431, 430
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyehard2
+  rotate: true
+  xy: 153, 171
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyehard3
+  rotate: true
+  xy: 129, 70
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyesffuer
+  rotate: false
+  xy: 155, 249
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/eyeyun
+  rotate: false
+  xy: 425, 397
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/face
+  rotate: true
+  xy: 169, 397
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hair1
+  rotate: true
+  xy: 305, 450
+  size: 60, 124
+  orig: 60, 124
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hair2
+  rotate: true
+  xy: 305, 403
+  size: 45, 118
+  orig: 45, 118
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hair3
+  rotate: false
+  xy: 2, 130
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hair4
+  rotate: false
+  xy: 2, 23
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hair5
+  rotate: false
+  xy: 2, 246
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/handout
+  rotate: true
+  xy: 67, 6
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hat1
+  rotate: false
+  xy: 2, 388
+  size: 165, 122
+  orig: 165, 122
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hat2
+  rotate: false
+  xy: 249, 344
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/hat3
+  rotate: true
+  xy: 425, 366
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/jianjia1
+  rotate: false
+  xy: 373, 345
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/leginnerdown1
+  rotate: false
+  xy: 139, 12
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/leginnerdown2
+  rotate: true
+  xy: 2, 2
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/leginnerup1
+  rotate: false
+  xy: 332, 296
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/leginnerup2
+  rotate: false
+  xy: 123, 246
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/legoutdown1
+  rotate: false
+  xy: 361, 299
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/legoutdown2
+  rotate: false
+  xy: 142, 55
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/legoutup1
+  rotate: false
+  xy: 302, 294
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/legoutup2
+  rotate: false
+  xy: 242, 285
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/mouth01
+  rotate: true
+  xy: 297, 382
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/mouth02
+  rotate: true
+  xy: 75, 130
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/mouth04
+  rotate: true
+  xy: 129, 52
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi1
+  rotate: false
+  xy: 179, 149
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi2
+  rotate: false
+  xy: 169, 189
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi3
+  rotate: false
+  xy: 99, 2
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi4
+  rotate: false
+  xy: 431, 453
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi5
+  rotate: true
+  xy: 484, 337
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/peishi6
+  rotate: true
+  xy: 169, 171
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/qiaokeli1
+  rotate: false
+  xy: 48, 10
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/qiaokeli2
+  rotate: false
+  xy: 171, 132
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/qunzi1
+  rotate: false
+  xy: 171, 340
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/qunzi3
+  rotate: true
+  xy: 75, 145
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/shoutao1
+  rotate: true
+  xy: 411, 346
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/shoutao2
+  rotate: true
+  xy: 142, 100
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/shoutao3
+  rotate: true
+  xy: 269, 292
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/tx1
+  rotate: true
+  xy: 494, 368
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/tx2
+  rotate: true
+  xy: 99, 52
+  size: 91, 28
+  orig: 91, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/tx3
+  rotate: true
+  xy: 67, 28
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/tx4
+  rotate: false
+  xy: 305, 372
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/weapon
+  rotate: true
+  xy: 123, 297
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+Fana/Fana_Skin02/weapon2
+  rotate: false
+  xy: 431, 483
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1

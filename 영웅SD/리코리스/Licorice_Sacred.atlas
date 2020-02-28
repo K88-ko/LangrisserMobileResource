@@ -1,0 +1,482 @@
+
+Licorice_Sacred.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Licorice/Licorice_Sacred/Licorice_Sacred_03/arminnerdown
+  rotate: true
+  xy: 624, 260
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/arminnerup
+  rotate: false
+  xy: 960, 305
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/armoutdown
+  rotate: true
+  xy: 266, 63
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/armoutup
+  rotate: true
+  xy: 323, 175
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/body
+  rotate: true
+  xy: 384, 273
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyebrow
+  rotate: true
+  xy: 258, 214
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyehard
+  rotate: true
+  xy: 624, 295
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyehard01
+  rotate: true
+  xy: 234, 63
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyehard02
+  rotate: false
+  xy: 656, 278
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyehard03
+  rotate: false
+  xy: 739, 297
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyesffuer
+  rotate: true
+  xy: 864, 232
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/eyeyun
+  rotate: false
+  xy: 270, 241
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/face
+  rotate: false
+  xy: 134, 140
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/facec
+  rotate: false
+  xy: 2, 132
+  size: 130, 147
+  orig: 130, 147
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/fx
+  rotate: false
+  xy: 743, 364
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/fx02
+  rotate: false
+  xy: 268, 444
+  size: 218, 66
+  orig: 218, 66
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair1
+  rotate: false
+  xy: 391, 377
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair2
+  rotate: true
+  xy: 384, 241
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair3
+  rotate: true
+  xy: 260, 283
+  size: 32, 122
+  orig: 32, 122
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair3c
+  rotate: false
+  xy: 2, 2
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair4
+  rotate: false
+  xy: 581, 265
+  size: 41, 105
+  orig: 41, 105
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair5
+  rotate: true
+  xy: 468, 318
+  size: 52, 111
+  orig: 52, 111
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair5c
+  rotate: true
+  xy: 260, 317
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair6
+  rotate: true
+  xy: 937, 375
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair6c
+  rotate: true
+  xy: 381, 325
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair7
+  rotate: false
+  xy: 258, 148
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair7c
+  rotate: true
+  xy: 799, 239
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair8
+  rotate: true
+  xy: 468, 255
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair8c
+  rotate: true
+  xy: 816, 441
+  size: 69, 119
+  orig: 69, 119
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair9
+  rotate: true
+  xy: 482, 372
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/hair9 c
+  rotate: true
+  xy: 268, 379
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/handin
+  rotate: false
+  xy: 365, 173
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/handout
+  rotate: false
+  xy: 919, 309
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/handout1b
+  rotate: true
+  xy: 900, 347
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/handoutc
+  rotate: true
+  xy: 193, 3
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/jianjia1
+  rotate: false
+  xy: 739, 308
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/jianjia1c
+  rotate: false
+  xy: 656, 302
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/jianjia2
+  rotate: false
+  xy: 238, 3
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/jianjia2c
+  rotate: true
+  xy: 732, 235
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/leginnerdown
+  rotate: true
+  xy: 936, 347
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/leginnerdownc
+  rotate: true
+  xy: 270, 205
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/leginnerup
+  rotate: false
+  xy: 905, 249
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/leginnerupc
+  rotate: true
+  xy: 329, 203
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/legoutdown
+  rotate: false
+  xy: 292, 11
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/legoutdownc
+  rotate: true
+  xy: 385, 208
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/legoutup
+  rotate: true
+  xy: 44, 2
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/legoutupc
+  rotate: false
+  xy: 900, 385
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/mouth01
+  rotate: false
+  xy: 581, 259
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/mouth02
+  rotate: false
+  xy: 292, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/mouth04
+  rotate: true
+  xy: 1016, 403
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/peifeng3
+  rotate: true
+  xy: 266, 95
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/peifeng4
+  rotate: true
+  xy: 894, 297
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/piaodai1
+  rotate: false
+  xy: 141, 51
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/piaodai1c
+  rotate: true
+  xy: 44, 31
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/piaodai2
+  rotate: true
+  xy: 816, 362
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/piaodai2c
+  rotate: false
+  xy: 937, 420
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifen5
+  rotate: false
+  xy: 2, 281
+  size: 256, 110
+  orig: 256, 110
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifen5 c
+  rotate: false
+  xy: 2, 393
+  size: 264, 117
+  orig: 264, 117
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifeng1
+  rotate: false
+  xy: 814, 297
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifeng1c
+  rotate: false
+  xy: 656, 365
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifeng2
+  rotate: true
+  xy: 141, 2
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/pifeng2c
+  rotate: true
+  xy: 597, 372
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/shengzhi
+  rotate: true
+  xy: 308, 167
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/toushi
+  rotate: false
+  xy: 656, 437
+  size: 158, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/toushic
+  rotate: false
+  xy: 488, 429
+  size: 166, 81
+  orig: 166, 81
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/yaojia1
+  rotate: true
+  xy: 336, 241
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Sacred/Licorice_Sacred_03/yaojia2
+  rotate: true
+  xy: 94, 4
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 656, 251
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+KingCleoness_Sword.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KingCleoness/KingCleoness_Sword_03/body
+  rotate: false
+  xy: 90, 222
+  size: 60, 131
+  orig: 60, 131
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/daizi
+  rotate: false
+  xy: 61, 95
+  size: 30, 111
+  orig: 30, 111
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/daizi1
+  rotate: false
+  xy: 129, 115
+  size: 22, 105
+  orig: 22, 105
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyebrow
+  rotate: true
+  xy: 494, 429
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyehard
+  rotate: false
+  xy: 371, 409
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyehard1
+  rotate: true
+  xy: 351, 363
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyehard2
+  rotate: false
+  xy: 371, 396
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyehard3
+  rotate: false
+  xy: 371, 387
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyesffuer
+  rotate: false
+  xy: 153, 109
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/eyeyun
+  rotate: true
+  xy: 231, 146
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/face
+  rotate: false
+  xy: 2, 355
+  size: 133, 154
+  orig: 133, 154
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/g
+  rotate: false
+  xy: 284, 312
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/hair
+  rotate: false
+  xy: 2, 60
+  size: 57, 146
+  orig: 57, 146
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/hair1
+  rotate: true
+  xy: 259, 432
+  size: 77, 121
+  orig: 77, 121
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/hair2
+  rotate: true
+  xy: 2, 6
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/hair3
+  rotate: false
+  xy: 152, 226
+  size: 54, 130
+  orig: 54, 130
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/huzi
+  rotate: false
+  xy: 93, 96
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/jianjiainner
+  rotate: true
+  xy: 208, 226
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/jianjiaout
+  rotate: false
+  xy: 273, 375
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/leginnerdown
+  rotate: true
+  xy: 371, 368
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/legoutdown
+  rotate: true
+  xy: 440, 402
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/lingzi
+  rotate: false
+  xy: 208, 272
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/lingzi1
+  rotate: false
+  xy: 137, 421
+  size: 120, 88
+  orig: 120, 88
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/lingzi2
+  rotate: false
+  xy: 284, 275
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/pifeng
+  rotate: false
+  xy: 2, 208
+  size: 86, 145
+  orig: 86, 145
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/pifeng1
+  rotate: true
+  xy: 137, 358
+  size: 61, 134
+  orig: 61, 134
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/toushi
+  rotate: false
+  xy: 255, 226
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/toushi1
+  rotate: false
+  xy: 153, 144
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/toushi2
+  rotate: true
+  xy: 93, 111
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/toushiFX
+  rotate: false
+  xy: 61, 64
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+KingCleoness/KingCleoness_Sword_03/xiabai
+  rotate: true
+  xy: 382, 426
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 264, 150
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

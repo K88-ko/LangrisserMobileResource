@@ -1,0 +1,97 @@
+
+Naaru_Magician.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Naaru/Naaru_Magician/Naaru_Magician_3/Shadow
+  rotate: false
+  xy: 113, 91
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/head
+  rotate: false
+  xy: 2, 84
+  size: 109, 126
+  orig: 109, 126
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/lingziinner
+  rotate: false
+  xy: 2, 9
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/lingziout
+  rotate: false
+  xy: 402, 395
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/mouth01
+  rotate: true
+  xy: 498, 484
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/pifenginner
+  rotate: true
+  xy: 243, 398
+  size: 110, 157
+  orig: 110, 157
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/pifenginner1
+  rotate: false
+  xy: 2, 380
+  size: 239, 128
+  orig: 239, 128
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/pifengout
+  rotate: false
+  xy: 2, 212
+  size: 193, 166
+  orig: 193, 166
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/texiao
+  rotate: false
+  xy: 197, 222
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/texiao2
+  rotate: false
+  xy: 197, 297
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/toushi
+  rotate: false
+  xy: 113, 118
+  size: 72, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+Naaru/Naaru_Magician/Naaru_Magician_3/weapon
+  rotate: false
+  xy: 197, 241
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1

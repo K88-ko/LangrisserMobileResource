@@ -1,0 +1,13 @@
+
+Joshua_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Joshua/约修亚_Skin01
+  rotate: false
+  xy: 2, 2
+  size: 304, 311
+  orig: 304, 311
+  offset: 0, 0
+  index: -1

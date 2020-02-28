@@ -1,0 +1,335 @@
+
+Listell_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Listell/Listell_Skin01/arminnerdown
+  rotate: false
+  xy: 481, 207
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/arminnerup
+  rotate: false
+  xy: 216, 7
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/armoutdown
+  rotate: true
+  xy: 240, 169
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/armoutup
+  rotate: true
+  xy: 268, 169
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/body
+  rotate: false
+  xy: 404, 308
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/earinner
+  rotate: true
+  xy: 216, 46
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/earout
+  rotate: true
+  xy: 126, 2
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyebrow
+  rotate: false
+  xy: 313, 205
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyehard
+  rotate: true
+  xy: 459, 238
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyehard1
+  rotate: true
+  xy: 484, 237
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyehard2
+  rotate: true
+  xy: 489, 311
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyehard3
+  rotate: false
+  xy: 313, 215
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyesffuer
+  rotate: false
+  xy: 171, 169
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/eyeyun
+  rotate: true
+  xy: 216, 100
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/face
+  rotate: false
+  xy: 2, 163
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair1
+  rotate: false
+  xy: 400, 224
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair2
+  rotate: false
+  xy: 268, 243
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair3
+  rotate: false
+  xy: 184, 227
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair4
+  rotate: false
+  xy: 2, 59
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair5
+  rotate: false
+  xy: 271, 118
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair6
+  rotate: false
+  xy: 164, 34
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hair7
+  rotate: false
+  xy: 454, 312
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/hairback
+  rotate: false
+  xy: 316, 382
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/handinner
+  rotate: false
+  xy: 292, 102
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/handout
+  rotate: false
+  xy: 481, 183
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/jianjiainner
+  rotate: true
+  xy: 445, 385
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/jianjiaout
+  rotate: true
+  xy: 141, 83
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/leginnerdown
+  rotate: false
+  xy: 292, 127
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/leginnerup
+  rotate: true
+  xy: 164, 9
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/legoutdown
+  rotate: true
+  xy: 382, 202
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/legoutup
+  rotate: false
+  xy: 246, 121
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/mouth01
+  rotate: false
+  xy: 86, 59
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/mouth02
+  rotate: false
+  xy: 141, 71
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/mouth03
+  rotate: false
+  xy: 164, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/pifenginner
+  rotate: false
+  xy: 315, 229
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/pifengout
+  rotate: false
+  xy: 86, 70
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/pifengout1
+  rotate: true
+  xy: 121, 163
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/qunzi
+  rotate: true
+  xy: 316, 310
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/qunzi1
+  rotate: false
+  xy: 268, 204
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/qunzi2
+  rotate: true
+  xy: 445, 453
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/toushi
+  rotate: false
+  xy: 121, 203
+  size: 61, 110
+  orig: 61, 110
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/toushi1
+  rotate: true
+  xy: 424, 199
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/toushi2
+  rotate: false
+  xy: 459, 203
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/weapon
+  rotate: false
+  xy: 2, 315
+  size: 312, 195
+  orig: 312, 195
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/yaodai
+  rotate: false
+  xy: 2, 2
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+Listell/Listell_Skin01/yaojiaout
+  rotate: false
+  xy: 82, 2
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 184, 200
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

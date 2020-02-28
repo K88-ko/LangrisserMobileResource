@@ -1,0 +1,139 @@
+
+Tauren.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 285, 277
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/arminnerdown
+  rotate: false
+  xy: 202, 33
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/arminnerup
+  rotate: false
+  xy: 201, 144
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/armourdown
+  rotate: true
+  xy: 458, 354
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/armoutup
+  rotate: false
+  xy: 201, 240
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/body
+  rotate: false
+  xy: 331, 358
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/eye
+  rotate: false
+  xy: 269, 87
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/eyesffuer
+  rotate: false
+  xy: 201, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/eyeyun
+  rotate: false
+  xy: 224, 6
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/face
+  rotate: false
+  xy: 2, 122
+  size: 197, 229
+  orig: 197, 229
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/handinner
+  rotate: false
+  xy: 285, 228
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/handout
+  rotate: false
+  xy: 269, 120
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/leginnerdown
+  rotate: false
+  xy: 149, 5
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/leginnerup
+  rotate: true
+  xy: 149, 48
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/legoutdown
+  rotate: false
+  xy: 202, 84
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/legoutup
+  rotate: false
+  xy: 269, 173
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/neck
+  rotate: false
+  xy: 2, 4
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/weapon
+  rotate: false
+  xy: 2, 353
+  size: 327, 157
+  orig: 327, 157
+  offset: 0, 0
+  index: -1
+Tauren/Tauren/weiba
+  rotate: true
+  xy: 458, 427
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1

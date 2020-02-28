@@ -1,0 +1,307 @@
+
+Renata_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Renata/Renata_Skin01/arminnerdown
+  rotate: false
+  xy: 480, 206
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/arminnerup
+  rotate: true
+  xy: 476, 302
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/armoutdown
+  rotate: true
+  xy: 492, 415
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/armoutup
+  rotate: true
+  xy: 445, 216
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/body
+  rotate: false
+  xy: 327, 7
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/chibanginner
+  rotate: false
+  xy: 2, 233
+  size: 258, 134
+  orig: 258, 134
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/chibangout
+  rotate: false
+  xy: 2, 369
+  size: 281, 141
+  orig: 281, 141
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/erduoinner
+  rotate: false
+  xy: 369, 136
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/erduoout
+  rotate: true
+  xy: 263, 15
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyebrow
+  rotate: true
+  xy: 444, 66
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyehard
+  rotate: true
+  xy: 471, 327
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyehard1
+  rotate: false
+  xy: 371, 224
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyehard2
+  rotate: true
+  xy: 492, 438
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyehard3
+  rotate: false
+  xy: 159, 7
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyesffuer
+  rotate: true
+  xy: 422, 131
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/eyeyun
+  rotate: true
+  xy: 379, 25
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/face
+  rotate: false
+  xy: 159, 91
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair1
+  rotate: true
+  xy: 159, 17
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair2
+  rotate: false
+  xy: 328, 73
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair3
+  rotate: true
+  xy: 2, 8
+  size: 59, 155
+  orig: 59, 155
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair4
+  rotate: false
+  xy: 285, 376
+  size: 156, 134
+  orig: 156, 134
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair5
+  rotate: false
+  xy: 443, 401
+  size: 47, 109
+  orig: 47, 109
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair6
+  rotate: false
+  xy: 371, 286
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/hair8
+  rotate: false
+  xy: 275, 87
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/handinner
+  rotate: false
+  xy: 496, 397
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/handinner2
+  rotate: true
+  xy: 450, 246
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/handout
+  rotate: true
+  xy: 413, 34
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/handout1
+  rotate: false
+  xy: 480, 228
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/leginnerdown
+  rotate: false
+  xy: 479, 259
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/legoutdown
+  rotate: true
+  xy: 444, 286
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/lingdanginner
+  rotate: false
+  xy: 415, 76
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/lingdangout
+  rotate: true
+  xy: 368, 190
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/mouth01
+  rotate: true
+  xy: 504, 286
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/mouth02
+  rotate: true
+  xy: 262, 233
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/mouth03
+  rotate: false
+  xy: 496, 386
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/qunzi
+  rotate: false
+  xy: 275, 184
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/toushi2
+  rotate: false
+  xy: 2, 69
+  size: 155, 162
+  orig: 155, 162
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/toushi3
+  rotate: false
+  xy: 262, 248
+  size: 107, 119
+  orig: 107, 119
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/weapon
+  rotate: false
+  xy: 369, 83
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/weapon2
+  rotate: true
+  xy: 371, 249
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+Renata/Renata_Skin01/weapon3
+  rotate: false
+  xy: 379, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 444, 325
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

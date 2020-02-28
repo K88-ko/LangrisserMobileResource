@@ -1,0 +1,349 @@
+
+Freya_Skin03_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freya/Freya_Skin/Freya_Skin03_1/arminnerdown
+  rotate: true
+  xy: 196, 230
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/arminnerup
+  rotate: true
+  xy: 478, 345
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/armoutdown
+  rotate: true
+  xy: 347, 376
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/armoutup
+  rotate: false
+  xy: 186, 115
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/body
+  rotate: true
+  xy: 264, 362
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/body_texiao
+  rotate: false
+  xy: 2, 218
+  size: 109, 147
+  orig: 109, 147
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/daizi
+  rotate: true
+  xy: 406, 319
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/daizi2
+  rotate: true
+  xy: 464, 316
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/daizi3
+  rotate: false
+  xy: 246, 74
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/erhuan
+  rotate: true
+  xy: 182, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyebrow
+  rotate: true
+  xy: 505, 447
+  size: 63, 5
+  orig: 63, 5
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyehard
+  rotate: false
+  xy: 2, 4
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyehard1
+  rotate: false
+  xy: 68, 4
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyehard2
+  rotate: true
+  xy: 327, 346
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyehard3
+  rotate: true
+  xy: 495, 445
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyesffuer
+  rotate: true
+  xy: 232, 357
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/eyeyun
+  rotate: true
+  xy: 478, 376
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/face
+  rotate: false
+  xy: 2, 367
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair
+  rotate: false
+  xy: 197, 269
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair1
+  rotate: true
+  xy: 113, 231
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair2
+  rotate: true
+  xy: 128, 352
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair3
+  rotate: false
+  xy: 266, 412
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair4
+  rotate: false
+  xy: 217, 25
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hair5
+  rotate: false
+  xy: 128, 416
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/handinner
+  rotate: true
+  xy: 260, 159
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/handout
+  rotate: true
+  xy: 209, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hudiejie
+  rotate: false
+  xy: 226, 112
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/hudiejie1
+  rotate: false
+  xy: 239, 34
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/jinli
+  rotate: true
+  xy: 216, 65
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/leginnerdown
+  rotate: false
+  xy: 249, 183
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/leginnerup
+  rotate: true
+  xy: 134, 5
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/legoutdown
+  rotate: false
+  xy: 189, 64
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/legoutup
+  rotate: false
+  xy: 189, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/mianju
+  rotate: true
+  xy: 2, 100
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/mouth01
+  rotate: false
+  xy: 246, 65
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/mouth02
+  rotate: false
+  xy: 113, 355
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/mouth03
+  rotate: false
+  xy: 495, 434
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/mouth04
+  rotate: false
+  xy: 494, 339
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/qunbaiinner
+  rotate: true
+  xy: 116, 105
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/qunbaiinner1
+  rotate: true
+  xy: 409, 373
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/qunbaiinner2
+  rotate: false
+  xy: 184, 181
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/qunbaiout
+  rotate: false
+  xy: 347, 326
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/shield
+  rotate: true
+  xy: 2, 27
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/texiao1
+  rotate: false
+  xy: 116, 152
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/texiao2
+  rotate: false
+  xy: 123, 27
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/texiao3
+  rotate: false
+  xy: 409, 434
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/texiao4
+  rotate: false
+  xy: 113, 271
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+Freya/Freya_Skin/Freya_Skin03_1/weapon
+  rotate: false
+  xy: 266, 444
+  size: 141, 66
+  orig: 141, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 184, 154
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

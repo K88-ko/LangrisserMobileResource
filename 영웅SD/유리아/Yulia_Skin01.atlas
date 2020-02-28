@@ -1,0 +1,349 @@
+
+Yulia_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yulia/Yulia_Skin01/Shadow
+  rotate: true
+  xy: 304, 281
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/arminnerdown
+  rotate: true
+  xy: 226, 391
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/arminnerup
+  rotate: false
+  xy: 180, 16
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/armoutdown
+  rotate: true
+  xy: 164, 57
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/armoutup
+  rotate: false
+  xy: 213, 16
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/body
+  rotate: false
+  xy: 337, 352
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyahard
+  rotate: true
+  xy: 164, 87
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyahard1
+  rotate: true
+  xy: 191, 102
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyahard2
+  rotate: true
+  xy: 218, 102
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyahard3
+  rotate: true
+  xy: 244, 102
+  size: 73, 10
+  orig: 73, 10
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyebrow
+  rotate: false
+  xy: 386, 357
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyesffuer
+  rotate: false
+  xy: 449, 351
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/eyeyun
+  rotate: true
+  xy: 331, 287
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/face
+  rotate: false
+  xy: 2, 27
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/face1
+  rotate: true
+  xy: 182, 177
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair1
+  rotate: false
+  xy: 104, 162
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair2
+  rotate: false
+  xy: 258, 265
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair3
+  rotate: false
+  xy: 258, 357
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair4
+  rotate: false
+  xy: 106, 2
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair5
+  rotate: false
+  xy: 178, 268
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hair6
+  rotate: false
+  xy: 2, 136
+  size: 100, 118
+  orig: 100, 118
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/handinner
+  rotate: false
+  xy: 254, 177
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/handout
+  rotate: true
+  xy: 428, 330
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/handout1
+  rotate: false
+  xy: 428, 309
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hat
+  rotate: false
+  xy: 2, 256
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hat1
+  rotate: true
+  xy: 366, 298
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hat2
+  rotate: true
+  xy: 2, 2
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/hatinner
+  rotate: false
+  xy: 2, 391
+  size: 222, 119
+  orig: 222, 119
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/leginnerdown
+  rotate: false
+  xy: 154, 11
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/leginnerup
+  rotate: true
+  xy: 191, 76
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/legoutdown
+  rotate: true
+  xy: 191, 54
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/legoutup
+  rotate: false
+  xy: 306, 236
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/mouth01
+  rotate: true
+  xy: 501, 492
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/mouth02
+  rotate: true
+  xy: 91, 11
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/mouth04
+  rotate: false
+  xy: 331, 281
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou
+  rotate: false
+  xy: 400, 305
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou1
+  rotate: true
+  xy: 180, 2
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou2
+  rotate: false
+  xy: 242, 90
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou3
+  rotate: false
+  xy: 501, 476
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou4
+  rotate: false
+  xy: 306, 208
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/shitou5
+  rotate: false
+  xy: 182, 163
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/weapon
+  rotate: false
+  xy: 368, 430
+  size: 131, 80
+  orig: 131, 80
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/weapon_light
+  rotate: false
+  xy: 226, 420
+  size: 140, 90
+  orig: 140, 90
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/xiabaiinner
+  rotate: true
+  xy: 449, 386
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/xiabaiinner1
+  rotate: true
+  xy: 106, 61
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/xiabaiout
+  rotate: false
+  xy: 254, 197
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/xiabaiout1
+  rotate: false
+  xy: 386, 369
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/yaojiainner
+  rotate: false
+  xy: 449, 333
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Skin01/yaojiaout
+  rotate: false
+  xy: 63, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

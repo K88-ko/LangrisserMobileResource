@@ -1,0 +1,293 @@
+
+Alustriel_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyeffuer
+  rotate: false
+  xy: 324, 182
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard1
+  rotate: true
+  xy: 210, 226
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard2
+  rotate: false
+  xy: 262, 36
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard3
+  rotate: false
+  xy: 79, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyeyun
+  rotate: true
+  xy: 448, 379
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth02
+  rotate: false
+  xy: 210, 212
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth03
+  rotate: false
+  xy: 484, 427
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth04
+  rotate: false
+  xy: 301, 47
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/pidaiinner
+  rotate: true
+  xy: 435, 367
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/handout
+  rotate: true
+  xy: 384, 260
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/arminnerdown
+  rotate: false
+  xy: 371, 186
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/arminnerup
+  rotate: true
+  xy: 209, 15
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/armoutdown
+  rotate: true
+  xy: 339, 103
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/armoutup
+  rotate: true
+  xy: 232, 9
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/body
+  rotate: true
+  xy: 2, 2
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/erhuan
+  rotate: true
+  xy: 261, 17
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/eyebrow
+  rotate: false
+  xy: 113, 3
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/eyehard
+  rotate: true
+  xy: 384, 280
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/face
+  rotate: false
+  xy: 2, 57
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hair1
+  rotate: true
+  xy: 326, 426
+  size: 84, 156
+  orig: 84, 156
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hair2
+  rotate: false
+  xy: 150, 53
+  size: 80, 151
+  orig: 80, 151
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hair3
+  rotate: true
+  xy: 326, 388
+  size: 36, 120
+  orig: 36, 120
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hair4
+  rotate: true
+  xy: 210, 265
+  size: 119, 113
+  orig: 119, 113
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hairback
+  rotate: false
+  xy: 2, 206
+  size: 206, 178
+  orig: 206, 178
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/handinner
+  rotate: false
+  xy: 232, 36
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/hudang
+  rotate: true
+  xy: 127, 15
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/jianjiainner
+  rotate: true
+  xy: 262, 182
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/jianjiaout
+  rotate: false
+  xy: 262, 101
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/leginnerdown
+  rotate: false
+  xy: 401, 334
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/leginnerup
+  rotate: false
+  xy: 324, 214
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/legoutdown
+  rotate: false
+  xy: 339, 132
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/legoutup
+  rotate: false
+  xy: 363, 215
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/mouth01
+  rotate: false
+  xy: 401, 323
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/shipin
+  rotate: true
+  xy: 482, 381
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/toushi
+  rotate: true
+  xy: 326, 319
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/weapon
+  rotate: false
+  xy: 2, 386
+  size: 322, 124
+  orig: 322, 124
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/weapon1
+  rotate: true
+  xy: 232, 59
+  size: 204, 28
+  orig: 204, 28
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/yaojiainner
+  rotate: false
+  xy: 79, 15
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/yaojiaout
+  rotate: false
+  xy: 262, 52
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Skin01/yaojiaout1
+  rotate: false
+  xy: 325, 260
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 484, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

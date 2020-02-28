@@ -1,0 +1,307 @@
+
+Riana_Skin03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana_Skin03/Hair1
+  rotate: true
+  xy: 446, 422
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/Hair2
+  rotate: true
+  xy: 347, 372
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/Hair3
+  rotate: false
+  xy: 489, 440
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/Hairinner
+  rotate: false
+  xy: 2, 216
+  size: 84, 148
+  orig: 84, 148
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/Hairinner1
+  rotate: false
+  xy: 141, 367
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/arminnerdown
+  rotate: false
+  xy: 300, 296
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/arminnerup
+  rotate: true
+  xy: 36, 3
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/armoutdown
+  rotate: true
+  xy: 219, 215
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/armoutdown1
+  rotate: true
+  xy: 337, 331
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/armoutup
+  rotate: true
+  xy: 156, 208
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/body
+  rotate: true
+  xy: 287, 370
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/earing1
+  rotate: true
+  xy: 219, 191
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/earing2
+  rotate: false
+  xy: 489, 485
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyebrow
+  rotate: true
+  xy: 287, 300
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyehard
+  rotate: false
+  xy: 216, 346
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyehard1
+  rotate: false
+  xy: 216, 321
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyehard2
+  rotate: false
+  xy: 216, 300
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyehard3
+  rotate: false
+  xy: 294, 421
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyesffuer
+  rotate: false
+  xy: 2, 38
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/eyeyun
+  rotate: true
+  xy: 40, 71
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/face
+  rotate: false
+  xy: 212, 421
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/hairout
+  rotate: false
+  xy: 2, 366
+  size: 137, 144
+  orig: 137, 144
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/handinner
+  rotate: true
+  xy: 188, 202
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/handinner1
+  rotate: false
+  xy: 74, 114
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/handinner2
+  rotate: false
+  xy: 300, 326
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/handout
+  rotate: true
+  xy: 2, 2
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/handout1
+  rotate: false
+  xy: 339, 301
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/leginnerdown
+  rotate: false
+  xy: 251, 256
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/leginnerup
+  rotate: false
+  xy: 189, 241
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/legoutdown
+  rotate: false
+  xy: 156, 242
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/legoutup
+  rotate: false
+  xy: 219, 254
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/mouth01
+  rotate: false
+  xy: 74, 104
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/mouth02
+  rotate: false
+  xy: 279, 285
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/mouth04
+  rotate: false
+  xy: 489, 432
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/qunzi1
+  rotate: false
+  xy: 155, 287
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/qunzi2
+  rotate: true
+  xy: 212, 371
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/qunzi3
+  rotate: false
+  xy: 398, 453
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/toushi
+  rotate: true
+  xy: 294, 453
+  size: 57, 102
+  orig: 57, 102
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/weapon
+  rotate: true
+  xy: 2, 71
+  size: 143, 36
+  orig: 143, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/yinfu1
+  rotate: false
+  xy: 88, 280
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/yinfu2
+  rotate: true
+  xy: 88, 221
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Riana/Riana_Skin03/yinfu3
+  rotate: false
+  xy: 40, 141
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 370, 426
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

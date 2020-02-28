@@ -1,0 +1,349 @@
+
+Karla_Wizard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Karla/Karla_Wizard/Karla_Wizard_4/arminnerdown
+  rotate: false
+  xy: 444, 289
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/arminnerup
+  rotate: false
+  xy: 983, 378
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/armoutdown
+  rotate: false
+  xy: 129, 69
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/armoutup
+  rotate: true
+  xy: 395, 286
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/body
+  rotate: false
+  xy: 765, 295
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/erzhui1
+  rotate: false
+  xy: 971, 345
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/erzhui2
+  rotate: true
+  xy: 822, 297
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyebrow
+  rotate: false
+  xy: 444, 307
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyehard
+  rotate: false
+  xy: 903, 311
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyehard1
+  rotate: false
+  xy: 319, 287
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyehard2
+  rotate: false
+  xy: 76, 105
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyehard3
+  rotate: true
+  xy: 308, 233
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyesffuer
+  rotate: true
+  xy: 867, 303
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/eyeyun
+  rotate: false
+  xy: 903, 335
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/face
+  rotate: true
+  xy: 662, 366
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/hair1
+  rotate: false
+  xy: 144, 126
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/hair2
+  rotate: false
+  xy: 274, 135
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/hair3
+  rotate: false
+  xy: 822, 307
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/hair4
+  rotate: false
+  xy: 79, 2
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/hairinner
+  rotate: false
+  xy: 2, 236
+  size: 90, 274
+  orig: 90, 274
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/handinner
+  rotate: false
+  xy: 363, 257
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/handout
+  rotate: false
+  xy: 104, 30
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/kouzi1
+  rotate: false
+  xy: 104, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/kouzi2
+  rotate: false
+  xy: 318, 242
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/kouzi3
+  rotate: true
+  xy: 514, 307
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/mouth01
+  rotate: false
+  xy: 983, 371
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/mouth02
+  rotate: false
+  xy: 76, 222
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/mouth03
+  rotate: false
+  xy: 480, 295
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/mouth04
+  rotate: false
+  xy: 903, 304
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/pifenginner1
+  rotate: true
+  xy: 978, 414
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/pifenginner2
+  rotate: false
+  xy: 318, 257
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/pifenginner3
+  rotate: true
+  xy: 658, 312
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/pifengout1
+  rotate: false
+  xy: 79, 62
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/pifengout2
+  rotate: false
+  xy: 2, 100
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/qunzi
+  rotate: false
+  xy: 76, 122
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiao1
+  rotate: false
+  xy: 199, 130
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiao2
+  rotate: true
+  xy: 206, 213
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiao3
+  rotate: true
+  xy: 561, 319
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiao4
+  rotate: false
+  xy: 2, 2
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaoyou1
+  rotate: true
+  xy: 444, 406
+  size: 104, 216
+  orig: 104, 216
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaoyou2
+  rotate: false
+  xy: 94, 295
+  size: 110, 215
+  orig: 110, 215
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaoyou3
+  rotate: false
+  xy: 206, 297
+  size: 111, 213
+  orig: 111, 213
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaoyou4
+  rotate: false
+  xy: 319, 311
+  size: 123, 199
+  orig: 123, 199
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaozuo1
+  rotate: true
+  xy: 94, 222
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaozuo2
+  rotate: false
+  xy: 901, 396
+  size: 75, 114
+  orig: 75, 114
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaozuo3
+  rotate: false
+  xy: 817, 395
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/texiaozuo4
+  rotate: true
+  xy: 444, 319
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+Karla/Karla_Wizard/Karla_Wizard_4/toushi
+  rotate: false
+  xy: 817, 371
+  size: 88, 22
+  orig: 88, 22
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 907, 369
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

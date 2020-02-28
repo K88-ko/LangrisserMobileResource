@@ -1,0 +1,377 @@
+
+Zalrahda_Skin05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 450, 371
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/arminnerdown
+  rotate: true
+  xy: 361, 350
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/arminnerup
+  rotate: false
+  xy: 231, 221
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/armoutdown
+  rotate: false
+  xy: 399, 337
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/armoutdown1
+  rotate: false
+  xy: 431, 337
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/armoutup
+  rotate: true
+  xy: 306, 327
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/body
+  rotate: false
+  xy: 128, 198
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/daiziinner
+  rotate: false
+  xy: 303, 300
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/daiziinner1
+  rotate: true
+  xy: 119, 340
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/daiziout
+  rotate: false
+  xy: 197, 204
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/daiziout1
+  rotate: false
+  xy: 461, 334
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyebrow
+  rotate: false
+  xy: 128, 189
+  size: 42, 7
+  orig: 42, 7
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyehard
+  rotate: true
+  xy: 33, 2
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyehard1
+  rotate: true
+  xy: 58, 2
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyehard2
+  rotate: true
+  xy: 193, 264
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyehard3
+  rotate: false
+  xy: 83, 2
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyesffuer
+  rotate: false
+  xy: 72, 73
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/eyesyun
+  rotate: true
+  xy: 83, 13
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/face
+  rotate: false
+  xy: 273, 398
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair
+  rotate: false
+  xy: 134, 377
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair1
+  rotate: true
+  xy: 175, 205
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair2
+  rotate: true
+  xy: 273, 356
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair3
+  rotate: false
+  xy: 2, 48
+  size: 27, 135
+  orig: 27, 135
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair4
+  rotate: false
+  xy: 478, 389
+  size: 32, 121
+  orig: 32, 121
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hair5
+  rotate: false
+  xy: 31, 68
+  size: 39, 115
+  orig: 39, 115
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/hairinner
+  rotate: false
+  xy: 2, 362
+  size: 130, 148
+  orig: 130, 148
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/handinner
+  rotate: true
+  xy: 231, 198
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/handout
+  rotate: false
+  xy: 300, 279
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/handout1
+  rotate: false
+  xy: 321, 279
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/handout2
+  rotate: false
+  xy: 480, 335
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/leginnerdown
+  rotate: false
+  xy: 116, 25
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/leginnerup
+  rotate: false
+  xy: 244, 286
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/legoutdoen
+  rotate: true
+  xy: 213, 259
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/legoutup
+  rotate: false
+  xy: 213, 286
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/mouth01
+  rotate: true
+  xy: 267, 360
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/mouth02
+  rotate: true
+  xy: 461, 353
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/mouth03
+  rotate: false
+  xy: 116, 15
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/mouth04
+  rotate: true
+  xy: 119, 240
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/toushi
+  rotate: true
+  xy: 362, 367
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weapon
+  rotate: true
+  xy: 2, 185
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weijin
+  rotate: false
+  xy: 134, 330
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weijin1
+  rotate: false
+  xy: 119, 260
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weijin2
+  rotate: true
+  xy: 59, 237
+  size: 123, 58
+  orig: 123, 58
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weijin3
+  rotate: false
+  xy: 362, 447
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/weijininner
+  rotate: false
+  xy: 212, 335
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/xiabai
+  rotate: false
+  xy: 59, 185
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/xiabaiinner
+  rotate: true
+  xy: 72, 106
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/xiongshi
+  rotate: false
+  xy: 270, 271
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/yaodai
+  rotate: false
+  xy: 267, 337
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/yaojiainner
+  rotate: false
+  xy: 197, 218
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/yaojiainner1
+  rotate: false
+  xy: 270, 301
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Zalrahda/Zalrahda_Skin05/yaojiainner2
+  rotate: true
+  xy: 477, 356
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

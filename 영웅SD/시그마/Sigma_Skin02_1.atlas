@@ -1,0 +1,321 @@
+
+Sigma_Skin02_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/Pike
+  rotate: false
+  xy: 2, 195
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/arminnerdown
+  rotate: false
+  xy: 424, 145
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/arminnerup
+  rotate: false
+  xy: 202, 2
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/armoutdown
+  rotate: true
+  xy: 78, 4
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/armoutup
+  rotate: false
+  xy: 907, 82
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/body
+  rotate: true
+  xy: 944, 193
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/body1
+  rotate: true
+  xy: 944, 131
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/daizi
+  rotate: true
+  xy: 382, 70
+  size: 113, 40
+  orig: 113, 40
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/daiziinner
+  rotate: true
+  xy: 643, 90
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/daiziout
+  rotate: false
+  xy: 577, 87
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyebrow
+  rotate: false
+  xy: 831, 86
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyehard
+  rotate: false
+  xy: 708, 76
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyehard1
+  rotate: false
+  xy: 501, 62
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyehard2
+  rotate: false
+  xy: 290, 26
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyehard3
+  rotate: false
+  xy: 290, 7
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyesffuer
+  rotate: false
+  xy: 831, 103
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/eyeyun
+  rotate: false
+  xy: 126, 14
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/face
+  rotate: false
+  xy: 126, 45
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hair2
+  rotate: true
+  xy: 449, 145
+  size: 109, 141
+  orig: 109, 141
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hair4
+  rotate: true
+  xy: 592, 145
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hairinner
+  rotate: true
+  xy: 780, 64
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/handiinner
+  rotate: false
+  xy: 856, 61
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/handout
+  rotate: true
+  xy: 829, 60
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hatinner
+  rotate: false
+  xy: 250, 46
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hatout
+  rotate: false
+  xy: 2, 32
+  size: 122, 161
+  orig: 122, 161
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hudang
+  rotate: true
+  xy: 841, 135
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hudang1
+  rotate: false
+  xy: 501, 86
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/hudanginner
+  rotate: false
+  xy: 434, 7
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/leginnerdown
+  rotate: false
+  xy: 974, 86
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/leginnerup
+  rotate: false
+  xy: 250, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/legoutdown
+  rotate: false
+  xy: 942, 85
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/legoutup
+  rotate: false
+  xy: 534, 14
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/mouth01
+  rotate: true
+  xy: 237, 28
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/mouth02
+  rotate: false
+  xy: 362, 29
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/mouth04
+  rotate: false
+  xy: 250, 188
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/toushi
+  rotate: false
+  xy: 718, 139
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/weapon
+  rotate: false
+  xy: 268, 185
+  size: 179, 69
+  orig: 179, 69
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/weapon1
+  rotate: false
+  xy: 708, 100
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/weijin
+  rotate: false
+  xy: 780, 89
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/xiabaiinner
+  rotate: false
+  xy: 841, 181
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/xiabaiinner1
+  rotate: true
+  xy: 382, 2
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/xiabaiout
+  rotate: true
+  xy: 424, 73
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/xiabaiout1
+  rotate: false
+  xy: 486, 15
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_skin/Sigma_skin_02_1/yaodai
+  rotate: true
+  xy: 915, 124
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1

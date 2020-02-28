@@ -1,0 +1,279 @@
+
+Joshua_Skin01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth02
+  rotate: false
+  xy: 265, 355
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth03
+  rotate: false
+  xy: 76, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth04
+  rotate: true
+  xy: 216, 247
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/arminnerdown
+  rotate: true
+  xy: 112, 97
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/arminnerup
+  rotate: true
+  xy: 474, 454
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/armoutdown
+  rotate: false
+  xy: 226, 322
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/armoutup
+  rotate: false
+  xy: 139, 103
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/body
+  rotate: false
+  xy: 166, 269
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyehard
+  rotate: true
+  xy: 199, 156
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyehard1
+  rotate: false
+  xy: 388, 409
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyehard2
+  rotate: false
+  xy: 378, 435
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyehard3
+  rotate: true
+  xy: 102, 29
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyesffuer
+  rotate: true
+  xy: 139, 140
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/eyeyun
+  rotate: true
+  xy: 169, 153
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/face
+  rotate: false
+  xy: 2, 205
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hair1
+  rotate: true
+  xy: 2, 15
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hair2
+  rotate: false
+  xy: 152, 400
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hair3
+  rotate: true
+  xy: 265, 388
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hair4
+  rotate: false
+  xy: 127, 215
+  size: 37, 134
+  orig: 37, 134
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hairinner1
+  rotate: true
+  xy: 152, 352
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hairinner2
+  rotate: false
+  xy: 2, 95
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/hairinner3
+  rotate: false
+  xy: 2, 351
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/handinner1
+  rotate: true
+  xy: 450, 437
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/handout
+  rotate: false
+  xy: 226, 277
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/leginnerdown
+  rotate: false
+  xy: 114, 57
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/leginnerup
+  rotate: true
+  xy: 327, 384
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/legoutdown
+  rotate: true
+  xy: 265, 365
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/legoutup
+  rotate: false
+  xy: 236, 351
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/mouth01
+  rotate: false
+  xy: 169, 143
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/pijianinner1
+  rotate: false
+  xy: 114, 30
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/pijianinner2
+  rotate: false
+  xy: 102, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/pijianout1
+  rotate: false
+  xy: 166, 228
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/pijianout2
+  rotate: true
+  xy: 474, 485
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/qunzi
+  rotate: false
+  xy: 262, 432
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/shipin
+  rotate: true
+  xy: 226, 296
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/toushi
+  rotate: false
+  xy: 378, 455
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+Joshua/Joshua_Skin01/weapon
+  rotate: false
+  xy: 262, 407
+  size: 124, 23
+  orig: 124, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 112, 129
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

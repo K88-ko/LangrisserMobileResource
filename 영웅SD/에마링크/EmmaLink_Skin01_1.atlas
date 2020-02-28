@@ -1,0 +1,314 @@
+
+EmmaLink_Skin01_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/arminnerdown
+  rotate: false
+  xy: 291, 122
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/arminnerdown1
+  rotate: false
+  xy: 384, 136
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/arminnerup
+  rotate: true
+  xy: 157, 43
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/armoutdown
+  rotate: false
+  xy: 346, 133
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/armoutdown1
+  rotate: false
+  xy: 468, 143
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/armoutup
+  rotate: false
+  xy: 432, 158
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/body
+  rotate: false
+  xy: 448, 261
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/erhuan
+  rotate: false
+  xy: 496, 299
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/face
+  rotate: false
+  xy: 2, 56
+  size: 153, 148
+  orig: 153, 148
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/hair
+  rotate: false
+  xy: 447, 399
+  size: 63, 111
+  orig: 63, 111
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/hair1
+  rotate: false
+  xy: 219, 156
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/hair2
+  rotate: false
+  xy: 382, 250
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/hair3
+  rotate: false
+  xy: 157, 73
+  size: 56, 131
+  orig: 56, 131
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/hair4
+  rotate: true
+  xy: 375, 367
+  size: 143, 70
+  orig: 143, 70
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/handinner
+  rotate: false
+  xy: 183, 18
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/handout
+  rotate: false
+  xy: 244, 34
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/leginnerdown
+  rotate: true
+  xy: 384, 160
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/leginnerup
+  rotate: false
+  xy: 429, 199
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/legoutdown
+  rotate: false
+  xy: 461, 211
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/legoutup
+  rotate: false
+  xy: 384, 195
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/toushi
+  rotate: true
+  xy: 219, 236
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/toushi1
+  rotate: false
+  xy: 2, 206
+  size: 215, 151
+  orig: 215, 151
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/weapon
+  rotate: false
+  xy: 2, 359
+  size: 371, 151
+  orig: 371, 151
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/xiongjia
+  rotate: false
+  xy: 215, 56
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yanjing
+  rotate: false
+  xy: 146, 13
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai
+  rotate: false
+  xy: 2, 9
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai1
+  rotate: true
+  xy: 215, 91
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai2
+  rotate: false
+  xy: 448, 326
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai3
+  rotate: true
+  xy: 313, 166
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai4
+  rotate: false
+  xy: 88, 10
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaodai5
+  rotate: false
+  xy: 468, 168
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Skin/EmmaLink_Skin01_1/yaoshi
+  rotate: true
+  xy: 351, 165
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyebrow
+  rotate: true
+  xy: 278, 93
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard
+  rotate: true
+  xy: 194, 41
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard1
+  rotate: false
+  xy: 212, 38
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard2
+  rotate: true
+  xy: 372, 133
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard3
+  rotate: false
+  xy: 88, 2
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyesffuer
+  rotate: true
+  xy: 291, 90
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyeyun
+  rotate: true
+  xy: 319, 132
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth01
+  rotate: true
+  xy: 415, 139
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth02
+  rotate: false
+  xy: 318, 110
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth03
+  rotate: false
+  xy: 319, 122
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth04
+  rotate: true
+  xy: 206, 20
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 215, 129
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
