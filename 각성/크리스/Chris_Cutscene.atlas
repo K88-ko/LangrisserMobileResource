@@ -1,0 +1,279 @@
+
+Chris_Cutscene.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1289, 610
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 2, 4
+  size: 202, 126
+  orig: 202, 126
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 876, 455
+  size: 182, 122
+  orig: 182, 122
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 760, 639
+  size: 202, 142
+  orig: 202, 142
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 686, 466
+  size: 188, 171
+  orig: 188, 171
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 272, 117
+  size: 197, 287
+  orig: 197, 287
+  offset: 0, 0
+  index: -1
+chest_1
+  rotate: false
+  xy: 710, 34
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+chest_2
+  rotate: false
+  xy: 678, 251
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 510, 2
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 1975, 910
+  size: 112, 67
+  orig: 112, 67
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 964, 652
+  size: 106, 62
+  orig: 106, 62
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 487, 422
+  size: 197, 240
+  orig: 197, 240
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: true
+  xy: 1181, 626
+  size: 88, 106
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+hair_1_10
+  rotate: false
+  xy: 2, 642
+  size: 478, 380
+  orig: 478, 380
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 1975, 798
+  size: 59, 110
+  orig: 59, 110
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 871, 364
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: true
+  xy: 206, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 933, 393
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: true
+  xy: 686, 639
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: true
+  xy: 482, 664
+  size: 117, 276
+  orig: 117, 276
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: true
+  xy: 1975, 754
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+hair_1_9
+  rotate: true
+  xy: 561, 129
+  size: 195, 115
+  orig: 195, 115
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 678, 152
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1072, 630
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 482, 783
+  size: 239, 490
+  orig: 239, 490
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: true
+  xy: 974, 716
+  size: 306, 388
+  orig: 306, 388
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: true
+  xy: 272, 316
+  size: 324, 213
+  orig: 324, 213
+  offset: 0, 0
+  index: -1
+leg_out_down 2
+  rotate: true
+  xy: 340, 5
+  size: 110, 168
+  orig: 110, 168
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: true
+  xy: 1364, 757
+  size: 265, 379
+  orig: 265, 379
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: true
+  xy: 673, 395
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_2
+  rotate: false
+  xy: 1042, 626
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 789, 273
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+peishi_1
+  rotate: false
+  xy: 1000, 585
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+qun_1
+  rotate: true
+  xy: 2, 132
+  size: 508, 268
+  orig: 508, 268
+  offset: 0, 0
+  index: -1
+qun_2
+  rotate: false
+  xy: 686, 358
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+qun_3
+  rotate: false
+  xy: 1745, 759
+  size: 228, 263
+  orig: 228, 263
+  offset: 0, 0
+  index: -1
+qun_4
+  rotate: true
+  xy: 579, 3
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: false
+  xy: 487, 326
+  size: 184, 94
+  orig: 184, 94
+  offset: 0, 0
+  index: -1
+yaojiahou
+  rotate: true
+  xy: 823, 358
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
