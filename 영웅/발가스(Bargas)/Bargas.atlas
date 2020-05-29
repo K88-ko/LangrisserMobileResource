@@ -82,15 +82,15 @@ body_up
   offset: 0, 0
   index: -1
 eye_1_Angry
-  rotate: true
-  xy: 1804, 790
+  rotate: false
+  xy: 1315, 483
   size: 129, 66
   orig: 129, 66
   offset: 0, 0
   index: -1
 eye_1_Battle_Injury
   rotate: false
-  xy: 1189, 573
+  xy: 498, 345
   size: 129, 66
   orig: 129, 66
   offset: 0, 0
@@ -104,7 +104,7 @@ eye_1_Battle_Mighty
   index: -1
 eye_1_Battle_Weak
   rotate: false
-  xy: 1321, 641
+  xy: 1729, 759
   size: 129, 66
   orig: 129, 66
   offset: 0, 0
@@ -125,42 +125,77 @@ eye_1_Normal_2
   index: -1
 eye_1_Normal_3
   rotate: false
-  xy: 498, 345
+  xy: 1051, 489
   size: 130, 66
   orig: 130, 66
   offset: 0, 0
   index: -1
 eye_1_Smile
   rotate: false
-  xy: 1189, 641
+  xy: 1183, 483
   size: 130, 66
   orig: 130, 66
   offset: 0, 0
   index: -1
-eye_2_Normal_1
+eye_2_Angry
   rotate: false
-  xy: 481, 133
+  xy: 919, 422
+  size: 119, 66
+  orig: 119, 66
+  offset: 0, 0
+  index: -1
+eye_2_Firm
+  rotate: true
+  xy: 254, 2
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 1952, 1320
   size: 117, 61
   orig: 117, 61
   offset: 0, 0
   index: -1
 eye_2_Normal_2
   rotate: true
-  xy: 1953, 1320
+  xy: 629, 294
   size: 117, 61
   orig: 117, 61
   offset: 0, 0
   index: -1
 eye_2_Normal_3
-  rotate: true
-  xy: 254, 6
+  rotate: false
+  xy: 918, 359
   size: 117, 61
   orig: 117, 61
   offset: 0, 0
   index: -1
+eye_2_Sad
+  rotate: true
+  xy: 1950, 1205
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+eye_2_Smile
+  rotate: false
+  xy: 1037, 353
+  size: 114, 60
+  orig: 114, 60
+  offset: 0, 0
+  index: -1
+eye_2_Surprise
+  rotate: true
+  xy: 316, 2
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
 eye_2_Weak
   rotate: false
-  xy: 317, 70
+  xy: 1161, 415
   size: 117, 66
   orig: 117, 66
   offset: 0, 0
@@ -250,15 +285,15 @@ mouth_1_Angry
   offset: 0, 0
   index: -1
 mouth_1_Battle_Injury
-  rotate: true
-  xy: 1729, 793
+  rotate: false
+  xy: 1189, 551
   size: 126, 73
   orig: 126, 73
   offset: 0, 0
   index: -1
 mouth_1_Battle_Mighty
   rotate: false
-  xy: 1827, 1351
+  xy: 128, 37
   size: 124, 86
   orig: 124, 86
   offset: 0, 0
@@ -284,58 +319,149 @@ mouth_1_Smile
   orig: 124, 95
   offset: 0, 0
   index: -1
+mouth_2_Angry
+  rotate: false
+  xy: 805, 438
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+mouth_2_Firm
+  rotate: false
+  xy: 1924, 1710
+  size: 122, 74
+  orig: 122, 74
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: true
+  xy: 1867, 1096
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: false
+  xy: 1063, 557
+  size: 124, 82
+  orig: 124, 82
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: false
+  xy: 1729, 913
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 1063, 641
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
 mouth_2_Normal_A
   rotate: false
-  xy: 1729, 921
+  xy: 1317, 551
   size: 124, 76
   orig: 124, 76
   offset: 0, 0
   index: -1
 mouth_2_Normal_B
   rotate: false
-  xy: 1063, 564
+  xy: 1314, 629
   size: 124, 78
   orig: 124, 78
   offset: 0, 0
   index: -1
 mouth_2_Normal_C
-  rotate: false
-  xy: 128, 42
+  rotate: true
+  xy: 1867, 1222
   size: 124, 81
   orig: 124, 81
   offset: 0, 0
   index: -1
 mouth_2_Normal_D
   rotate: false
-  xy: 1063, 644
+  xy: 1729, 827
   size: 124, 84
   orig: 124, 84
   offset: 0, 0
   index: -1
+mouth_2_Sad
+  rotate: false
+  xy: 1280, 407
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+mouth_2_Smile
+  rotate: false
+  xy: 1827, 1348
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+mouth_2_Surprise
+  rotate: false
+  xy: 1189, 626
+  size: 123, 81
+  orig: 123, 81
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: false
+  xy: 1040, 415
+  size: 119, 72
+  orig: 119, 72
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: true
+  xy: 1949, 1088
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 692, 348
+  size: 111, 79
+  orig: 111, 79
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 456, 37
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
 mouth_2_Weak_A
   rotate: false
-  xy: 1320, 567
+  xy: 481, 122
   size: 120, 72
   orig: 120, 72
   offset: 0, 0
   index: -1
 mouth_2_Weak_B
   rotate: true
-  xy: 1867, 1233
+  xy: 378, 20
   size: 116, 76
   orig: 116, 76
   offset: 0, 0
   index: -1
 mouth_2_Weak_C
-  rotate: true
-  xy: 1867, 1120
+  rotate: false
+  xy: 805, 357
   size: 111, 79
   orig: 111, 79
   offset: 0, 0
   index: -1
 mouth_2_Weak_D
   rotate: false
-  xy: 1924, 1701
+  xy: 692, 429
   size: 111, 83
   orig: 111, 83
   offset: 0, 0

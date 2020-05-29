@@ -40,8 +40,8 @@ blood_1_1
   offset: 0, 0
   index: -1
 blood_1_2
-  rotate: false
-  xy: 1903, 1519
+  rotate: true
+  xy: 1170, 1054
   size: 26, 17
   orig: 26, 17
   offset: 0, 0
@@ -307,21 +307,21 @@ leg_out_up
   index: -1
 mouth_1_Angry
   rotate: true
-  xy: 2031, 1996
+  xy: 2031, 1970
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 mouth_1_Battle_Injury
-  rotate: true
-  xy: 701, 1075
+  rotate: false
+  xy: 1538, 1271
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 mouth_1_Battle_Mighty
-  rotate: true
-  xy: 1170, 1085
+  rotate: false
+  xy: 1431, 1129
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
@@ -335,7 +335,7 @@ mouth_1_Battle_Weak
   index: -1
 mouth_1_Normal
   rotate: false
-  xy: 1774, 1548
+  xy: 1903, 1517
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
@@ -363,9 +363,93 @@ mouth_1_Smile
   index: -1
 mouth_1_Surprise
   rotate: false
-  xy: 1609, 1569
+  xy: 721, 1076
   size: 19, 21
   orig: 19, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: false
+  xy: 674, 826
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: false
+  xy: 674, 807
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: true
+  xy: 1170, 1082
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 1774, 1546
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 2031, 1995
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 493, 56
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 701, 1075
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1609, 1569
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: true
+  xy: 1248, 1310
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: true
+  xy: 1518, 1271
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 448, 33
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 1431, 1148
+  size: 23, 24
+  orig: 23, 24
   offset: 0, 0
   index: -1
 neck
