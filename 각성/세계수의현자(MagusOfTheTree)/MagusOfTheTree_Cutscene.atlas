@@ -1,0 +1,377 @@
+
+MagusOfTheTree_Cutscene.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1547, 754
+  size: 233, 184
+  orig: 233, 184
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1670, 567
+  size: 139, 185
+  orig: 139, 185
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 983, 358
+  size: 291, 201
+  orig: 291, 201
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1276, 411
+  size: 199, 145
+  orig: 199, 145
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 1750, 1773
+  size: 263, 273
+  orig: 263, 273
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 1026, 932
+  size: 335, 437
+  orig: 335, 437
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 198, 44
+  size: 159, 223
+  orig: 159, 223
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 2015, 1949
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 579, 150
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 682, 192
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1347, 558
+  size: 148, 209
+  orig: 148, 209
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 513, 54
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+hair_1_10
+  rotate: false
+  xy: 1811, 571
+  size: 96, 187
+  orig: 96, 187
+  offset: 0, 0
+  index: -1
+hair_1_11
+  rotate: true
+  xy: 359, 41
+  size: 226, 152
+  orig: 226, 152
+  offset: 0, 0
+  index: -1
+hair_1_12
+  rotate: false
+  xy: 983, 285
+  size: 200, 71
+  orig: 200, 71
+  offset: 0, 0
+  index: -1
+hair_1_13
+  rotate: true
+  xy: 1772, 949
+  size: 210, 122
+  orig: 210, 122
+  offset: 0, 0
+  index: -1
+hair_1_14
+  rotate: true
+  xy: 1446, 2
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+hair_1_15
+  rotate: true
+  xy: 1547, 940
+  size: 433, 223
+  orig: 433, 223
+  offset: 0, 0
+  index: -1
+hair_1_16
+  rotate: true
+  xy: 1273, 2
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 1446, 110
+  size: 72, 160
+  orig: 72, 160
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: true
+  xy: 1276, 272
+  size: 137, 203
+  orig: 137, 203
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: false
+  xy: 1184, 64
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: true
+  xy: 751, 171
+  size: 149, 160
+  orig: 149, 160
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: true
+  xy: 2, 2
+  size: 29, 109
+  orig: 29, 109
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: false
+  xy: 1109, 125
+  size: 73, 158
+  orig: 73, 158
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: false
+  xy: 513, 135
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+hair_1_9
+  rotate: false
+  xy: 913, 170
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: false
+  xy: 1276, 108
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: false
+  xy: 1497, 572
+  size: 171, 180
+  orig: 171, 180
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: true
+  xy: 1782, 760
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+jiandai_1
+  rotate: false
+  xy: 1363, 769
+  size: 182, 600
+  orig: 182, 600
+  offset: 0, 0
+  index: -1
+jiandai_2
+  rotate: false
+  xy: 1532, 1375
+  size: 276, 253
+  orig: 276, 253
+  offset: 0, 0
+  index: -1
+leg_inner_down_1
+  rotate: true
+  xy: 1002, 1767
+  size: 279, 746
+  orig: 279, 746
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: true
+  xy: 751, 322
+  size: 478, 230
+  orig: 478, 230
+  offset: 0, 0
+  index: -1
+leg_out_down_1
+  rotate: false
+  xy: 493, 802
+  size: 267, 533
+  orig: 267, 533
+  offset: 0, 0
+  index: -1
+leg_out_up 2
+  rotate: false
+  xy: 762, 815
+  size: 262, 520
+  orig: 262, 520
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 493, 755
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 493, 707
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1185, 225
+  size: 89, 131
+  orig: 89, 131
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: true
+  xy: 198, 269
+  size: 435, 337
+  orig: 435, 337
+  offset: 0, 0
+  index: -1
+pifeng_10
+  rotate: true
+  xy: 1026, 561
+  size: 369, 319
+  orig: 369, 319
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: false
+  xy: 579, 179
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 1772, 1161
+  size: 212, 103
+  orig: 212, 103
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: false
+  xy: 968, 155
+  size: 139, 128
+  orig: 139, 128
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1002, 1371
+  size: 528, 257
+  orig: 528, 257
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: false
+  xy: 1002, 1630
+  size: 741, 135
+  orig: 741, 135
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: false
+  xy: 198, 706
+  size: 293, 1340
+  orig: 293, 1340
+  offset: 0, 0
+  index: -1
+pifeng_8
+  rotate: false
+  xy: 493, 1337
+  size: 507, 709
+  orig: 507, 709
+  offset: 0, 0
+  index: -1
+pifeng_9
+  rotate: true
+  xy: 537, 291
+  size: 509, 212
+  orig: 509, 212
+  offset: 0, 0
+  index: -1
+small_pifeng_1
+  rotate: true
+  xy: 1387, 14
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+small_pifeng_3
+  rotate: true
+  xy: 711, 239
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 218
+  size: 194, 1828
+  orig: 194, 1828
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 2, 33
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+Rozalia_Cutscene.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1904, 1648
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1170, 1313
+  size: 175, 189
+  orig: 175, 189
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 677, 736
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 996, 954
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 1347, 1313
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 1538, 1700
+  size: 344, 332
+  orig: 344, 332
+  offset: 0, 0
+  index: -1
+chest_1
+  rotate: false
+  xy: 1884, 1748
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+chest_2
+  rotate: false
+  xy: 996, 1066
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1170, 1227
+  size: 137, 84
+  orig: 137, 84
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1681, 1399
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 906, 824
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1489, 1487
+  size: 211, 222
+  orig: 211, 222
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1911, 1418
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 845, 728
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 2, 1508
+  size: 705, 524
+  orig: 705, 524
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 709, 1639
+  size: 405, 393
+  orig: 405, 393
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: false
+  xy: 370, 587
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+hair_14
+  rotate: true
+  xy: 677, 847
+  size: 342, 227
+  orig: 342, 227
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 257, 655
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 448, 644
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 229, 583
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 895, 743
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1904, 1498
+  size: 148, 129
+  orig: 148, 129
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1911, 1355
+  size: 61, 116
+  orig: 61, 116
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1347, 1343
+  size: 159, 139
+  orig: 159, 139
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 610, 637
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: true
+  xy: 1634, 1348
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+hand_inner_2
+  rotate: false
+  xy: 1819, 1375
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+hand_inner_3
+  rotate: false
+  xy: 229, 468
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: true
+  xy: 357, 655
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: true
+  xy: 1374, 1237
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+jiangjia_inner_1
+  rotate: false
+  xy: 1884, 1880
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+jiangjia_inner_2
+  rotate: false
+  xy: 301, 583
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+jiangjia_inner_3
+  rotate: false
+  xy: 229, 512
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 1713, 1485
+  size: 189, 213
+  orig: 189, 213
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 1488, 1308
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+leg_inner_down_1
+  rotate: true
+  xy: 650, 1191
+  size: 262, 353
+  orig: 262, 353
+  offset: 0, 0
+  index: -1
+leg_inner_down_2
+  rotate: false
+  xy: 906, 960
+  size: 88, 229
+  orig: 88, 229
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 2, 689
+  size: 253, 492
+  orig: 253, 492
+  offset: 0, 0
+  index: -1
+leg_out_down_1
+  rotate: false
+  xy: 2, 2
+  size: 245, 192
+  orig: 245, 192
+  offset: 0, 0
+  index: -1
+leg_out_down_2
+  rotate: true
+  xy: 1488, 1413
+  size: 72, 191
+  orig: 72, 191
+  offset: 0, 0
+  index: -1
+leg_out_down_3
+  rotate: false
+  xy: 771, 676
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 2, 196
+  size: 225, 491
+  orig: 225, 491
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: true
+  xy: 1426, 1313
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_2
+  rotate: false
+  xy: 1116, 1715
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1309, 1234
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+qun_1
+  rotate: true
+  xy: 257, 728
+  size: 453, 260
+  orig: 453, 260
+  offset: 0, 0
+  index: -1
+qun_2
+  rotate: true
+  xy: 519, 729
+  size: 452, 156
+  orig: 452, 156
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 1183
+  size: 646, 323
+  orig: 646, 323
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 678, 670
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+yaodai_1
+  rotate: false
+  xy: 519, 653
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+yaodai_2
+  rotate: false
+  xy: 994, 837
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+yaodai_3
+  rotate: false
+  xy: 650, 1468
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+yaojia _1
+  rotate: true
+  xy: 1005, 1262
+  size: 191, 163
+  orig: 191, 163
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: true
+  xy: 709, 1455
+  size: 182, 438
+  orig: 182, 438
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: true
+  xy: 1116, 1733
+  size: 299, 420
+  orig: 299, 420
+  offset: 0, 0
+  index: -1
+yaojia_4
+  rotate: true
+  xy: 1149, 1504
+  size: 227, 338
+  orig: 227, 338
+  offset: 0, 0
+  index: -1
+yaojia_5
+  rotate: false
+  xy: 1005, 1185
+  size: 156, 75
+  orig: 156, 75
+  offset: 0, 0
+  index: -1
